@@ -8,7 +8,7 @@ excerpt: '本文总结了清华大学工程施工 BIM 应用技术架构、实�
 date: 2012-07-15
 venue: '施工技术'
 paperurl: 'https://linjiarui.net/files/2012-07-15-bim-application-in-construction.pdf'
-citation: '张建平*, 李丁, 林佳瑞, 颜钢文. (2012). &quot;BIM在工程施工中的应用&quot; <i>施工技术</i>. 41(16): 10-17.'
+citation: '张建平*, 李丁, 林佳瑞, 颜钢文. (2012). BIM在工程施工中的应用. <i>施工技术</i>, 41(16), 10-17.'
 
 comment: true
 category: journal
@@ -33,5 +33,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2012-07-15-bim-application-in-construction.pdf)
 
 本文位于本期刊CNKI下载及被引榜单第一位，详见[链接]({{ site.baseurl }}/posts/2020-03-03-some-our-papers-are-cnki-most-downloaded-papers)。
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

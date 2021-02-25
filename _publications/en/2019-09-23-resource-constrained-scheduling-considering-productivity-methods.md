@@ -1,5 +1,5 @@
 ---
-title: "Resource-constrained project scheduling problem considering productivity and construction methods"
+title: "Resource-Constrained Project Scheduling Problem Considering Productivity and Construction Methods"
 lang: en
 ref: publications/2019-09-23-resource-constrained-scheduling-considering-productivity-methods
 collection: publications
@@ -9,7 +9,7 @@ date: 2019-09-23
 venue: 'Journal of Tsinghua University (Science & Technology)'
 doi: '10.16511/j.cnki.qhdxxb.2019.21.035'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2019.21.035'
-citation: 'Wang, H., Lin, J.*, and Zhang, J. (2020). &quot;Resource-constrained project scheduling problem considering productivity and construction methods&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 60(3): 271-277. doi: 10.16511/j.cnki.qhdxxb.2019.21.035'
+citation: 'Wang, H., Lin, J.*, Zhang, J. (2020). Resource-Constrained Project Scheduling Problem Considering Productivity and Construction Methods. <i>Journal of Tsinghua University (Science & Technology)</i>, 60(3), 271-277. doi: 10.16511/j.cnki.qhdxxb.2019.21.035'
 
 comment: true
 category: journal
@@ -37,5 +37,3 @@ The multimode resource-constrained project scheduling problem (MRCPSP) is an ess
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.16511/j.cnki.qhdxxb.2019.21.035)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2019-09-23-resource-constrained-scheduling-considering-productivity-methods.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

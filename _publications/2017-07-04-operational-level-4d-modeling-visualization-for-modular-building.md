@@ -9,7 +9,7 @@ date: 2017-07-04
 venue: '2017 Lean & Computing in Construction Congress (LC3)'
 doi: '10.24928/jc3-2017/0287'
 paperurl: 'http://itc.scix.net/cgi-bin/works/Show?_id=lc3-2017-287'
-citation: 'Wang, H., Lin, J.* and Zhang, J. (2017). &quot; Operation-level 4D Modeling and Visualization for Modular Building based on Standard Activity Library&quot; <i>in LC3 2017: Proceedings of the Joint Conference on Computing in Construction (JC3)</i>. 841-848. Heraklion, Crete, Greece. https://doi.org/10.24928/JC3-2017/0287'
+citation: 'Wang, H., Lin, J.*, Zhang, J. (2017). Operation-level 4D Modeling and Visualization for Modular Building based on Standard Activity Library. <i>LC3 2017: Proceedings of the Joint Conference on Computing in Construction (JC3)</i>, 841-848. Heraklion, Crete, Greece. https://doi.org/10.24928/JC3-2017/0287'
 
 comment: true
 category: conference
@@ -36,5 +36,3 @@ Safety monitoring remains a challenging issue in engineering construction althou
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2017-07-04-operational-level-4d-modeling-visualization-for-modular-building.pdf)
 
 [{{site.data.ui-text[page.lang].download_paper}}](http://itc.scix.net/cgi-bin/works/Show?_id=lc3-2017-287)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

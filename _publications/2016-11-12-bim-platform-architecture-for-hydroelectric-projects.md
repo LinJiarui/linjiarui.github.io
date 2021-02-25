@@ -8,7 +8,7 @@ excerpt: '本文面向水电工程全生命期管理，提出融合 BIM、云计
 date: 2016-11-12
 venue: '第二届全国 BIM 学术会议'
 paperurl: 'https://linjiarui.net/files/2016-11-12-bim-platform-architecture-for-hydroelectric-projects.pdf'
-citation: '张志伟, 文桥, 张云翼, 冯奕, 林佳瑞*, 张建平 (2016). &quot;基于 BIM 的水电工程全生命期管理平台架构研究&quot; <i>第二届全国 BIM 学术会议论文集</i>. 190-194. 中国建筑工业出版社. 中国, 广州.'
+citation: '张志伟, 文桥, 张云翼, 冯奕, 林佳瑞*, 张建平. (2016). 基于 BIM 的水电工程全生命期管理平台架构研究. <i>第二届全国 BIM 学术会议论文集</i>, 190-194. 中国建筑工业出版社. 中国, 广州.'
 
 comment: true
 category: conference
@@ -34,5 +34,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2016&filename=JGCB201611001034&v=MTc0NTg5dkh5bmxVNzNJSlY4Vkx5ckliTEc0SDlmTnJvOUZaZXNNQ0JOS3VoZGhuajk4VG5qcXF4ZEVlTU9VS3JpZlp1)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2016-11-12-bim-platform-architecture-for-hydroelectric-projects.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

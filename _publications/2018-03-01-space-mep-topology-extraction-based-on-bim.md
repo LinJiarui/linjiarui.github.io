@@ -9,7 +9,7 @@ date: 2018-03-01
 venue: '清华大学学报 (自然科学版)'
 doi: '10.16511/j.cnki.qhdxxb.2018.26.018'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2018.26.018'
-citation: '张建平, 何田丰, 林佳瑞*, 等. (2018). &quot;基于 BIM 的建筑空间与设备拓扑信息提取及应用&quot; <i>清华大学学报 (自然科学版)</i>. 58(6): 587-592. doi: 10.16511/j.cnki.qhdxxb.2018.26.018'
+citation: '张建平, 何田丰, 林佳瑞*, 等. (2018). 基于 BIM 的建筑空间与设备拓扑信息提取及应用. <i>清华大学学报 (自然科学版)</i>, 58(6), 587-592. doi: 10.16511/j.cnki.qhdxxb.2018.26.018'
 
 comment: true
 category: journal
@@ -37,8 +37,6 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.16511/j.cnki.qhdxxb.2018.26.018)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2018-03-01-space-mep-topology-extraction-based-on-bim.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 Funding：国家重点研发计划项目; 中国博士后科学基金资助项目; 中国科协青年人才托举工程项目
 

@@ -1,5 +1,5 @@
 ---
-title: "Semantic classification and hash code accelerated detection of design changes in BIM models"
+title: "Semantic Classification and Hash Code Accelerated Detection of Design Changes in BIM Models"
 lang: zh
 ref: publications/2020-04-08-semantic-classification-and-detection-of-design-changes
 collection: publications
@@ -9,7 +9,7 @@ date: 2020-04-08
 venue: 'Automation in Construction'
 doi: '10.1016/j.autcon.2020.103212'
 paperurl: 'http://doi.org/10.1016/j.autcon.2020.103212'
-citation: 'Lin, J.R.*, and Zhou, Y.C. (2020). &quot;Semantic classification and hash code accelerated detection of design changes in BIM models&quot; <i>Automation in Construction</i>. 115: 103212. doi: 10.1016/j.autcon.2020.103212'
+citation: 'Lin, J.R.*, Zhou, Y.C. (2020). Semantic Classification and Hash Code Accelerated Detection of Design Changes in BIM Models. <i>Automation in Construction</i>, 115, 103212. doi: 10.1016/j.autcon.2020.103212'
 
 comment: true
 category: journal
@@ -41,8 +41,6 @@ As the design process of a building or infrastructure is complex with iterative 
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.1016/j.autcon.2020.103212)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-04-08-semantic-classification-and-detection-of-design-changes.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This research was funded by the Beijing Natural Science Foundation (No. 8194067), the Natural Science Foundation of China (No. 51908323) , the National Key R&D Program of China (No. 2018YFD1100900) and the Tsinghua University Initiative Scientific Research Program (No. 2019Z02UOT).
 

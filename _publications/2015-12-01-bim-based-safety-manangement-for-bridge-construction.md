@@ -9,7 +9,7 @@ date: 2015-12-01
 venue: '铁路技术创新'
 doi: '10.19550/j.issn.1672-061x.2015.06.016'
 paperurl: 'http://doi.org/10.19550/j.issn.1672-061x.2015.06.016'
-citation: '张晓洋, 林佳瑞*, 方继, 杜伸云, 胡振中, 张建平, 梁崇双 (2015). &quot;BIM 技术在石济黄河桥施工安全管理中的应用&quot; <i>铁路技术创新</i>. 6: 74-76. doi: 10.19550/j.issn.1672-061x.2015.06.016'
+citation: '张晓洋, 林佳瑞*, 方继, 杜伸云, 胡振中, 张建平, 梁崇双. (2015). BIM 技术在石济黄河桥施工安全管理中的应用. <i>铁路技术创新</i>, 6, 74-76. doi: 10.19550/j.issn.1672-061x.2015.06.016'
 
 comment: true
 category: journal
@@ -36,5 +36,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.19550/j.issn.1672-061x.2015.06.016)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2015-12-01-bim-based-safety-manangement-for-bridge-construction.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

@@ -8,7 +8,7 @@ excerpt: '本研究提出基于 BIM 的火灾信息扩展及仿真方法'
 date: 2017-11-04
 venue: '第三届全国 BIM 学术会议'
 paperurl: 'https://linjiarui.net/files/2017-11-04-bim-based-fire-simulation.pdf'
-citation: '冷烁, 林佳瑞*, 何田丰, 张建平 (2017). &quot;基于 BIM 的火灾仿真模拟研究&quot; <i>第三届全国 BIM 学术会议论文集</i>. 366-371. 中国建筑工业出版社. 中国, 上海.'
+citation: '冷烁, 林佳瑞*, 何田丰, 张建平. (2017). 基于 BIM 的火灾仿真模拟研究. <i>第三届全国 BIM 学术会议论文集</i>, 366-371. 中国建筑工业出版社. 中国, 上海.'
 
 comment: true
 category: conference
@@ -34,5 +34,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2018&filename=JGCB201711001065&v=MTc0NzJMeXJJYkxHNEg5Yk5ybzlGWmVzSkNSTkt1aGRobmo5OFRuanFxeGRFZU1PVUtyaWZadTl2SHlubFU3ek1JMXdk)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2017-11-04-bim-based-fire-simulation.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

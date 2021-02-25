@@ -8,7 +8,7 @@ excerpt: '本研究针对企业多级多项目协同、管理需求，提出企�
 date: 2016-11-12
 venue: '第二届全国 BIM 学术会议'
 paperurl: 'https://linjiarui.net/files/2016-11-12-bim-platform-architecture-for-companies.pdf'
-citation: '林佳瑞*, 杨铭, 周一, 张云翼, 张晓洋, 张建平 (2016). &quot;企业 BIM 平台架构研究与设计&quot; <i>第二届全国 BIM 学术会议论文集</i>. 195-199. 中国建筑工业出版社. 中国, 广州.'
+citation: '林佳瑞*, 杨铭, 周一, 张云翼, 张晓洋, 张建平. (2016). 企业 BIM 平台架构研究与设计. <i>第二届全国 BIM 学术会议论文集</i>, 195-199. 中国建筑工业出版社. 中国, 广州.'
 
 comment: true
 category: conference
@@ -36,5 +36,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2016&filename=JGCB201611001035&v=MTI1NDNSTHlySWJMRzRIOWZOcm85Rlplc01DUk5LdWhkaG5qOThUbmpxcXhkRWVNT1VLcmlmWnU5dkh5bmxVNzNKSkZv)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2016-11-12-bim-platform-architecture-for-companies.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

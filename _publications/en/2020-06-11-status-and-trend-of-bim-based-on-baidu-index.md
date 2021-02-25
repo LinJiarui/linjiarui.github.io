@@ -8,7 +8,7 @@ excerpt: 'By analyzing baidu search index of BIM from 2011 to 2019, it is conclu
 date: 2020-06-11
 venue: 'Construction Technology'
 paperurl: 'http://dx.chinadoi.cn/10.7672/sgjs2020090096'
-citation: 'Lin, J.R.*, and Cheng, G.F. (2020). &quot;Current Status and Trends of BIM in China based on Big Data and Search Engine&quot; <i>Construction Technology</i>. 49(9): 96-99. doi: 10.7672/sgjs2020090096'
+citation: 'Lin, J.R.*, Cheng, G.F. (2020). Current Status and Trends of BIM in China based on Big Data and Search Engine. <i>Construction Technology</i>, 49(9), 96-99. doi: 10.7672/sgjs2020090096'
 
 comment: true
 category: journal
@@ -39,7 +39,5 @@ With research and development of about 20 years, building information modeling (
 [{{site.data.ui-text[page.lang].download_paper}}]({{page.paperurl}})
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-06-11-status-and-trend-of-bim-based-on-baidu-index.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This research is supported by the National Key R&D Program of China (No. 2018YFD1100900), the National Science Foundation of China (No.51908323), the Beijing National Science Foundation (No.8194067), and the Tsinghua University Initiative Scientific Research Program (No.2019Z02UOT).

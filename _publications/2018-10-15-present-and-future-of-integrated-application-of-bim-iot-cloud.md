@@ -9,7 +9,7 @@ date: 2018-10-15
 venue: '图学学报'
 doi: '10.11996/JG.j.2095-302X.2018050806'
 paperurl: 'http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2018050806'
-citation: '张云翼, 林佳瑞*, 张建平. (2018). &quot;BIM 与云、大数据、物联网等技术的集成应用现状与未来&quot; <i>图学学报</i>. 39(5): 806-816. doi: 10.11996/JG.j.2095-302X.2018050806'
+citation: '张云翼, 林佳瑞*, 张建平. (2018). BIM 与云、大数据、物联网等技术的集成应用现状与未来. <i>图学学报</i>, 39(5), 806-816. doi: 10.11996/JG.j.2095-302X.2018050806'
 
 comment: true
 category: journal
@@ -39,8 +39,6 @@ grants:
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud.pdf)
 
 本文于2020年1月获得图学学报2017-2018年度优秀论文， 详见[链接]({{ site.baseurl }}/posts/2020-03-03-our-paper-is-selected-as-best-paper-of-JoG)，并处于本期刊CNKI下载榜单第18位，详见[链接]({{ site.baseurl }}/posts/2020-03-03-some-our-papers-are-cnki-most-downloaded-papers)。
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 Funding：国家重点研发计划项目; 中国科学技术协会; 清华大学(土水学院)-广联达BIM联合研究中心项目
 

@@ -1,5 +1,5 @@
 ---
-title: "A multi-server information-sharing environment for cross-party collaboration on a private cloud"
+title: "A Multi-Server Information-Sharing Environment for Cross-Party Collaboration on a Private Cloud"
 lang: zh
 ref: publications/2017-06-12-cross-party-collaboration-on-private-cloud
 collection: publications
@@ -9,7 +9,7 @@ date: 2017-06-12
 venue: 'Automation in Construction'
 doi: '10.1016/j.autcon.2017.06.021'
 paperurl: 'https://doi.org/10.1016/j.autcon.2017.06.021'
-citation: 'Zhang, J., Liu, Q., Hu, Z., Lin, J.* and Yu, F. (2017). &quot;A multi-server information-sharing environment for cross-party collaboration on a private cloud&quot; <i>Automation in Construction</i>. 81: 180-195. doi: 10.1016/j.autcon.2017.06.021'
+citation: 'Zhang, J., Liu, Q., Hu, Z., Lin, J.*, Yu, F. (2017). A Multi-Server Information-Sharing Environment for Cross-Party Collaboration on a Private Cloud. <i>Automation in Construction</i>, 81, 180-195. doi: 10.1016/j.autcon.2017.06.021'
 
 comment: true
 category: journal
@@ -38,8 +38,6 @@ Interoperability remains the key problem in multi-discipline collaboration based
 [{{site.data.ui-text[page.lang].download_paper}}](https://www.sciencedirect.com/science/article/pii/S0926580517302042)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2017-06-12-cross-party-collaboration-on-private-cloud.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This work was supported by the National Natural Science Foundation of China (No. 51278274, No. 51478249), the Beijing Municipal Science and Technology Project (No. Z151100002115054), and the Tsinghua-Glodon Joint Research Center for Building Information Model (RCBIM). The authors also thank Kincho H. Law (Stanford University) for his valuable comments and contributions.
 

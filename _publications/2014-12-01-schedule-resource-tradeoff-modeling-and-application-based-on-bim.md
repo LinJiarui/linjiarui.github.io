@@ -9,7 +9,7 @@ date: 2014-12-01
 venue: '土木建筑工程信息技术'
 doi: '10.16670/j.cnki.cn11-5823/tu.2014.06.009'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2014.06.009'
-citation: '林佳瑞*, 张建平, 钟耀锋 (2014). &quot;基于 4D-BIM 的施工进度-资源均衡模型自动构建与应用&quot; <i>土木建筑工程信息技术</i>. 6(6): 44-49. doi: 10.16670/j.cnki.cn11-5823/tu.2014.06.009'
+citation: '林佳瑞*, 张建平, 钟耀锋. (2014). 基于 4D-BIM 的施工进度-资源均衡模型自动构建与应用. <i>土木建筑工程信息技术</i>, 6(6), 44-49. doi: 10.16670/j.cnki.cn11-5823/tu.2014.06.009'
 
 comment: true
 category: journal
@@ -36,5 +36,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.16670/j.cnki.cn11-5823/tu.2014.06.009)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

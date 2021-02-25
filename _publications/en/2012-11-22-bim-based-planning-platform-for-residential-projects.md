@@ -8,7 +8,7 @@ excerpt: 'This paper proposes a BIM- and 4D-based planning and evaluation method
 date: 2012-11-22
 venue: 'the 16th National Conference of Computer Application in Civil Engineering'
 paperurl: 'https://linjiarui.net/files/2012-11-22-bim-based-planning-platform-for-residential-projects.pdf'
-citation: 'Lin, J.*, Zhang, J., He, T., Jia, W., Wu, Z. (2012). &quot;Research and Development of BIM-based Housing Project Planning System&quot; <i>in Proceedings of the 16th National Conference of Computer Application in Civil Engineering</i>. 355-362. China Civil Engineering Society. Guangzhou, China. (in Chinese)'
+citation: 'Lin, J.*, Zhang, J., He, T., Jia, W., Wu, Z. (2012). Research and Development of BIM-based Housing Project Planning System. <i>Proceedings of the 16th National Conference of Computer Application in Civil Engineering</i>, 355-362. China Civil Engineering Society. Guangzhou, China. (in Chinese)'
 
 comment: true
 category: conference
@@ -34,5 +34,3 @@ According to the actual demand of housing project，by integrating BIM and 4D te
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2012-11-22-bim-based-planning-platform-for-residential-projects.pdf)
 
 This paper is also published in [Journal of Information Technology in Civil Engineering and Architecture]({{ site.baseurl }}/en/publication/2013-02-01-bim-based-planning-platform-for-residential-projects).
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

@@ -8,7 +8,7 @@ excerpt: 'The time-varying reliability of each pipe and the upper and lower boun
 date: 2020-11-07
 venue: 'The 11th National Conference on Structural Design Basis and Reliability'
 paperurl: 'https://linjiarui.net/files/2020-11-06-reliability-of-apartment-pipeline-network-of-tsinghua.pdf'
-citation: 'Zheng, Y.D., Zhang, Y., and Lin, J.R. (2020). &quot;Study on the Reliability of Apartment Network System in Tsinghua University&quot; <i>Proceedings of the 11th National Conference on Structural Design Basis and Reliability</i>. 107-121. Wuhan University of Technology Press. Wuhan, China.'
+citation: 'Zheng, Y.D., Zhang, Y., Lin, J.R. (2020). Study on the Reliability of Apartment Network System in Tsinghua University. <i>Proceedings of the 11th National Conference on Structural Design Basis and Reliability</i>, 107-121. Wuhan University of Technology Press. Wuhan, China.'
 
 comment: true
 category: conference
@@ -37,5 +37,3 @@ We won the best paper award in this conference.
 [{{site.data.ui-text[page.lang].download_paper}}](https://linjiarui.net/files/2020-11-06-reliability-of-apartment-pipeline-network-of-tsinghua.pdf)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-11-06-reliability-of-apartment-pipeline-network-of-tsinghua-preprint.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

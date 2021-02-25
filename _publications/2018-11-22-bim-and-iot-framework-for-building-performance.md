@@ -1,5 +1,5 @@
 ---
-title: "BIM- and IoT-based monitoring framework for building performance management"
+title: "BIM- and IoT-based Monitoring Framework for Building Performance Management"
 lang: zh
 ref: publications/2018-11-22-bim-and-iot-framework-for-building-performance
 collection: publications
@@ -9,7 +9,7 @@ date: 2018-11-22
 venue: 'Journal of Structural Integrity and Maintenance'
 doi: '10.1080/24705314.2018.1536318'
 paperurl: 'https://doi.org/10.1080/24705314.2018.1536318'
-citation: 'Kang, K., Lin, J.* and Zhang, J. (2018). &quot;BIM- and IoT-based monitoring framework for building performance management&quot; <i>Journal of Structural Integrity and Maintenance</i>. 3(4): 254-261. doi: 10.1080/24705314.2018.1536318'
+citation: 'Kang, K., Lin, J.*, Zhang, J. (2018). BIM- and IoT-based Monitoring Framework for Building Performance Management. <i>Journal of Structural Integrity and Maintenance</i>, 3(4), 254-261. doi: 10.1080/24705314.2018.1536318'
 
 comment: true
 category: journal
@@ -35,8 +35,6 @@ During the operation and maintenance period of buildings, a monitoring system es
 [{{site.data.ui-text[page.lang].download_paper}}](https://doi.org/10.1080/24705314.2018.1536318)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2018-11-22-bim-and-iot-framework-for-building-performance.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This work was supported by the National Key R&D Program of China [2017YFC0704200] and Young Elite Scientists Sponsorship Program by CAST [QNRC2016001].
 

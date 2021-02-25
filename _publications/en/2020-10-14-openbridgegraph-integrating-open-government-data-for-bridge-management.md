@@ -9,7 +9,7 @@ date: 2020-10-14
 venue: '2020 Proceedings of the 37th ISARC'
 doi: '10.22260/ISARC2020/0172'
 paperurl: 'https://doi.org/10.22260/ISARC2020/0172'
-citation: 'Lin, J.R.* (2020). &quot;OpenBridgeGraph: Integrating Open Government Data for Bridge Management&quot; <i>2020 Proceedings of the 37th ISARC</i>. 1255-1262. Kitakyshu, Japan. doi: 10.22260/ISARC2020/0172'
+citation: 'Lin, J.R.* (2020). OpenBridgeGraph: Integrating Open Government Data for Bridge Management. <i>2020 Proceedings of the 37th ISARC</i>, 1255-1262. Kitakyshu, Japan. doi: 10.22260/ISARC2020/0172'
 
 comment: true
 category: conference
@@ -40,7 +40,5 @@ Due to limited funds, road authorities around the world are facing challenges re
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-10-14-openbridgegraph-integrating-open-government-data-for-bridge-management.pdf)
 
 [Download Source Code](https://github.com/smartaec/OpenBridgeGraph)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This research is supported by the Tsinghua University Initiative Scientific Research Program (No.2019Z02UOT), the Natural Science Foundation of China (No. 51908323), and the Beijing Natural Science Foundation (No. 8194067). The author also thanks Prof. Kincho Law (Stanford University) for his valuable comments.

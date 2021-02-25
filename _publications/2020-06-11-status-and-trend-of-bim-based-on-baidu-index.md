@@ -8,7 +8,7 @@ excerpt: '本研究通过分析2011-2019共10年间BIM百度搜索指数的时�
 date: 2020-06-11
 venue: '施工技术'
 paperurl: 'http://dx.chinadoi.cn/10.7672/sgjs2020090096'
-citation: '林佳瑞*, 陈广峰. (2020). &quot;基于搜索大数据的 BIM 发展现状与趋势分析&quot; <i>施工技术</i>. 49(9): 96-99. doi: 10.7672/sgjs2020090096'
+citation: '林佳瑞*, 陈广峰. (2020). 基于搜索大数据的 BIM 发展现状与趋势分析. <i>施工技术</i>, 49(9), 96-99. doi: 10.7672/sgjs2020090096'
 
 comment: true
 category: journal
@@ -39,7 +39,5 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}]({{page.paperurl}})
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-06-11-status-and-trend-of-bim-based-on-baidu-index.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 本研究承蒙国家重点研发计划项目（2018YFD1100900）、国家自然科学基金（51908323）、北京市自然科学基金（8194067）及清华大学自主科研计划（2019Z02UOT）资助，特此感谢。 

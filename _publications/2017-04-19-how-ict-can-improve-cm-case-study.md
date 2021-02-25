@@ -8,7 +8,7 @@ excerpt: '本研究结合腾讯北京总部大厦案例分析了如何通过信�
 date: 2017-04-19
 venue: '3rd International Conference on Civil and Building Engineering Informatics & 2017 Conference on Computer Applications in Civil and Hydraulic Engineering'
 paperurl: 'https://linjiarui.net/files/2017-04-19-how-ict-can-improve-cm-case-study.pdf'
-citation: 'Zhang, Y., Lin, J.*, Zhang J. Fang, D. and Hu, Z. (2017). &quot;How Information Technology Can Improve Construction Management for General Contractor: A Case Study&quot; <i>in Proceedings of the 3rd International Conference on Civil and Building Engineering Informatics & 2017 Conference on Computer Applications in Civil and Hydraulic Engineering (ICCBEI&CCACHE 2017)</i>. 22-25. Taipei, Taiwan.'
+citation: 'Zhang, Y., Lin, J.*, Zhang J. Fang, D., Hu, Z. (2017). How Information Technology Can Improve Construction Management for General Contractor: A Case Study. <i>Proceedings of the 3rd International Conference on Civil and Building Engineering Informatics & 2017 Conference on Computer Applications in Civil and Hydraulic Engineering (ICCBEI&CCACHE 2017)</i>, 22-25. Taipei, Taiwan.'
 
 comment: true
 category: conference
@@ -35,5 +35,3 @@ The project for case study is designed as a large public building located in Bei
 The paper also discusses the value and challenges appeared during the application of information technology in the case. Information technology application can result in resource and workload reduction, problem solving in advance and realizing precise management, thus improving construction management for general contractor. However, promoting information technology application can be challenging at first, given the management team is not familiar enough with the techniques. Countermeasures are proposed regarding the challenges and difficulties arose in the case.
 
 [{{site.data.ui-text[page.lang].download_paper}}]({{ site.baseurl }}/files/2017-04-19-how-ict-can-improve-cm-case-study.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

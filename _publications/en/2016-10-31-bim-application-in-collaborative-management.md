@@ -8,7 +8,7 @@ excerpt: 'This paper describes a detailed BIM application for collaboration of o
 date: 2016-10-31
 venue: '33rd CIB W78 International Conference on Information technology for Construction'
 paperurl: 'http://itc.scix.net/cgi-bin/works/Show?w78-2016-paper-020'
-citation: 'Wen, Q., Lin, J., Zhang, J.*, Wang, X. and Qiu, C. (2016). &quot;BIM Application in Owner and EPC Contractor Collaborative Management of a Large-Scale Public Building Project&quot; <i>in Proceedings of the 33rd CIB W78 International Conference on Information Technology for Construction</i>. Brisbane, Australia.'
+citation: 'Wen, Q., Lin, J., Zhang, J.*, Wang, X., Qiu, C. (2016). BIM Application in Owner and EPC Contractor Collaborative Management of a Large-Scale Public Building Project. <i>Proceedings of the 33rd CIB W78 International Conference on Information Technology for Construction</i>. Brisbane, Australia.'
 
 comment: true
 category: conference
@@ -35,5 +35,3 @@ This paper describes a detailed BIM application in a large-scale public building
 [{{site.data.ui-text[page.lang].download_paper}}]({{ site.baseurl }}/files/2016-10-31-bim-application-in-collaborative-management.pdf)
 
 [{{site.data.ui-text[page.lang].download_paper}}](http://itc.scix.net/cgi-bin/works/Show?w78-2016-paper-020)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

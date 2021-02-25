@@ -8,7 +8,7 @@ excerpt: 'This chapter summarizes the features, system architecture, key technol
 date: 2019-06-29
 venue: 'Report on the Application of ICTs in the Construction Area of China: Developments and Applications in Modular Construction'
 paperurl: ''
-citation: 'Lin, J.R., Wang, C.Y., Zhou, C., Zhang, J.P., et al. (2019). &quot;Lifecycle Management of Modular Buildings based on Information and communication Technologies&quot; <i>Report on the Application of ICTs in the Construction Area of China: Developments and Applications in Modular Construction</i>. 287-320. China Electric Power Press. Beijing, China.'
+citation: 'Lin, J.R., Wang, C.Y., Zhou, C., Zhang, J.P., et al. (2019). Lifecycle Management of Modular Buildings based on Information and communication Technologies. <i>Report on the Application of ICTs in the Construction Area of China: Developments and Applications in Modular Construction</i>, 287-320. China Electric Power Press. Beijing, China.'
 
 comment: true
 category: chapter
@@ -28,5 +28,3 @@ tags:
 ====
 
 
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

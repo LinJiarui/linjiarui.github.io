@@ -9,7 +9,7 @@ date: 2018-04-19
 venue: 'Journal of Computing in Civil Engineering'
 doi: '10.1061/%28ASCE%29CP.1943-5487.0000774'
 paperurl: 'https://ascelibrary.org/doi/10.1061/%28ASCE%29CP.1943-5487.0000774'
-citation: 'He, T., Zhang, J., Lin, J.* and Li, Y. (2018). &quot;Multiaspect Similarity Evaluation of BIM-Based Standard Dwelling Units for Residential Design&quot; <i>Journal of Computing in Civil Engineering</i>. 32(5): 04018032. doi: 10.1061/(ASCE)CP.1943-5487.0000774'
+citation: 'He, T., Zhang, J., Lin, J.*, Li, Y. (2018). Multiaspect Similarity Evaluation of BIM-Based Standard Dwelling Units for Residential Design. <i>Journal of Computing in Civil Engineering</i>, 32(5), 04018032. doi: 10.1061/(ASCE)CP.1943-5487.0000774'
 
 comment: true
 category: journal
@@ -39,8 +39,6 @@ The standard dwelling unit (SDU) has been adopted to standardize dwelling units 
 [{{site.data.ui-text[page.lang].download_paper}}](https://ascelibrary.org/doi/10.1061/%28ASCE%29CP.1943-5487.0000774)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2018-04-19-multi-aspect-similarity-evaluation-of-BIM.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 The authors are grateful for the support provided by the National High-Tech R&D Program of China (No. 2013AA041307), the National Natural Science Foundation of China (No. 51278274), the China Postdoctoral Science Foundation Grant (No. 2016M601038), and the Young Elite Scientists Sponsorship Program by the China Association for Science and Technology (CAST) (No. YESS20160122).
 

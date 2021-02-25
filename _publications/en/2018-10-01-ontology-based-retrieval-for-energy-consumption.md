@@ -9,7 +9,7 @@ date: 2018-10-01
 venue: 'Advances in Informatics and Computing in Civil and Construction Engineering'
 doi: '10.1007/978-3-030-00220-6_28'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-00220-6_28'
-citation: 'Xiao, Y., Hu, Z.*and  Lin, J. (2019). &quot;Ontology-Based Semantic Retrieval Method of Energy Consumption Management&quot; <i>in Advances in Informatics and Computing in Civil and Construction Engineering</i>. 231-238. Springer International Publishing. Chicago,Illinois, US.'
+citation: 'Xiao, Y., Hu, Z.*, Lin, J. (2019). Ontology-Based Semantic Retrieval Method of Energy Consumption Management. <i>Advances in Informatics and Computing in Civil and Construction Engineering</i>, 231-238. Springer International Publishing. Chicago,Illinois, US.'
 
 comment: true
 category: conference
@@ -36,8 +36,4 @@ A large number of different forms of energy consumption information are generate
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2018-10-01-ontology-based-retrieval-for-energy-consumption.pdf)
 
-Citation: Xiao, Y., Hu, Z.*and  Lin, J. (2019). &quot;Ontology-Based Semantic Retrieval Method of Energy Consumption Management&quot; <i>in Proceedings of the 33rd CIB W78 International Conference on Information technology for Construction</i>. 231-238. Chicago,Illinois, US.
-
 [{{site.data.ui-text[page.lang].download_paper}}](https://link.springer.com/chapter/10.1007/978-3-030-00220-6_28)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

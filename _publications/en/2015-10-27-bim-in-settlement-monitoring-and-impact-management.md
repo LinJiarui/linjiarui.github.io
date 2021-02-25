@@ -1,5 +1,5 @@
 ---
-title: "Leveraging BIM in settlement monitoring and impact management for subway excavation"
+title: "Leveraging BIM in Settlement Monitoring and Impact Management for Subway Excavation"
 lang: en
 ref: publications/2015-10-27-bim-in-settlement-monitoring-and-impact-management
 collection: publications
@@ -8,7 +8,7 @@ excerpt: 'This paper presents a BIM-based method for settlement monitoring and i
 date: 2015-10-27
 venue: '32nd CIB W78 International Conference on Information technology for Construction'
 paperurl: 'http://itc.scix.net/cgi-bin/works/Show?w78-2015-paper-049'
-citation: 'Lin, J.*, Zhang, J., Wen, Q. and Wang, F. (2015). &quot;Leveraging BIM in settlement monitoring and impact management for subway excavation&quot; <i>in Proceedings of the 32nd CIB W78 International Conference on Information Technology for Construction</i>. 469-477. Eindhoven, the Netherlands.'
+citation: 'Lin, J.*, Zhang, J., Wen, Q., Wang, F. (2015). Leveraging BIM in Settlement Monitoring and Impact Management for Subway Excavation. <i>Proceedings of the 32nd CIB W78 International Conference on Information Technology for Construction</i>, 469-477. Eindhoven, the Netherlands.'
 
 comment: true
 category: conference
@@ -38,5 +38,3 @@ Due to fast urbanization of the city, underground structures such as subways hav
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2015-10-27-bim-in-settlement-monitoring-and-impact-management.pdf)
 
 [{{site.data.ui-text[page.lang].download_paper}}](http://itc.scix.net/cgi-bin/works/Show?w78-2015-paper-049)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

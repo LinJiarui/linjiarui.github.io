@@ -9,7 +9,7 @@ date: 2014-12-01
 venue: 'Journal of Information Technology in Civil Engineering and Architecture'
 doi: '10.16670/j.cnki.cn11-5823/tu.2014.06.009'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2014.06.009'
-citation: 'Lin, J.*, Zhang, J., Zhong, Y. (2014). &quot;Schedule-resource Trade-off Modeling and Application based on 4D-BIM&quot; <i>Journal of Information Technology in Civil Engineering and Architecture</i>. 6(6): 44-49. doi: 10.16670/j.cnki.cn11-5823/tu.2014.06.009 (in Chinese)'
+citation: 'Lin, J.*, Zhang, J., Zhong, Y. (2014). Schedule-resource Trade-off Modeling and Application based on 4D-BIM. <i>Journal of Information Technology in Civil Engineering and Architecture</i>, 6(6), 44-49. doi: 10.16670/j.cnki.cn11-5823/tu.2014.06.009 (in Chinese)'
 
 comment: true
 category: journal
@@ -36,5 +36,3 @@ According to the key requirements in schedule and resource management during con
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.16670/j.cnki.cn11-5823/tu.2014.06.009)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

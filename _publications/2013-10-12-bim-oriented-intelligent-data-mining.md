@@ -1,5 +1,5 @@
 ---
-title: "BIM oriented intelligent data mining and representation"
+title: "BIM Oriented Intelligent Data Mining and Representation"
 lang: zh
 ref: publications/2013-10-12-bim-oriented-intelligent-data-mining
 collection: publications
@@ -8,7 +8,7 @@ excerpt: '本研究提出一种面向非专业人士的BIM数据快速查询与�
 date: 2013-10-12
 venue: '30th CIB W78 International Conference on Information technology for Construction'
 paperurl: 'http://itc.scix.net/cgi-bin/works/Show?w78-2013-paper-112'
-citation: 'Lin, J.*, Hu, Z. and Zhang, J. (2013). &quot;BIM oriented intelligent data mining and representation&quot; <i>in Proceedings of the 30th CIB W78 International Conference on Information Technology for Construction</i>. 280-289. Beijing, China.'
+citation: 'Lin, J.*, Hu, Z., Zhang, J. (2013). BIM Oriented Intelligent Data Mining and Representation. <i>Proceedings of the 30th CIB W78 International Conference on Information Technology for Construction</i>, 280-289. Beijing, China.'
 
 comment: true
 category: conference
@@ -41,5 +41,3 @@ Practical application results in construction management illustrates that with s
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2013-10-12-bim-oriented-intelligent-data-mining.pdf)
 
 [{{site.data.ui-text[page.lang].download_paper}}](http://itc.scix.net/cgi-bin/works/Show?w78-2013-paper-112)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

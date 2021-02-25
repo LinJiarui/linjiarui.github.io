@@ -8,7 +8,7 @@ excerpt: 'This paper proposes a integrated solution for schedule-resource tradeo
 date: 2014-11-14
 venue: 'the 17th National Conference on Computer Application in Civil Engineering'
 paperurl: 'https://linjiarui.net/files/2014-11-14-bim-des-based-schedule-resource-tradeoff.pdf'
-citation: 'Lin, J.*, Zhang, J., Zhong, Y. (2014). &quot;Schedule-Resource Trade-off Based on Construction Process Simulation and Simulated Annealing&quot; <i>in Proceedings of the 17th National Conference on Computer Application in Civil Engineering</i>. 41-46. China Civil Engineering Society. Beijing, China. (in Chinese)'
+citation: 'Lin, J.*, Zhang, J., Zhong, Y. (2014). Schedule-Resource Trade-off Based on Construction Process Simulation and Simulated Annealing. <i>Proceedings of the 17th National Conference on Computer Application in Civil Engineering</i>, 41-46. China Civil Engineering Society. Beijing, China. (in Chinese)'
 
 comment: true
 category: conference
@@ -39,5 +39,3 @@ According to the actual demand of management during construction, this paper res
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2014-11-14-bim-des-based-schedule-resource-tradeoff.pdf)
 
 Future work and publications can be found [here]({{ site.baseurl }}/en/publication/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim) and [here]({{ site.baseurl }}/en/publication/2016-04-25-simulation-model-generation-for-resource-allocation)。
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

@@ -8,7 +8,7 @@ excerpt: '本文提出 BIM 和 4D 技术相结合的住宅方案策划与分析�
 date: 2012-11-22
 venue: '第十六届全国工程建设计算机应用大会'
 paperurl: 'https://linjiarui.net/files/2012-11-22-bim-based-planning-platform-for-residential-projects.pdf'
-citation: '林佳瑞*, 张建平, 何田丰, 贾卫东, 吴峥 (2012). &quot;基于 BIM 的住宅项目策划系统研究与开发&quot; <i>第十六届全国工程建设计算机应用大会论文集</i>. 355-362. 中国土木工程学会. 中国, 广州.'
+citation: '林佳瑞*, 张建平, 何田丰, 贾卫东, 吴峥. (2012). 基于 BIM 的住宅项目策划系统研究与开发. <i>第十六届全国工程建设计算机应用大会论文集</i>, 355-362. 中国土木工程学会. 中国, 广州.'
 
 comment: true
 category: conference
@@ -34,5 +34,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2012-11-22-bim-based-planning-platform-for-residential-projects.pdf)
 
 本文同时收录于[土木建筑工程信息技术]({{ site.baseurl }}/publication/2013-02-01-bim-based-planning-platform-for-residential-projects)。
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

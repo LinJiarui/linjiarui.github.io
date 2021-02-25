@@ -8,7 +8,7 @@ excerpt: '本文针对桥梁钢构件生产，提出一种基于 BIM 和物联�
 date: 2016-11-12
 venue: '第二届全国 BIM 学术会议'
 paperurl: 'https://linjiarui.net/files/2016-11-12-bim-iot-based-material-management-for-bridges.pdf'
-citation: '何田丰, 姚发海, 林佳瑞*, 张建平, 陈辉 (2016). &quot;基于 BIM 与物联网的钢构桥梁跨平台物料管理方法研究&quot; <i>第二届全国 BIM 学术会议论文集</i>. 185-189. 中国建筑工业出版社. 中国, 广州.'
+citation: '何田丰, 姚发海, 林佳瑞*, 张建平, 陈辉. (2016). 基于 BIM 与物联网的钢构桥梁跨平台物料管理方法研究. <i>第二届全国 BIM 学术会议论文集</i>, 185-189. 中国建筑工业出版社. 中国, 广州.'
 
 comment: true
 category: conference
@@ -34,5 +34,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2016&filename=JGCB201611001033&v=MDQxMTNlc01EeE5LdWhkaG5qOThUbmpxcXhkRWVNT1VLcmlmWnU5dkh5bmxVNzNJSVY4U0x5ckliTEc0SDlmTnJvOUZa)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2016-11-12-bim-iot-based-material-management-for-bridges.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

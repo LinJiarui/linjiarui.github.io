@@ -1,5 +1,5 @@
 ---
-title: "A bibliometric review of visual computing in construction industry"
+title: "A Bibliometric Review of Visual Computing in Construction Industry"
 lang: en
 ref: publications/2020-04-15-bibliometric-review-of-visual-computing-in-construction-industry
 collection: publications
@@ -9,7 +9,7 @@ date: 2020-04-15
 venue: 'Visual Computing for Industry, Biomedicine, and Art'
 doi: '10.1186/s42492-020-00050-0'
 paperurl: 'http://doi.org/10.1186/s42492-020-00050-0'
-citation: 'Wang, H.W., Hu, Z.Z., and Lin, J.R.* (2020). &quot;A bibliometric review of visual computing in construction industry&quot; <i>Visual Computing for Industry, Biomedicine, and Art</i>. 3: 14. doi: 10.1186/s42492-020-00050-0'
+citation: 'Wang, H.W., Hu, Z.Z., Lin, J.R.* (2020). A Bibliometric Review of Visual Computing in Construction Industry. <i>Visual Computing for Industry, Biomedicine, and Art</i>, 3, 14. doi: 10.1186/s42492-020-00050-0'
 
 comment: true
 category: journal
@@ -39,7 +39,5 @@ In the construction are, visuals such as drawings, photos, videos, and 3D models
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.1186/s42492-020-00050-0)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-04-15-bibliometric-review-of-visual-computing-in-construction-industry.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This research was funded by the National Key R&D Program of China (No. 2018YFD1100900), the National Natural Science Foundation of China (No. 51778336, No. 51908323), the Tsinghua University Initiative Scientific Research Program (No. 2019Z02UOT) and the Tsinghua University-Glodon Joint Research Centre for Building Information Model (RCBIM).

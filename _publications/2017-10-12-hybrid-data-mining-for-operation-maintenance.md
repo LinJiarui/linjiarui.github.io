@@ -1,5 +1,5 @@
 ---
-title: "A hybrid data mining approach on BIM-based building operation and maintenance"
+title: "A Hybrid Data Mining Approach on BIM-based Building Operation and Maintenance"
 lang: zh
 ref: publications/2017-10-12-hybrid-data-mining-for-operation-maintenance
 collection: publications
@@ -9,7 +9,7 @@ date: 2017-10-12
 venue: 'Building and Environment'
 doi: '10.1016/j.buildenv.2017.09.030'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360132317304444'
-citation: 'Peng, Y., Lin, J., Zhang, J. and Hu, Z.* (2017). &quot;A hybrid data mining approach on BIM-based building operation and maintenance&quot; <i>Building and Environment</i>. 126: 483-495. doi: 10.1016/j.buildenv.2017.09.030'
+citation: 'Peng, Y., Lin, J., Zhang, J., Hu, Z.* (2017). A Hybrid Data Mining Approach on BIM-based Building Operation and Maintenance. <i>Building and Environment</i>, 126, 483-495. doi: 10.1016/j.buildenv.2017.09.030'
 
 comment: true
 category: journal
@@ -36,8 +36,6 @@ Huge amounts of data are generated daily during the operation and maintenance (O
 [{{site.data.ui-text[page.lang].download_paper}}](https://www.sciencedirect.com/science/article/pii/S0360132317304444)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2017-10-12-hybrid-data-mining-for-operation-maintenance.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This research was supported by the National Natural Science Foundation of China (No. 51478249 and No. 51778336) and the Tsinghua University-Glodon Joint Research Centre for Building Information Model (RCBIM). The authors would like to acknowledge the FM office of the Kunming Changshui Airport for providing the application case.
 

@@ -9,7 +9,7 @@ date: 2020-11-07
 venue: '第六届全国 BIM 学术会议'
 doi: 10.26914/c.cnkihy.2020.022309
 paperurl: 'https://linjiarui.net/files/2020-11-07-knowledge-graph-for-intelligent-regulations-such-as-fire-protection-code.pdf'
-citation: '林佳瑞*, 廖磐宇 (2020). &quot;面向法规智能的消防规范图谱构建及应用初探&quot; <i>第六届全国 BIM 学术会议论文集</i>. 74-78. 中国建筑工业出版社. 中国, 太原.'
+citation: '林佳瑞*, 廖磐宇. (2020). 面向法规智能的消防规范图谱构建及应用初探. <i>第六届全国 BIM 学术会议论文集</i>, 74-78. 中国建筑工业出版社. 中国, 太原.'
 
 comment: true
 category: conference
@@ -36,5 +36,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](https://doi.org/10.26914/c.cnkihy.2020.022309)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-11-07-knowledge-graph-for-intelligent-regulations-such-as-fire-protection-code.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

@@ -1,5 +1,5 @@
 ---
-title: "Building information modeling–based cyber-physical platform for building performance monitoring"
+title: "Building Information Modeling–based Cyber-Physical Platform for Building Performance Monitoring"
 lang: zh
 ref: publications/2020-02-20-BIM-based-CPS-for-building-performance-monitoring
 collection: publications
@@ -9,7 +9,7 @@ date: 2020-02-20
 venue: 'International Journal of Distributed Sensor Networks'
 doi: '10.1177/1550147720908170'
 paperurl: 'http://doi.org/10.1177/1550147720908170'
-citation: 'Zhang, Y.Y., Kang, K., Lin, J.R.*, Zhang, J.P., and Zhang, Y. (2020). &quot;Building information modeling–based cyber-physical platform for building performance monitoring&quot; <i>International Journal of Distributed Sensor Networks</i>. 16(2): 1-21. doi: 10.1177/1550147720908170'
+citation: 'Zhang, Y.Y., Kang, K., Lin, J.R.*, Zhang, J.P., Zhang, Y. (2020). Building Information Modeling–based Cyber-Physical Platform for Building Performance Monitoring. <i>International Journal of Distributed Sensor Networks</i>, 16(2), 1-21. doi: 10.1177/1550147720908170'
 
 comment: true
 category: journal
@@ -38,8 +38,6 @@ Building performance management requires massive data input; however, the releva
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.1177/1550147720908170)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-02-20-BIM-based-CPS-for-building-performance-monitoring.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This work was funded by the National Key R&D Program of China (grant no.: 2017YFC0704200). Dr. Lin was also supported by the Beijing Natural Science Foundation (no.: 8194067) and the Natural Science Foundation of China (no.: 51908323).
 

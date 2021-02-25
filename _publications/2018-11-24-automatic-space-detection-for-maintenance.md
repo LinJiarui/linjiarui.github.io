@@ -8,7 +8,7 @@ excerpt: '本研究提出一种基于体素生长的 BIM 模型功能空间自�
 date: 2018-11-24
 venue: '第四届全国 BIM 学术会议'
 paperurl: 'https://linjiarui.net/files/2018-11-24-automatic-space-detection-for-maintenance.pdf'
-citation: '林佳瑞*, 张建平 (2018). &quot;面向建筑运维的 BIM 模型功能空间识别&quot; <i>第四届全国 BIM 学术会议论文集</i>. 289-293. 中国建筑工业出版社. 中国, 合肥.'
+citation: '林佳瑞*, 张建平. (2018). 面向建筑运维的 BIM 模型功能空间识别. <i>第四届全国 BIM 学术会议论文集</i>, 289-293. 中国建筑工业出版社. 中国, 合肥.'
 
 comment: true
 category: conference
@@ -35,5 +35,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2019&filename=JGCB201811001059&v=MTA1MjhUbmpxcXhkRWVNT1VLcmlmWnU5dkh5bmxVN3pLSmw0UUx5ckliTEc0SDluTnJvOUZaZXNLQlJOS3VoZGhuajk4)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2018-11-24-automatic-space-detection-for-maintenance.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

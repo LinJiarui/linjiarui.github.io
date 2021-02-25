@@ -8,7 +8,7 @@ excerpt: 'This research presents a BIM- and IoT-based monitoring framework for u
 date: 2018-06-07
 venue: '17th International Conference on Computing in Civil and Building Engineering'
 paperurl: 'http://programme.exordo.com/icccbe2018/delegates/presentation/346/'
-citation: 'Kang, K., Lin, J.* and Zhang, J. (2018). &quot;Monitoring Framework for Utility Tunnels based on BIM and IoT Technology&quot; <i>in Proceedings of the 17th International Conference on Computing in Civil and Building Engineering</i>. Tampere, Finland.'
+citation: 'Kang, K., Lin, J.*, Zhang, J. (2018). Monitoring Framework for Utility Tunnels based on BIM and IoT Technology. <i>Proceedings of the 17th International Conference on Computing in Civil and Building Engineering</i>. Tampere, Finland.'
 
 comment: true
 category: conference
@@ -35,5 +35,3 @@ During the operation and maintenance period of the urban underground utility tun
 [{{site.data.ui-text[page.lang].download_paper}}]({{ site.baseurl }}/files/2018-06-07-bim-and-iot-based-monitoring-framework-for-utility-tunnels.pdf)
 
 [{{site.data.ui-text[page.lang].download_paper}}](http://programme.exordo.com/icccbe2018/delegates/presentation/346/)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

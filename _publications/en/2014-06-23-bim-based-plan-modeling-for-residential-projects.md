@@ -9,7 +9,7 @@ date: 2014-06-23
 venue: 'Computing in Civil and Building Engineering'
 doi: 'doi/10.1061/9780784413616.061'
 paperurl: 'https://ascelibrary.org/doi/10.1061/9780784413616.061'
-citation: 'He, T., Lin, J., Hu, Z., Zhang, J., Jia, W. and Su, J. (2014). &quot;BIM-Based Plan Modeling System at Preliminary Stage for Residential Real Estate Projects&quot; <i>Computing in Civil and Building Engineering</i>. 61: 488-495.'
+citation: 'He, T., Lin, J., Hu, Z., Zhang, J., Jia, W., Su, J. (2014). BIM-Based Plan Modeling System at Preliminary Stage for Residential Real Estate Projects. <i>Computing in Civil and Building Engineering</i>, 61, 488-495.'
 
 comment: true
 category: conference
@@ -37,7 +37,5 @@ estate project contains numerous built standard units such as dwelling units and
 Citation: He, T., Lin, J., Hu, Z., Zhang, J., Jia, W. and Su, J. (2014). &quot;BIM-Based Plan Modeling System at Preliminary Stage for Residential Real Estate Projects&quot; <i>in Proceedings of the 15th International Conference on Computing in Civil and Building Engineering</i>. Orlando, Florida, US.
 
 [{{site.data.ui-text[page.lang].download_paper}}](https://ascelibrary.org/doi/10.1061/9780784413616.061)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 ISBN-13: 9780784413616

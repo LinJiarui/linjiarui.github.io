@@ -1,5 +1,5 @@
 ---
-title: "Automatic compliance checking in building and construction area"
+title: "Automatic Compliance Checking in Building and Construction Area"
 lang: en
 ref: publications/2019-12-18-BIM-for-automatic-compliance-checking
 collection: publications
@@ -9,7 +9,7 @@ date: 2019-12-18
 venue: 'Journal of Tsinghua University (Science & Technology)'
 doi: '10.16511/j.cnki.qhdxxb.2020.25.013'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2020.25.013'
-citation: 'Lin, J.*, and Guo J. (2020). &quot;Automatic compliance checking in building and construction area&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 60(10): 873-879. doi: 10.16511/j.cnki.qhdxxb.2020.25.013'
+citation: 'Lin, J.*, Guo J. (2020). Automatic Compliance Checking in Building and Construction Area. <i>Journal of Tsinghua University (Science & Technology)</i>, 60(10), 873-879. doi: 10.16511/j.cnki.qhdxxb.2020.25.013'
 
 comment: true
 category: journal
@@ -39,5 +39,3 @@ Compliance checking of building design is essential to provide a correct design 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2019-12-18-bim-for-automatic-compliance-checking.pdf)
 
 This paper is selected as one of the two hot papers of _Journal of Tsinghua University (Science & Technology)_ on July 12, 2020 and is one of the most downloaded paper in 2020 too, see [here]({{ site.baseurl }}/en/posts/2020-07-12-hot-paper-bim-for-acc) and [here]({{ site.baseurl }}/en/posts/2020-09-29-bim-for-acc-is-one-of-most-downloaded-papers-of-jst) for detail.
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

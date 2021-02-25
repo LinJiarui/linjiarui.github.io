@@ -1,5 +1,5 @@
 ---
-title: "Space and MEP topology extraction and application based on BIM"
+title: "Space and MEP Topology Extraction and Application based on BIM"
 lang: en
 ref: publications/2018-03-01-space-mep-topology-extraction-based-on-bim
 collection: publications
@@ -9,7 +9,7 @@ date: 2018-03-01
 venue: 'Journal of Tsinghua University (Science & Technology)'
 doi: '10.16511/j.cnki.qhdxxb.2018.26.018'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2018.26.018'
-citation: 'Zhang, J., He, T., Lin, J.*, et al. (2018). &quot;Space and MEP topology extraction and application based on BIM&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 58(6): 587-592. doi: 10.16511/j.cnki.qhdxxb.2018.26.018 (in Chinese)'
+citation: 'Zhang, J., He, T., Lin, J.*, et al. (2018). Space and MEP Topology Extraction and Application based on BIM. <i>Journal of Tsinghua University (Science & Technology)</i>, 58(6), 587-592. doi: 10.16511/j.cnki.qhdxxb.2018.26.018 (in Chinese)'
 
 comment: true
 category: journal
@@ -37,8 +37,6 @@ Topologies of space and Mechanical, Electrical and Plumbing (MEP) are crucial to
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.16511/j.cnki.qhdxxb.2018.26.018)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2018-03-01-space-mep-topology-extraction-based-on-bim.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 Funding：National Key R&D Program of China, China Postdoctoral Science Foundation Grant, Young Elite Scientists Sponsorship Program by China Association for Science and Technology
 

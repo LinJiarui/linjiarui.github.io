@@ -9,7 +9,7 @@ date: 2020-05-07
 venue: 'IEEE Access'
 doi: '10.1109/ACCESS.2020.2994115'
 paperurl: 'http://doi.org/10.1109/ACCESS.2020.2994115'
-citation: 'Leng, S., Lin, J.R., Hu, Z.Z.*, and Shen, X. (2020). &quot;A Hybrid Data Mining Method for Tunnel Engineering Based on Real-Time Monitoring Data from Tunnel Boring Machines&quot; <i>IEEE Access</i>. 8: 90430-90449. doi: 10.1109/ACCESS.2020.2994115'
+citation: 'Leng, S., Lin, J.R., Hu, Z.Z.*, Shen, X. (2020). A Hybrid Data Mining Method for Tunnel Engineering Based on Real-Time Monitoring Data from Tunnel Boring Machines. <i>IEEE Access</i>, 8, 90430-90449. doi: 10.1109/ACCESS.2020.2994115'
 
 comment: true
 category: journal
@@ -41,8 +41,6 @@ Tunnel engineering is one of the typical megaprojects given its long constructio
 [{{site.data.ui-text[page.lang].download_paper}}]({{page.paperurl}})
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-05-07-hybrid-data-mining-for-TBM-monitoring.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This research is supported by the National Natural Science Foundation of China (No. 51778336, No. 51908323) and the Tsinghua University-Glodon Joint Research Centre for Building Information Model (RCBIM). 
 

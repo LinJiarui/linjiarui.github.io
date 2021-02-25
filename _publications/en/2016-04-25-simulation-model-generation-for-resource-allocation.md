@@ -8,7 +8,7 @@ excerpt: 'This paper proposes a method for automatic generation of DES model for
 date: 2016-04-25
 venue: 'Construction Technology'
 paperurl: 'https://linjiarui.net/files/2016-04-25-simulation-model-generation-for-resource-allocation.pdf'
-citation: 'Lin, J.*, Zhang, J. (2016). &quot;Simulation Model Generation and Application Based on BIM for Ｒesource Allocation&quot; <i>Construction Technology</i>. 45(18): 1-6. doi: 10.7672/sgjs2016180001 (in Chinese)'
+citation: 'Lin, J.*, Zhang, J. (2016). Simulation Model Generation and Application Based on BIM for Ｒesource Allocation. <i>Construction Technology</i>, 45(18), 1-6. doi: 10.7672/sgjs2016180001 (in Chinese)'
 
 comment: true
 category: journal
@@ -35,5 +35,3 @@ To eliminate low effort and complicated model process needed in data modeling fo
 [{{site.data.ui-text[page.lang].download_paper}}](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=SGJS201618001&v=MDgyMzFOcDQ5RlpZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mYitWdUZ5amtWNzdLTmlyQmZiRzRIOWY=)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2016-04-25-simulation-model-generation-for-resource-allocation.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

@@ -8,7 +8,7 @@ excerpt: 'This paper reviews BIM policies from 2013-2017 of China, and shows tha
 date: 2018-03-06
 venue: 'Construction Technology'
 paperurl: 'https://linjiarui.net/files/2018-03-06-bim-policies-in-china.pdf'
-citation: 'Lin, J.*, Zhang, J. (2018). &quot;Review and Exploratory Text Mining of Building Information Modeling Policies in China&quot; <i>Construction Technology</i>. 47(6): 73-78. doi: 10.7672/sgjs2018060073 (in Chinese)'
+citation: 'Lin, J.*, Zhang, J. (2018). Review and Exploratory Text Mining of Building Information Modeling Policies in China. <i>Construction Technology</i>, 47(6), 73-78. doi: 10.7672/sgjs2018060073 (in Chinese)'
 
 comment: true
 category: journal
@@ -38,5 +38,3 @@ Taking recent published policies related to information technology and construct
 Related [talk]({{ site.baseurl }}/en/talks/2019-10-18-policies-practice-trends-of-BIM)
 
 This paper is one of the CNKI's most downloaded papers of this journal, see [here]({{ site.baseurl }}/en/posts/2020-03-03-some-our-papers-are-cnki-most-downloaded-papers) for detail.
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

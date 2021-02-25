@@ -9,7 +9,7 @@ date: 2020-12-07
 venue: 'Proceedings of the 8th International Conference on Construction Engineering and Project Management (ICCEPM 2020)'
 doi: '10.13140/RG.2.2.23831.73126'
 paperurl: 'https://doi.org/10.13140/RG.2.2.23831.73126'
-citation: 'Lin, J.R.*, Xiao, J., and Zhang, Y. (2020). &quot;A Framework to Automate Reliability-based Structural Optimization based on Visual Programming and OpenSees&quot; <i>Proceedings of the 8th International Conference on Construction Engineering and Project Management (ICCEPM 2020)</i>. 225-234. Hong Kong.'
+citation: 'Lin, J.R.*, Xiao, J., Zhang, Y. (2020). A Framework to Automate Reliability-based Structural Optimization based on Visual Programming and OpenSees <i>Proceedings of the 8th International Conference on Construction Engineering and Project Management (ICCEPM 2020)</i>, 225-234. Hong Kong.'
 
 comment: true
 category: conference
@@ -40,8 +40,6 @@ Reliability-based structural optimization usually requires designers or engineer
 [{{site.data.ui-text[page.lang].download_preprint}}](https://doi.org/10.13140/RG.2.2.23831.73126)
 
 [{{site.data.ui-text[page.lang].download_paper}}]({{ site.baseurl }}/files/2020-12-07-automating-reliability-based-structural-optimization-based-on-visual-programming.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This research is supported by the Beijing Natural Science Foundation (No. 8194067), the National Science Foundation of China (No. 51908323), the National Key R&D Program of China (No. 2018YFD1100900), and the Young Elite Scientists Sponsorship Program by China Association for Science and Technology (No. QNRC2016001)
 

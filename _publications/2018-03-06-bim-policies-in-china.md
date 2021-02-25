@@ -8,7 +8,7 @@ excerpt: '本文收集并分析了2013-2017年间我国 BIM 政策，指出我�
 date: 2018-03-06
 venue: '施工技术'
 paperurl: 'https://linjiarui.net/files/2018-03-06-bim-policies-in-china.pdf'
-citation: '林佳瑞*, 张建平. (2018). &quot;我国 BIM 政策发展现状综述及其文本分析&quot; <i>施工技术</i>. 47(6): 73-78. doi: 10.7672/sgjs2018060073'
+citation: '林佳瑞*, 张建平. (2018). 我国 BIM 政策发展现状综述及其文本分析. <i>施工技术</i>, 47(6), 73-78. doi: 10.7672/sgjs2018060073'
 
 comment: true
 category: journal
@@ -38,5 +38,3 @@ grants:
 有关[学术报告]({{ site.baseurl }}/talks/2019-10-18-policies-practice-trends-of-BIM)
 
 本文位于本期刊CNKI下载榜单第35位，详见[链接]({{ site.baseurl }}/posts/2020-03-03-some-our-papers-are-cnki-most-downloaded-papers)。
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

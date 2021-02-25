@@ -9,7 +9,7 @@ date: 2019-09-23
 venue: '清华大学学报（自然科学版）'
 doi: '10.16511/j.cnki.qhdxxb.2019.21.035'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2019.21.035'
-citation: '王珩玮, 林佳瑞*, 张建平 (2020). &quot;考虑生产效率与工艺的资源受限项目调度问题&quot; <i>清华大学学报（自然科学版）</i>. 60(3): 271-277. doi: 10.16511/j.cnki.qhdxxb.2019.21.035'
+citation: '王珩玮, 林佳瑞*, 张建平. (2020). 考虑生产效率与工艺的资源受限项目调度问题. <i>清华大学学报（自然科学版）</i>, 60(3), 271-277. doi: 10.16511/j.cnki.qhdxxb.2019.21.035'
 
 comment: true
 category: journal
@@ -37,5 +37,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.16511/j.cnki.qhdxxb.2019.21.035)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2019-09-23-resource-constrained-scheduling-considering-productivity-methods.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

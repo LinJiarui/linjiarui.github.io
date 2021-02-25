@@ -9,7 +9,7 @@ date: 2013-06-01
 venue: 'Journal of Information Technology in Civil Engineering and Architecture'
 doi: '10.16670/j.cnki.cn11-5823/tu.2013.03.011'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2013.03.011'
-citation: 'Wang, H., Hu, Z., Lin, J., Zhang, J.* (2013). &quot;Web-oriented BIM 3D Viewing and Information Management&quot; <i>Journal of Information Technology in Civil Engineering and Architecture</i>. 5(3): 1-7. doi: 10.16670/j.cnki.cn11-5823/tu.2013.03.011 (in Chinese)'
+citation: 'Wang, H., Hu, Z., Lin, J., Zhang, J.* (2013). Web-oriented BIM 3D Viewing and Information Management. <i>Journal of Information Technology in Civil Engineering and Architecture</i>, 5(3), 1-7. doi: 10.16670/j.cnki.cn11-5823/tu.2013.03.011 (in Chinese)'
 
 comment: true
 category: journal
@@ -42,5 +42,3 @@ stable with nice rendering for large BIM．Meanwhile the platform provides rich 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2013-06-01-web3d-for-bim-visualization.pdf)
 
 This paper is one of the CNKI's most downloaded papers of this journal, see [here]({{ site.baseurl }}/en/posts/2020-03-03-some-our-papers-are-cnki-most-downloaded-papers) for detail.
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

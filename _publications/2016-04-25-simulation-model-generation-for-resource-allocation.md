@@ -8,7 +8,7 @@ excerpt: '本研究提出一种基于BIM的资源配置仿真模型自动生成�
 date: 2016-04-25
 venue: '施工技术'
 paperurl: 'https://linjiarui.net/files/2016-04-25-simulation-model-generation-for-resource-allocation.pdf'
-citation: '林佳瑞*, 张建平. (2016). &quot;基于BIM的施工资源配置仿真模型自动生成及应用&quot; <i>施工技术</i>. 45(18): 1-6. doi: 10.7672/sgjs2016180001'
+citation: '林佳瑞*, 张建平. (2016). 基于BIM的施工资源配置仿真模型自动生成及应用. <i>施工技术</i>, 45(18), 1-6. doi: 10.7672/sgjs2016180001'
 
 comment: true
 category: journal
@@ -36,5 +36,3 @@ grants:
 
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2016-04-25-simulation-model-generation-for-resource-allocation.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

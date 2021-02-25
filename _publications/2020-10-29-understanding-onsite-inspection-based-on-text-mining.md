@@ -9,7 +9,7 @@ date: 2020-10-29
 venue: 'IEEE Access'
 doi: '10.1109/ACCESS.2020.3035214'
 paperurl: 'http://doi.org/10.1109/ACCESS.2020.3035214'
-citation: 'Lin, J.R.*, Hu, Z.Z., Li, J.L., and Chen, L.M. (2020). &quot;Understanding On-Site Inspection of Construction Projects based on Keyword Extraction and Topic Modeling&quot; <i>IEEE Access</i>. 8: 198503-198517. doi: 10.1109/ACCESS.2020.3035214'
+citation: 'Lin, J.R.*, Hu, Z.Z., Li, J.L., Chen, L.M. (2020). Understanding On-Site Inspection of Construction Projects based on Keyword Extraction and Topic Modeling. <i>IEEE Access</i>, 8, 198503-198517. doi: 10.1109/ACCESS.2020.3035214'
 
 comment: true
 category: journal
@@ -42,8 +42,6 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}]({{page.paperurl}})
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-10-29-understanding-onsite-inspection-based-on-text-mining.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This  research  is  supported  by  the  Natural  Science  Foundation  of  China  (No.  51908323),  the  Beijing  Municipal  Science  and  Technology  Project  (No. Z181100005918006) and the Tsinghua University Initiative Scientific Research Program (No. 2019Z02UOT). 
 

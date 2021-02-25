@@ -8,7 +8,7 @@ excerpt: '本文以清华大学地下供水管网为例，研究了管网构件�
 date: 2020-11-07
 venue: '第十一届全国结构设计基础与可靠性学术会议'
 paperurl: 'https://linjiarui.net/files/2020-11-06-reliability-of-apartment-pipeline-network-of-tsinghua.pdf'
-citation: '郑意德，张熠，林佳瑞 (2020). &quot;清华大学紫荆公寓管网可靠性研究&quot; <i>第十一届全国结构设计基础与可靠性学术会议论文集</i>. 107-121. 武汉理工大学出版社. 中国, 武汉.'
+citation: '郑意德，张熠, 林佳瑞. (2020). 清华大学紫荆公寓管网可靠性研究. <i>第十一届全国结构设计基础与可靠性学术会议论文集</i>, 107-121. 武汉理工大学出版社. 中国, 武汉.'
 
 comment: true
 category: conference
@@ -37,5 +37,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](https://linjiarui.net/files/2020-11-06-reliability-of-apartment-pipeline-network-of-tsinghua.pdf)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-11-06-reliability-of-apartment-pipeline-network-of-tsinghua-preprint.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

@@ -8,7 +8,7 @@ excerpt: '本研究提出面向建筑能耗监测管理的大数据存储与服�
 date: 2018-11-24
 venue: '第四届全国 BIM 学术会议'
 paperurl: 'https://linjiarui.net/files/2018-11-24-framework-for-building-performance-monitoring-and-data-management.pdf'
-citation: '张云翼, 林佳瑞*, 康凯, 张建平 (2018). &quot;建筑能耗监测大数据存储与服务框架研究&quot; <i>第四届全国 BIM 学术会议论文集</i>. 331-335. 中国建筑工业出版社. 中国, 合肥.'
+citation: '张云翼, 林佳瑞*, 康凯, 张建平. (2018). 建筑能耗监测大数据存储与服务框架研究. <i>第四届全国 BIM 学术会议论文集</i>, 331-335. 中国建筑工业出版社. 中国, 合肥.'
 
 comment: true
 category: conference
@@ -36,5 +36,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2019&filename=JGCB201811001067&v=MDUzMjhaZXNKQ3hOS3VoZGhuajk4VG5qcXF4ZEVlTU9VS3JpZlp1OXZIeW5sVTd6Tkoxc1RMeXJJYkxHNEg5bk5ybzlG)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2018-11-24-framework-for-building-performance-monitoring-and-data-management.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

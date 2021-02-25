@@ -9,7 +9,7 @@ date: 2019-08-14
 venue: 'Archives of Computational Methods in Engineering'
 doi: '10.1007/s11831-019-09356-6'
 paperurl: 'https://doi.org/10.1007/s11831-019-09356-6'
-citation: 'Zhou, Y.W., Hu, Z.Z., Lin, J.R.*, and Zhang, J.P. (2020). &quot;A Review on 3D Spatial Data Analytics for Building Information Models&quot; <i>Archives of Computational Methods in Engineering</i>. 27(5): 1449-1463. doi: 10.1016/10.1007/s11831-019-09356-6'
+citation: 'Zhou, Y.W., Hu, Z.Z., Lin, J.R.*, Zhang, J.P. (2020). A Review on 3D Spatial Data Analytics for Building Information Models. <i>Archives of Computational Methods in Engineering</i>, 27(5), 1449-1463. doi: 10.1016/10.1007/s11831-019-09356-6'
 
 comment: true
 category: journal
@@ -38,8 +38,6 @@ Except for various properties, accurate and intuitive 3D representations of buil
 [{{site.data.ui-text[page.lang].download_paper}}](https://rdcu.be/bOOve)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2019-08-14-review-on-3d-spatial-analytics-for-bim.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 Accession Number: WOS:000575368900004
 

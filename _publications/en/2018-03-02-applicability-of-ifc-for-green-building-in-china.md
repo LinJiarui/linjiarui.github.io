@@ -9,7 +9,7 @@ date: 2018-03-02
 venue: 'Journal of Graphics'
 doi: '10.11996/JG.j.2095-302X.2018040765 '
 paperurl: 'http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2018040765 '
-citation: 'Lin, J.*, Zhang, J. (2018). &quot;Towards the Applicability of IFC for Green Building Evaluation in China&quot; <i>Journal of Graphics</i>. 39(4): 765-770. doi: 10.11996/JG.j.2095-302X.2018040765 (in Chinese)'
+citation: 'Lin, J.*, Zhang, J. (2018). Towards the Applicability of IFC for Green Building Evaluation in China. <i>Journal of Graphics</i>, 39(4), 765-770. doi: 10.11996/JG.j.2095-302X.2018040765 (in Chinese)'
 
 comment: true
 category: journal
@@ -35,8 +35,6 @@ Various data fragmented in different data formats are involved in green building
 [{{site.data.ui-text[page.lang].download_paper}}](http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2018040765)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2018-03-02-applicability-of-ifc-for-green-building-in-china.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 Funding：National Key R&D Program of China, China Postdoctoral Science Foundation Grant, Young Elite Scientists Sponsorship Program by China Association for Science and Technology
 

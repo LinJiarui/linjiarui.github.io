@@ -8,7 +8,7 @@ excerpt: '本研究提出基于云计算的 BIM 数据集成与管理方法，�
 date: 2017-11-04
 venue: '第三届全国 BIM 学术会议'
 paperurl: 'https://linjiarui.net/files/2017-11-04-cloud-based-bim-integration-and-management.pdf'
-citation: '张云翼, 刘强, 林佳瑞*, 张建平 (2017). &quot;基于云计算的 BIM 集成管理机制研究&quot; <i>第三届全国 BIM 学术会议论文集</i>. 399-403. 中国建筑工业出版社. 中国, 上海.'
+citation: '张云翼, 刘强, 林佳瑞*, 张建平. (2017). 基于云计算的 BIM 集成管理机制研究. <i>第三届全国 BIM 学术会议论文集</i>, 399-403. 中国建筑工业出版社. 中国, 上海.'
 
 comment: true
 category: conference
@@ -37,5 +37,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2018&filename=JGCB201711001071&v=MTk5MTlGWmVzSURSTkt1aGRobmo5OFRuanFxeGRFZU1PVUtyaWZadTl2SHlubFU3ek1KbDRYTHlySWJMRzRIOWJOcm85)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2017-11-04-cloud-based-bim-integration-and-management.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

@@ -8,7 +8,7 @@ excerpt: '本文提出基于4D-BIM与过程仿真的进度-资源均衡问题解
 date: 2014-11-14
 venue: '第十七届全国工程建设计算机应用大会'
 paperurl: 'https://linjiarui.net/files/2014-11-14-bim-des-based-schedule-resource-tradeoff.pdf'
-citation: '林佳瑞*, 张建平, 钟耀锋 (2014). &quot;基于 4D-BIM 与过程模拟的施工进度—资源均衡&quot; <i>第十七届全国工程建设计算机应用大会论文集</i>. 41-46. 中国土木工程学会. 中国, 北京.'
+citation: '林佳瑞*, 张建平, 钟耀锋. (2014). 基于 4D-BIM 与过程模拟的施工进度—资源均衡. <i>第十七届全国工程建设计算机应用大会论文集</i>, 41-46. 中国土木工程学会. 中国, 北京.'
 
 comment: true
 category: conference
@@ -38,5 +38,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2014-11-14-bim-des-based-schedule-resource-tradeoff.pdf)
 
 本研究后续工作及扩展包括[论文1]({{ site.baseurl }}/publication/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim)、[论文2]({{ site.baseurl }}/publication/2016-04-25-simulation-model-generation-for-resource-allocation)。
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

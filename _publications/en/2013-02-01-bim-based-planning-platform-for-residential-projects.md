@@ -9,7 +9,7 @@ date: 2013-02-01
 venue: 'Journal of Information Technology in Civil Engineering and Architecture'
 doi: '10.16670/j.cnki.cn11-5823/tu.2013.01.004'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2013.01.004'
-citation: 'Lin, J.*, Zhang, J., He, T., Jia, W., Wu, Z. (2013). &quot;Research and Development of BIM-based Housing Project Planning System&quot; <i>Journal of Information Technology in Civil Engineering and Architecture</i>. 5(1): 22-26. doi: 10.16670/j.cnki.cn11-5823/tu.2013.01.004 (in Chinese)'
+citation: 'Lin, J.*, Zhang, J., He, T., Jia, W., Wu, Z. (2013). Research and Development of BIM-based Housing Project Planning System. <i>Journal of Information Technology in Civil Engineering and Architecture</i>, 5(1), 22-26. doi: 10.16670/j.cnki.cn11-5823/tu.2013.01.004 (in Chinese)'
 
 comment: true
 category: journal
@@ -33,5 +33,3 @@ According to the actual demand of housing project，by integrating BIM and 4D te
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.16670/j.cnki.cn11-5823/tu.2013.01.004)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2013-02-01-bim-based-planning-platform-for-residential-projects.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

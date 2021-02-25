@@ -9,7 +9,7 @@ date: 2020-11-07
 venue: 'the 6th National Conference on Building Information Modeling'
 doi: 10.26914/c.cnkihy.2020.022359
 paperurl: 'https://linjiarui.net/files/2020-11-07-data-cleaning-for-building-performance-monitoring.pdf'
-citation: 'Chen, W., Zhang, Y., and Lin, J. (2020). &quot;Data Cleaning for Building Performance Monitoring&quot; <i>in Proceedings of the 6th National Conference on Building Information Modeling</i>. 321-325. China Architecture&Building Press. Taiyuan, China. (in Chinese)'
+citation: 'Chen, W., Zhang, Y., Lin, J. (2020). Data Cleaning for Building Performance Monitoring. <i>Proceedings of the 6th National Conference on Building Information Modeling</i>, 321-325. China Architecture&Building Press. Taiyuan, China. (in Chinese)'
 
 comment: true
 category: conference
@@ -38,5 +38,3 @@ This work was selected as one of the best papers of the 6th national conference 
 [{{site.data.ui-text[page.lang].download_paper}}](https://doi.org/10.26914/c.cnkihy.2020.022359)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-11-07-data-cleaning-for-building-performance-monitoring.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

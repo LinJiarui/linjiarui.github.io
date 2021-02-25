@@ -9,7 +9,7 @@ date: 2017-03-24
 venue: ' Journal of Engineering Management'
 doi: '10.13991/j.cnki.jem.2017.04.024'
 paperurl: 'http://doi.org/10.13991/j.cnki.jem.2017.04.024'
-citation: 'Zhang, Z., Wang, H., Lin, J., Feng, Y., Zhang, J.* (2017). &quot;Information Classification System for Lifecycle Management of Hydroelectric Projects&quot; <i> Journal of Engineering Management</i>. 31(4): 131-136. doi: 10.13991/j.cnki.jem.2017.04.024'
+citation: 'Zhang, Z., Wang, H., Lin, J., Feng, Y., Zhang, J.* (2017). Information Classification System for Lifecycle Management of Hydroelectric Projects. <i> Journal of Engineering Management</i>, 31(4), 131-136. doi: 10.13991/j.cnki.jem.2017.04.024'
 
 comment: true
 category: journal
@@ -33,5 +33,3 @@ Classification  and  coding  system（CCS）is  a  basic  part  for  the  lifecy
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.13991/j.cnki.jem.2017.04.024)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2017-03-24-classification-system-for-lifecycle-management-of-hydroelectric-projects.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

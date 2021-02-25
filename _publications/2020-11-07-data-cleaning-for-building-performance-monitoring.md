@@ -9,7 +9,7 @@ date: 2020-11-07
 venue: '第六届全国 BIM 学术会议'
 doi: 10.26914/c.cnkihy.2020.022359
 paperurl: 'https://linjiarui.net/files/2020-11-07-data-cleaning-for-building-performance-monitoring.pdf'
-citation: '陈旺，张云翼，林佳瑞 (2020). &quot;建筑能耗大数据清洗与案例研究&quot; <i>第六届全国 BIM 学术会议论文集</i>. 321-325. 中国建筑工业出版社. 中国, 太原.'
+citation: '陈旺，张云翼 林佳瑞. (2020). 建筑能耗大数据清洗与案例研究. <i>第六届全国 BIM 学术会议论文集</i>, 321-325. 中国建筑工业出版社. 中国, 太原.'
 
 comment: true
 category: conference
@@ -40,5 +40,3 @@ grants:
 [{{site.data.ui-text[page.lang].download_paper}}](https://doi.org/10.26914/c.cnkihy.2020.022359)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-11-07-data-cleaning-for-building-performance-monitoring.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

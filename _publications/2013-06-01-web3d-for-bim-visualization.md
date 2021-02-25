@@ -9,7 +9,7 @@ date: 2013-06-01
 venue: '土木建筑工程信息技术'
 doi: '10.16670/j.cnki.cn11-5823/tu.2013.03.011'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2013.03.011'
-citation: '王珩玮, 胡振中, 林佳瑞, 张建平* (2013). &quot;面向 Web 的 BIM 三维浏览与信息管理&quot; <i>土木建筑工程信息技术</i>. 5(3): 1-7. doi: 10.16670/j.cnki.cn11-5823/tu.2013.03.011'
+citation: '王珩玮, 胡振中, 林佳瑞, 张建平*. (2013). 面向 Web 的 BIM 三维浏览与信息管理. <i>土木建筑工程信息技术</i>, 5(3), 1-7. doi: 10.16670/j.cnki.cn11-5823/tu.2013.03.011'
 
 comment: true
 category: journal
@@ -39,5 +39,3 @@ BIM 服务器为 BIM 对建设全生命周期的支持提供了解决方案。�
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2013-06-01-web3d-for-bim-visualization.pdf)
 
 本文位于本期刊CNKI下载榜单42位，详见[链接]({{ site.baseurl }}/posts/2020-03-03-some-our-papers-are-cnki-most-downloaded-papers)。
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

@@ -1,5 +1,5 @@
 ---
-title: "Data conversion and sharing for building performance analyses based on IFC"
+title: "Data Conversion and Sharing for Building Performance Analyses based on IFC"
 lang: en
 ref: publications/2016-05-17-ifc-based-data-conversion-for-building-performance
 collection: publications
@@ -9,7 +9,7 @@ date: 2016-05-17
 venue: 'Journal of Tsinghua University (Science & Technology)'
 doi: '10.16511/j.cnki.qhdxxb.2016.21.057'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2016.21.057'
-citation: 'Lin, J., Zhang, J.* (2016). &quot;Data conversion and sharing for building performance analyses based on IFC&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 56(9): 997-1002. doi: 10.16511/j.cnki.qhdxxb.2016.21.057 (in Chinese)'
+citation: 'Lin, J., Zhang, J.* (2016). Data Conversion and Sharing for Building Performance Analyses based on IFC. <i>Journal of Tsinghua University (Science & Technology)</i>, 56(9), 997-1002. doi: 10.16511/j.cnki.qhdxxb.2016.21.057 (in Chinese)'
 
 comment: true
 category: journal
@@ -37,8 +37,6 @@ To eliminate effort needed in data conversion and sharing for building performan
 [{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.16511/j.cnki.qhdxxb.2016.21.057)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2016-05-17-ifc-based-data-conversion-for-building-performance.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 Funding：National Key R&D Program of China, National Science Foundation of China, Tsinghua-Glodon Joint Research Center for BIM
 

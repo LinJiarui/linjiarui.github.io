@@ -8,7 +8,7 @@ excerpt: '本研究提出一种基于自然语言处理和深度学习的机电�
 date: 2019-09-18
 venue: '36th CIB W78 2019 Conference'
 paperurl: 'https://linjiarui.net/files/2019-09-18-automatic-mep-knowledge-acquisition-based-on-nlp.pdf'
-citation: 'Leng, S., Hu, Z.Z.*, Luo, Z., Zhang, J.P., and Lin, J.R. (2019). &quot;Automatic MEP Knowledge Acquisition Based on Documents and Natural Language Processing&quot; <i>in Proceedings of the 36th CIB W78 2019 Conference</i>. 800-809. Newcastle, United Kingdom.'
+citation: 'Leng, S., Hu, Z.Z.*, Luo, Z., Zhang, J.P., Lin, J.R. (2019). Automatic MEP Knowledge Acquisition Based on Documents and Natural Language Processing. <i>Proceedings of the 36th CIB W78 2019 Conference</i>, 800-809. Newcastle, United Kingdom.'
 
 comment: true
 category: conference
@@ -35,5 +35,3 @@ Mechanical, Electrical and Plumbing (MEP) systems are critical assets in buildin
 
 
 [{{site.data.ui-text[page.lang].download_paper}}]({{ site.baseurl }}/files/2019-09-18-automatic-mep-knowledge-acquisition-based-on-nlp.pdf)
-
-{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
