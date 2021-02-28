@@ -7,9 +7,9 @@ permalink: /publications/2021-02-17-link-data-model-and-formula-to-automate-perf
 excerpt: '针对建筑能效对比，提出一种链接数据模型及KPI公式的自动计算方法，可基于不同粒度的数据对比同类建筑的能效'
 date: 2021-02-17
 venue: 'Energy Reports'
-doi: '10.​1016/​j.​egyr.​2021.​02.​044'
-paperurl: 'http://doi.org/10.​1016/​j.​egyr.​2021.​02.​044'
-citation: 'Zhang, Y.Y., Hu, Z.Z., Lin, J.R.*, Zhang J.P. (2021). Linking Data Model and Formula to Automate KPI Calculation for Building Performance Benchmarking. <i>Energy Reports</i>, 7, 1326-1337. doi: 10.​1016/​j.​egyr.​2021.​02.​044'
+doi: '10.1016/j.egyr.2021.02.044'
+paperurl: 'http://doi.org/10.​1016/​10.1016/j.egyr.2021.02.044'
+citation: 'Zhang, Y.Y., Hu, Z.Z., Lin, J.R.*, Zhang J.P. (2021). Linking Data Model and Formula to Automate KPI Calculation for Building Performance Benchmarking. <i>Energy Reports</i>, 7, 1326-1337. doi: 10.1016/j.egyr.2021.02.044'
 
 comment: true
 category: journal

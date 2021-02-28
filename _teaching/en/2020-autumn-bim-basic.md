@@ -1,12 +1,12 @@
 ---
-title: "Autumn, 2019 Principal Instructor of Building Information Modeling Technology"
+title: "Autumn, 2020 Principal Instructor of Building Information Modeling Technology"
 lang: en
-ref: teaching/2019-autumn-bim-basic
+ref: teaching/2020-autumn-bim-basic
 collection: teaching
 type: "Undergraduate course"
-permalink: /en/teaching/2019-autumn-bim-basic
+permalink: /en/teaching/2020-autumn-bim-basic
 venue: "Department of Civil Engineering, Tsinghua University"
-date: 2019-09-01
+date: 2020-09-14
 location: "Beijing, China"
 
 category: undergraduate
