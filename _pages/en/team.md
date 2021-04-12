@@ -23,16 +23,23 @@ author_profile: true
 | 2 | [Prof. Christoph van Treeck](https://www.fb3.rwth-aachen.de/go/id/bkab/gguid/0xE6062E8B30B67449828CA3D182DB5D3E/ikz/312410) | RWTH-Aachen University | BIM, building performance | Host professor of my visit to RWTH-Aachen |
 | 3 | [Prof. Tamer El-Diraby](https://civmin.utoronto.ca/home/about-us/directory/professors/tamer-el-diraby/) | University of Toronto | Semantic web, smart city, building performance, automatic rule checking |  |
 
+## Postdoctorial Fellow
+
+| No. | Name  | Major | Time Period | Research Topic | Info |
+| --- | ------ | -------- | -------- | -------- | ---- |
+| 1 | Yun-Yi Zhang | Civil Engineering | 2020/10-now | BIM, building performance, big data |  |
+| 2 | Can Jiang | Civil Engineering | 2021/5-now | Modeling & simulation of human-robot system, BIM |  |
+
 ## Research Assistant
 
-| No. | Name  | Major | Time Joined | Research Topic | Info |
+| No. | Name  | Major | Time Period | Research Topic | Info |
 | --- | ------ | -------- | -------- | -------- | ---- |
 | 1 | Sheng-Yu Song | Civil Engineering | 2020/8 | BIM, smart design, knowledge graph | Master |
 | 2 | Yu-Cheng Zhou | Civil Engineering | 2019/8 | BIM, performance-based design, rule checking | Master |
 | 3 | Ke-Xiao Yan | Civil Engineering | 2019/10 | BIM, deep learning, data mining | Master of UNSW |
 | 4 | Wei-Lu Jia | Architecture | 2015/8 | BIM, design, construction management |  |
-| 5 | Yun-Yi Zhang | Civil Engineering | 2011/8 | BIM, building performance, big data | Ph.D., co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
-| 6 | Kai Kang | Civil Engineering | 2013/8 | BIM, building performance, big data, service automation | Master, co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
+| 5 | Yun-Yi Zhang | Civil Engineering | 2011/8-2020/7 | BIM, building performance, big data | Ph.D., co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
+| 6 | Kai Kang | Civil Engineering | 2017/8-2020/7 | BIM, building performance, big data, service automation | Master, co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
 
 ## Bachelor Thesis
 

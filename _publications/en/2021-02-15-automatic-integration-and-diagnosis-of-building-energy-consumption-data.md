@@ -41,4 +41,11 @@ Buildings account for a majority of the primary energy consumption of the human 
 
 This research was funded by the National Key R&D Program of China (grant No. 2017YFC0704200) and the National Natural Science Foundation of China (grant No. 51778336). This research was also supported by Tsinghua University – Glodon Joint Research Center for Building Information Model (RCBIM).
 
+Accession Number: WOS:000624704400001
+
+PubMed ID: 33671242
+
+eISSN: 1424-8220
+
+IDS Number: QQ7MB
 
