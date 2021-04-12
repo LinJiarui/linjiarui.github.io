@@ -17,6 +17,7 @@ redirect_from:
 * 2007年8月-2011年7月，清华大学土木系，工学学士
 
 ## 工作经历
+* 2021年7月-今，中国图学学会BIM专业委员会，秘书长
 * 2020年7月-今，清华大学土木工程暨建设管理系，研工组组长
 * 2018年10月-今，清华大学土木系，力学计算与仿真实验室主任
 * 2018年8月-今，清华大学土木系，助理研究员
@@ -33,6 +34,7 @@ redirect_from:
 
 ## 荣誉获奖
 ### 科学研究
+* 2021年05月，2021年上海土木工程学会科技进步二等奖（排名2）
 * 2019年01月，2018年华夏建设科学技术二等奖（排名3）
 * 2018年11月，2018年北京市科学技术三等奖（排名4）
 * 2016年10月，中国科协2016-2018年度“青年人才托举工程”
@@ -53,6 +55,9 @@ redirect_from:
 * 2017年10月，清华大学土水学院青年教师教学基本功大赛二等奖
 * 2014年12月，清华大学“一二·九”辅导员
 * 2012年08月，清华大学土水学院2011-2012学年度优秀助教
+
+### 兼职服务
+* 2021年07月，中国图学学会第七届理事会优秀工作者奖
 
 ### 工程应用
 * 2016年04月，第四届“龙图杯”全国BIM（建筑信息模型）大赛一等奖
@@ -127,25 +132,32 @@ redirect_from:
 ## 社会服务
 * 中国图学学会 BIM 专委会委员
 * 北京城市规划学会BIM研究与应用中心特聘专家
-* Advances in Civil Engineering 特刊客座编辑
-* Automation in Construction 审稿人
-* Journal of Computing in Civil Engineering 审稿人
-* IEEE Transactions on Systems, Man and Cybernetics: Systems 审稿人
-* Journal of Management in Engineering 审稿人
-* Engineering, Construction and Architectural Management 审稿人
-* IEEE Access 审稿人
-* Sensors 审稿人
-* Mobile Information Systems 审稿人
-* Advances in Civil Engineering 审稿人
-* Canadian Journal of Civil Engineering 审稿人
-* Journal of Structural Integrity and Maintenance 审稿人
-* Frontiers of Engineering Management 审稿人
-* Energy and Built Environment 审稿人
-* Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction 审稿人
-* 《清华大学学报（自然科学版）》 审稿人
-* 《土木工程学报》 审稿人
-* 《工程力学》 审稿人
-* 《中国公路学报》 审稿人
-* 《图学学报》 审稿人
-* 《施工技术》 审稿人
-* 《土木建筑工程信息技术》 审稿人
+* Advances in Civil Engineering 编委
+### 专刊编委
+* Advances in Civil Engineering
+* Sensors
+### 期刊审稿人
+* Automation in Construction
+* Journal of Computing in Civil Engineering
+* Journal of Construction Engineering and Management
+* IEEE Transactions on Systems, Man and Cybernetics: Systems
+* Journal of Management in Engineering
+* Engineering, Construction and Architectural Management
+* IEEE Access
+* Sensors
+* Applied Sciences
+* Mobile Information Systems
+* Advances in Civil Engineering
+* Advances in Structural Engineering
+* Canadian Journal of Civil Engineering
+* Journal of Structural Integrity and Maintenance
+* Frontiers of Engineering Management
+* Energy and Built Environment
+* Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction
+* 《清华大学学报（自然科学版）》
+* 《土木工程学报》
+* 《工程力学》
+* 《中国公路学报》
+* 《图学学报》
+* 《施工技术》
+* 《土木建筑工程信息技术》

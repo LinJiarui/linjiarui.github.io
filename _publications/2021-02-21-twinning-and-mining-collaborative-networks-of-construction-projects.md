@@ -31,7 +31,6 @@ grants:
   - 51908323
   - 72091512
   - 2019Z02UOT
-  - 8194067
 ---
 
 
@@ -46,7 +45,14 @@ grants:
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2021-02-21-twinning-and-mining-collaborative-networks-of-construction-projects.pdf)
 
-This research is supported by the National Key R&D Program of China (No. 2018YFD1100900), the National Natural Science Foundation of China (No. 51908323), the Tsinghua University Initiative Scientific Research Program (No. 2019Z02UOT) and the Beijing Natural Science Foundation (No. 8194067).
+This research is supported by the NNational Key R&D Program of China (No. 2018YFD1100900), the National Natural Science Foundation of China (No. 51908323, No. 72091512), and the Tsinghua University Initiative Scientific Research Program (No. 2019Z02UOT).
 
+Accession Number: WOS:000649683100003
+
+ISSN: 0926-5805
+
+eISSN: 1872-7891
+
+IDS Number: SB0HF
 
 

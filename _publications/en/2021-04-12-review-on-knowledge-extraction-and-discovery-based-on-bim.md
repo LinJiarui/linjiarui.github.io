@@ -44,3 +44,10 @@ In the past, knowledge in the fields of Architecture, Engineering and Constructi
 
 This study was funded by the National Natural Science Foundation of China (No. 51778336) and the Tsinghua University-Glodon Joint Research Centre for Building Information Model (RCBIM).
 
+Accession Number: WOS:000639061200001
+
+ISSN: 1134-3060
+
+eISSN: 1886-1784
+
+IDS Number: RL6DL

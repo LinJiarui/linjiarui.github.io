@@ -34,7 +34,9 @@ grants:
 {{site.data.ui-text[page.lang].abstract}}
 ====
 
-In the past, knowledge in the fields of Architecture, Engineering and Construction (AEC) industries mainly come from experiences and are documented in hard copies or specific electronic databases. In order to make use of this knowledge, a lot of studies have focused on retrieving and storing this knowledge in a systematic and accessible way. The Building Information Modeling (BIM) technology proves to be a valuable media in extracting data because it provides physical and functional digital models for all the facilities within the life-cycle of the project. Therefore, the combination of the knowledge science with BIM shows great potential in constructing the knowledge map in the field of the AEC industry. Based on literature reviews, this article summarizes the latest achievements in the fields of knowledge science and BIM, in the aspects of (1) knowledge description, (2) knowledge discovery, (3) knowledge storage and management, (4) knowledge inference and (5) knowledge application, to show the state-of-arts and suggests the future directions in the application of knowledge science and BIM technology in the fields of AEC industries. The review indicates that BIM is capable of providing information for knowledge extraction and discovery, by adopting semantic network, knowledge graph and some other related methods. It also illustrates that the knowledge is helpful in the design, construction, operation and maintenance periods of the AEC industry, but now it is only at the beginning stage.。
+建筑行业的生产活动离不开海量经验和知识的支持。除通过对工程实践的总结外，许多研究也尝试采用知识工程技术对行业知识进行提取，并将其以文档或数据库等形式存储。近年来，BIM作为一种提取、交换与管理建筑信息的理想媒介，在建筑行业得到了普及与应用，在建筑行业的知识获取与管理中也展现出巨大潜力。本文对基于BIM的知识工程研究进行了全面调研，并从以下五个角度对相关研究进行总结：（1）知识描述；（2）知识发现；（3）知识存储与管理；（4）知识推理；（5）知识应用。
+
+综述显示，BIM可以与本体、语义网、数据挖掘等知识工程技术结合，为知识发现提供足量信息，为知识的集成与应用提供平台。本文同时揭示了知识在建筑行业的潜在价值，但目前行业对知识的管理与应用总体仍处于初级阶段。未来，BIM有望与知识工程技术深度融合，从而构建基于知识驱动的建筑设计、施工与运维体系，为智能建筑、智慧基建提供助力。
 
 ![Graph Abstract]({{ site.baseurl }}/images/2021-04-12-review-on-knowledge-extraction-and-discovery-based-on-bim.jpg)
 
@@ -44,3 +46,10 @@ In the past, knowledge in the fields of Architecture, Engineering and Constructi
 
 This study was funded by the National Natural Science Foundation of China (No. 51778336) and the Tsinghua University-Glodon Joint Research Centre for Building Information Model (RCBIM).
 
+Accession Number: WOS:000639061200001
+
+ISSN: 1134-3060
+
+eISSN: 1886-1784
+
+IDS Number: RL6DL

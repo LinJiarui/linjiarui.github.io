@@ -17,6 +17,8 @@ redirect_from:
 * Aug, 2007-Jul, 2011: B.S. in Department of Civil Engineering, Tsinghua University
 
 ## Work experience
+* July, 2021-Now: General Secretary of building information modeling committee of China Graphics Society
+* July, 2020-Now: Leader of Working Group for Graduate Affairs at Department of Civil Engineering, Tsinghua University
 * Dec, 2018-Now: Director of the Mechanics Computing and Simulation Laboratory, Tsinghua University
 * Aug, 2018-Now: Research Assistant Professor, Tsinghua University
 * Jul, 2016-Aug, 2018: Postdoctoral Research Associate, Tsinghua University
@@ -32,6 +34,7 @@ redirect_from:
 
 ## Honors&Awards
 ### Research
+* May, 2021, Second Prize of the 2021 Science and Technology Award of Shanghai Society of Civil Engineering (rank 2)
 * Jan, 2019, Second Prize of the 2018 China Construction Science and Technology Award (rank 3)
 * Nov, 2018, Third Prize of the 2018 Beijing Science and Technology Award (rank 4)
 * Oct, 2016, Young Elite Scientists Sponsorship Program by the China Association for Science and Technology
@@ -52,6 +55,9 @@ redirect_from:
 * Oct, 2017, Second Prize of Teaching Competition in School of Civil Engineering
 * Dec, 2014, Tsinghua “12.9” Graduate Assistant Award
 * Aug, 2012, Best Teaching Assistant in School of Civil Engineering, Tsinghua
+
+### Services
+* Jul, 2021, Outstanding Worker Award of the 7th Council of China Graphics Society
 
 ### Practice
 * Apr, 2016, First Prize of the 4th "Longtu Cup" National Building Information Model (BIM) Competition
@@ -123,28 +129,35 @@ redirect_from:
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
    
-## Service and leadership
+## Service and Leadership
 * Member of building information modeling committee of China Graphics Society
 * Special Expert of building information modeling center of Beijing City Planning Society
-* Guest Editor of _Advances in Civil Engineering_
-* Reviewer of _Automation in Construction_
-* Reviewer of _Journal of Computing in Civil Engineering_
-* Reviewer of _IEEE Transactions on Systems, Man and Cybernetics: Systems_
-* Reviewer of _Journal of Management in Engineering_
-* Reviewer of _Engineering, Construction and Architectural Management_
-* Reviewer of _IEEE Access_
-* Reviewer of _Sensors_
-* Reviewer of _Mobile Information Systems_
-* Reviewer of _Advances in Civil Engineering_
-* Reviewer of _Canadian Journal of Civil Engineering_
-* Reviewer of _Journal of Structural Integrity and Maintenance_
-* Reviewer of _Frontiers of Engineering Management_
-* Reviewer of _Energy and Built Environment_
-* Reviewer of _* Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction_
-* Reviewer of _Journal of Tsinghua University (Science & Technology)_
-* Reviewer of _China Civil Engineering Journal_
-* Reviewer of _Engineering Mechanics_
-* Reviewer of _China Journal of Highway and Transport_
-* Reviewer of _Journal of Graphics_
-* Reviewer of _Construction Technology_
-* Reviewer of _Journal of Information Technology in Civil Engineering and Architecture_
+* Editorial Member of _Advances in Civil Engineering_
+### Guest Editors
+* _Advances in Civil Engineering_
+* _Sensors_
+### Reviewers
+* _Automation in Construction_
+* _Journal of Computing in Civil Engineering_
+* _Journal of Construction Engineering and Management_
+* _IEEE Transactions on Systems, Man and Cybernetics: Systems_
+* _Journal of Management in Engineering_
+* _Engineering, Construction and Architectural Management_
+* _IEEE Access_
+* _Sensors_
+* _Applied Sciences_
+* _Mobile Information Systems_
+* _Advances in Structural Engineering_
+* _Advances in Civil Engineering_
+* _Canadian Journal of Civil Engineering_
+* _Journal of Structural Integrity and Maintenance_
+* _Frontiers of Engineering Management_
+* _Energy and Built Environment_
+* _Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction_
+* _Journal of Tsinghua University (Science & Technology)_
+* _China Civil Engineering Journal_
+* _Engineering Mechanics_
+* _China Journal of Highway and Transport_
+* _Journal of Graphics_
+* _Construction Technology_
+* _Journal of Information Technology in Civil Engineering and Architecture_

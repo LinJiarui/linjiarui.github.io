@@ -28,12 +28,12 @@ See more info at https://academicpages.github.io/
 
 1. Install Ubuntu
 2. Install jekyll, ref to: https://jekyllrb.com/docs/installation/windows/
-3. Run `sudo apt-get install libpng-dev` and `sudo apt-get install --reinstall zlibc zlib1g zlib1g-dev` if encounter errors at step 2
+3. Run `sudo apt-get install libpng-dev` and `sudo apt-get install --reinstall zlibc zlib1g zlib1g-dev` if encounter errors at step 2 or exec cmd `bundle install`
 4. Clone the repository, and run `bundle install` or `bundle clean` if needed
 5. Run `bundle exec jekyll serve`
 6. Add `gem “faraday”, “< 1.0”` if needed
 7. build and test:
-7.1 sudo mount -t drvfs d: /mnt/d
+7.1 sudo mount -t drvfs d: /mnt/d (for usb drive only)
 7.2 cd /mnt/d/Documents/dev/linjiarui.github.io
 7.3 sudo bundle exec jekyll build
 
@@ -43,6 +43,7 @@ See more info at https://academicpages.github.io/
 3. Check https://mmistakes.github.io/minimal-mistakes/docs/helpers/ for tutorials
 4. always remember to add a white space after character `:` 
 5. use .htaccess to redirect url if apache is used, and creating different .htaccess files for subfolders is recommended
+6. use Miro video converter to generate videos for iphone and other mobile devices
 
 # Changelog -- bugfixes and enhancements
 

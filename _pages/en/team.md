@@ -28,7 +28,6 @@ author_profile: true
 | No. | Name  | Major | Time Period | Research Topic | Info |
 | --- | ------ | -------- | -------- | -------- | ---- |
 | 1 | Yun-Yi Zhang | Civil Engineering | 2020/10-now | BIM, building performance, big data |  |
-| 2 | Can Jiang | Civil Engineering | 2021/5-now | Modeling & simulation of human-robot system, BIM |  |
 
 ## Research Assistant
 
@@ -45,10 +44,13 @@ author_profile: true
 
 | No. | Name  | Thesis Title | Admission Time | Graduate Time | Major | Info |
 | --- | ------ | -------- | -------- | -------- | ---- | ---- |
-| 1 | Zi-Zhe Yuan | Status and Cases of BIM-based Compilance Checking | 2016/8 | 2020/6 | Construction Management | Graduated |
-| 2 | Yi Liu | Automatic Knowledge Acquisition in AEC Area | 2016/8 | 2020/6 | Civil Engineering | Graduated, co-supervised with Prof. Zhen-Zhong Hu |
-| 3 | Jian Xiao | Design Optimization of Steel Frames based on Parametric Modeling and Genetic Algorithm | 2015/8 | 2019/6 | Civil Engineering | Graduated |
-| 4 | Mansour | BIM-based Compliance Checking for Fire Protection Design | 2013/8 | 2019/6 | Civil Engineering | Graduated |
+| 1 | Zi-Yi Yang | Named Entity Recognition based on Deep Learning for Compliance Checking | 2017/8 | 2021/6 | Civil Engineering | Graduated |
+| 2 | Zhong-Tian She | Classification of Regulatory Texts based on Machine Learning for Compliance Checking | 2017/8 | 2021/6 | Civil Engineering | Graduated |
+| 3 | Kai-Jun Huang | Constructing Knowlege Graph for Performance-based Design | 2017/8 | 2021/6 | Civil Engineering | Graduated |
+| 4 | Zi-Zhe Yuan | Status and Cases of BIM-based Compilance Checking | 2016/8 | 2020/6 | Construction Management | Graduated |
+| 5 | Yi Liu | Automatic Knowledge Acquisition in AEC Area | 2016/8 | 2020/6 | Civil Engineering | Graduated, co-supervised with Prof. Zhen-Zhong Hu |
+| 6 | Jian Xiao | Design Optimization of Steel Frames based on Parametric Modeling and Genetic Algorithm | 2015/8 | 2019/6 | Civil Engineering | Graduated |
+| 7 | Mansour | BIM-based Compliance Checking for Fire Protection Design | 2013/8 | 2019/6 | Civil Engineering | Graduated |
 
 ## Undergraduate Research Training
 ### Student Research Training Program (SRT)
@@ -83,3 +85,9 @@ author_profile: true
 | 6 | Long-Long Xu | Spatial-Temporal Analysis of Public Attentions of BIM in China | 2018/8 | 2020/3-2020/6 | Civil Engineering |  |
 | 7 | Jun-Yi Chen | Impact Factors of Public Attentions of BIM in China | 2018/8 | 2020/3-2020/6 | Civil Engineering |  |
 | 8 | Yi-Run Jiang | Visualization of Public Attentions of BIM in China | 2018/8 | 2020/3-2020/6 | Civil Engineering |  |
+| 9 | Jian-Tao Li | Ontology Modeling for Compilance Checking | 2019/8 | 2020/9-2020/12 | Civil Engineering |  |
+| 10 | Hong-Ming Lu | Ontology Modeling for Compilance Checking | 2019/8 | 2020/9-2020/12 | Civil Engineering |  |
+| 11 | Zhi-Gang Cheng | Speech Recognition for BIM | 2018/8 | 2020/9-2020/12 | Civil Engineering |  |
+| 12 | Si-Zhong Qin | Collection and Analysis of Social Media Data for City Resilience | 2019/8 | 2021/3-2021/6 | Civil Engineering |  |
+| 12 | Jun-Kai An | Collection and Analysis of Social Media Data for City Resilience | 2019/8 | 2021/3-2021/6 | Civil Engineering |  |
+| 12 | Chen-Yang Zhang | Collection and Analysis of Social Media Data for City Resilience | 2018/8 | 2021/3-2021/6 | Civil Engineering |  |
