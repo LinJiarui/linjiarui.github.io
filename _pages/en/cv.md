@@ -18,6 +18,7 @@ redirect_from:
 
 ## Work experience
 * July, 2021-Now: General Secretary of Professional Committee for Building Information Modeling, China Graphics Society
+* July, 2021-Now: Council Member of China Graphics Society
 * July, 2020-Now: Leader of Working Group for Graduate Affairs at Department of Civil Engineering, Tsinghua University
 * Dec, 2018-Now: Director of the Mechanics Computing and Simulation Laboratory, Tsinghua University
 * Aug, 2018-Now: Research Assistant Professor, Tsinghua University
