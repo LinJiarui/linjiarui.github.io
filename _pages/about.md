@@ -27,30 +27,41 @@ redirect_from:
 <ul>{% for post in posts limit:3 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+[查看全部>>]({{ site.baseurl }}/year-archive/)
 ## 近期论文
 {% assign publications = site.publications | where:"lang", page.lang %}
 {% assign publications = publications | reverse %}
 <ul>{% for post in publications limit:4 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+[查看全部>>]({{ site.baseurl }}/publications/)
 ## 近期报告
 {% assign talks = site.talks | where:"lang", page.lang %}
 {% assign talks = talks | reverse %}
 <ul>{% for post in talks limit:2 %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
+
+[查看全部>>]({{ site.baseurl }}/talks/)
 ## 近期项目
 {% assign projects = site.projects | where:"lang", page.lang %}
 {% assign projects = projects | reverse %}
 <ul>{% for post in projects limit:2 %}
   {% include archive-single-cv.html %}
+
 {% endfor %}</ul>
+
+[查看全部>>]({{ site.baseurl }}/projects/)
 ## 近期教学
 {% assign teaching = site.teaching | where:"lang", page.lang %}
 {% assign teaching = teaching | reverse %}
 <ul>{% for post in teaching limit:2 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+[查看全部>>]({{ site.baseurl }}/teaching/)
 ## 联系方式
 电话：(010)62789225
 邮箱：lin611(AT)tsinghua.edu.cn (请将`AT`替换为`@`)

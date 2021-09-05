@@ -29,30 +29,40 @@ Our group welcome application for research assistant, postdoctoral fellow in the
 <ul>{% for post in posts limit:3 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+[Find More>>]({{ site.baseurl }}/{{page.lang}}/year-archive/)
 ## Recent Publications
 {% assign publications = site.publications | where:"lang", page.lang %}
 {% assign publications = publications | reverse %}
 <ul>{% for post in publications limit:4 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+[Find More>>]({{ site.baseurl }}/{{page.lang}}/publications/)
 ## Recent Talks
 {% assign talks = site.talks | where:"lang", page.lang %}
 {% assign talks = talks | reverse %}
 <ul>{% for post in talks limit:2 %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
+
+[Find More>>]({{ site.baseurl }}/{{page.lang}}/talks/)
 ## Recent Projects
 {% assign projects = site.projects | where:"lang", page.lang %}
 {% assign projects = projects | reverse %}
 <ul>{% for post in projects limit:2 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+[Find More>>]({{ site.baseurl }}/{{page.lang}}/projects/)
 ## Recent Teaching Activities
 {% assign teaching = site.teaching | where:"lang", page.lang %}
 {% assign teaching = teaching | reverse %}
 <ul>{% for post in teaching limit:2 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+[Find More>>]({{ site.baseurl }}/{{page.lang}}/teaching/)
 ## Contact me
 TEL:86-10-62789225
 E-mail: lin611(AT)tsinghua.edu.cn (replace `AT` with `@`)
