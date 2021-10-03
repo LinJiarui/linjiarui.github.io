@@ -34,11 +34,12 @@ author_profile: true
 | No. | Name  | Major | Time Period | Research Topic | Info |
 | --- | ------ | -------- | -------- | -------- | ---- |
 | 1 | Sheng-Yu Song | Civil Engineering | 2020/8 | BIM, smart design, knowledge graph | Master |
-| 2 | Yu-Cheng Zhou | Civil Engineering | 2019/8 | BIM, performance-based design, rule checking | Master |
-| 3 | Ke-Xiao Yan | Civil Engineering | 2019/10 | BIM, deep learning, data mining | Master of UNSW |
-| 4 | Wei-Lu Jia | Architecture | 2015/8 | BIM, design, construction management |  |
-| 5 | Yun-Yi Zhang | Civil Engineering | 2011/8-2020/7 | BIM, building performance, big data | Ph.D., co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
-| 6 | Kai Kang | Civil Engineering | 2017/8-2020/7 | BIM, building performance, big data, service automation | Master, co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
+| 2 | Zhe Zhen | Civil Engineering | 2019/8-now | BIM, smart design, AI | Ph.D., co-supervised with Prof. Xinzheng Lu |
+| 3 | Yu-Cheng Zhou | Civil Engineering | 2019/8 | BIM, performance-based design, rule checking | Master |
+| 4 | Ke-Xiao Yan | Civil Engineering | 2019/10 | BIM, deep learning, data mining | Master of UNSW |
+| 5 | Wei-Lu Jia | Architecture | 2015/8 | BIM, design, construction management |  |
+| 6 | Yun-Yi Zhang | Civil Engineering | 2011/8-2020/7 | BIM, building performance, big data | Ph.D., co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
+| 7 | Kai Kang | Civil Engineering | 2017/8-2020/7 | BIM, building performance, big data, service automation | Master, co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
 
 ## Bachelor Thesis
 
