@@ -9,7 +9,7 @@ date: 2021-10-03
 venue: 'Buildings'
 doi: '10.3390/buildings11100456'
 paperurl: 'https://www.mdpi.com/2075-5309/11/10/456'
-citation: 'Sobhkhiz, S., Zhou, Y.C., Lin, J.R.*, El-Diraby, T.E. (2021). Framing and Evaluating the Best Practices of IFC-Based Automated Rule Checking: A Case Study. <i>Buildings</i>, 11, 456. doi: 10.3390/buildings11100456'
+citation: 'Sobhkhiz, S., Zhou, Y.C., Lin, J.R.*, El-Diraby, T.E. (2021). Framing and Evaluating the Best Practices of IFC-Based Automated Rule Checking: A Case Study. <i>Buildings</i>, 11(10), 456. doi: 10.3390/buildings11100456'
 
 comment: true
 category: journal

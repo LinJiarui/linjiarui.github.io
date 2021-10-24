@@ -17,8 +17,6 @@ redirect_from:
 * Aug, 2007-Jul, 2011: B.S. in Department of Civil Engineering, Tsinghua University
 
 ## Work experience
-* July, 2021-Now: General Secretary of Professional Committee for Building Information Modeling, China Graphics Society
-* July, 2021-Now: Council Member of China Graphics Society
 * July, 2020-Now: Leader of Working Group for Graduate Affairs at Department of Civil Engineering, Tsinghua University
 * Dec, 2018-Now: Director of the Mechanics Computing and Simulation Laboratory, Tsinghua University
 * Aug, 2018-Now: Research Assistant Professor, Tsinghua University
@@ -131,18 +129,21 @@ redirect_from:
 {% endfor %}</ul>
    
 ## Service and Leadership
-* Member of building information modeling committee of China Graphics Society
-* Special Expert of building information modeling center of Beijing City Planning Society
-* Editorial Member of _Advances in Civil Engineering_
+* July, 2021-Now: General Secretary of Professional Committee for Building Information Modeling, China Graphics Society
+* July, 2021-Now: Council Member of China Graphics Society
+* July, 2021-Now: Editorial Member of _Advances in Civil Engineering_
+* November, 2016-Now: Member of Committee for Building Information Modeling, China Graphics Society
+* August, 2018-Now: Special Expert of building information modeling center of Beijing City Planning Society
 ### Guest Editors
-* _Advances in Civil Engineering_
 * _Sensors_
+* _Advances in Civil Engineering_
 ### Reviewers
 * _Automation in Construction_
 * _Journal of Computing in Civil Engineering_
 * _Journal of Construction Engineering and Management_
 * _IEEE Transactions on Systems, Man and Cybernetics: Systems_
 * _Journal of Management in Engineering_
+* _Energy Reports_
 * _Engineering, Construction and Architectural Management_
 * _IEEE Access_
 * _Sensors_

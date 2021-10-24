@@ -7,9 +7,9 @@ permalink: /en/publications/2021-09-12-parameterized-fea-model-generation-and-si
 excerpt: 'This work proposes an parameterized finite element model generation and simulation method based on visual programming and OpenSees. The proposed method provides an automatic BIM-to-FEA conversion way that can efficiently generate FEA construction simulation models with various working conditions, and realizes a time-saving construction simulation framework based on BIM technology'
 date: 2021-09-12
 venue: 'Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE 2021)'
-doi: '10.13140/RG.2.2.17120.84481'
-paperurl: 'https://doi.org/10.13140/RG.2.2.17120.84481'
-citation: 'Song, S.Y., Lin, J.R.*, Zhou, Y.C., Ding, W.Q. (2021). Parameterized FEA Model Generation and Simulation of Underground Structures Based on BIM: A Case Study. <i>Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE 2021)</i>, 167-177. Orlando, Florida, USA.'
+doi: '10.13140/RG.2.2.24651.31527'
+paperurl: 'https://doi.org/10.13140/RG.2.2.24651.31527'
+citation: 'Song, S.Y., Lin, J.R.*, Zhou, Y.C., Ding, W.Q. (2021). Parameterized FEA Model Generation and Simulation of Underground Structures Based on BIM: A Case Study. <i>Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE 2021)</i>, xxx-xxx. Orlando, Florida, USA.'
 
 comment: true
 category: conference

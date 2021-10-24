@@ -17,8 +17,6 @@ redirect_from:
 * 2007年8月-2011年7月，清华大学土木系，工学学士
 
 ## 工作经历
-* 2021年7月-今，中国图学学会BIM专业委员会，秘书长
-* 2021年7月-今，中国图学学会，理事
 * 2020年7月-今，清华大学土木工程暨建设管理系，研工组组长
 * 2018年10月-今，清华大学土木系，力学计算与仿真实验室主任
 * 2018年8月-今，清华大学土木系，助理研究员
@@ -131,18 +129,21 @@ redirect_from:
 {% endfor %}</ul>
   
 ## 社会服务
-* 中国图学学会 BIM 专委会委员
-* 北京城市规划学会BIM研究与应用中心特聘专家
-* Advances in Civil Engineering 编委
+* 2021年7月-今，中国图学学会BIM专业委员会秘书长
+* 2021年7月-今，中国图学学会第八届理事
+* 2021年7月-今，Advances in Civil Engineering 编委
+* 2016年11月-今，中国图学学会BIM专委会委员
+* 2018年8月-今，北京城市规划学会BIM研究与应用中心特聘专家
 ### 专刊编委
-* Advances in Civil Engineering
 * Sensors
+* Advances in Civil Engineering
 ### 期刊审稿人
 * Automation in Construction
 * Journal of Computing in Civil Engineering
 * Journal of Construction Engineering and Management
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
 * Journal of Management in Engineering
+* Energy Reports
 * Engineering, Construction and Architectural Management
 * IEEE Access
 * Sensors
