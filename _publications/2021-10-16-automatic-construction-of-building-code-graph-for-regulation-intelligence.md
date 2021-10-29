@@ -39,7 +39,7 @@ grants:
 
 Building codes are composed of a set of requirements that govern the design, construction, and maintenance of buildings and structures. Currently, most building codes are stored in unstructured text-based documents. However, with the advance of artificial intelligence, these unstructured building codes are no longer meet the requirements toward regulation intelligence scenarios such as design compliance review, relation analysis, and so on. To address this problem, this research proposes a method to automatically collect and formalize building codes and transform them into a knowledge graph representation. The method mainly consists of three steps: 1) data collection, which automatically collects building codes by crawling data in the web; 2) data structuring, which automatically transforms text-based building codes (e.g., HTML and PDF) into XML structure; and 3) graph generation, which transforms XML-based building codes into Neo4j graph database. The proposed method is implemented and tested in a case study. The result demonstrates the feasibility of the method and shows that the generated knowledge graph can support multiple regulation intelligence scenarios such as regulation relation retrieval, regulation conflict analysis, design compliance review, and so forth. 
 
-论文第一作者周育丞于2021年10月16日下午在ICCREM 2021会议做了口头报告，论文同时获得ICCREM 2021国际会议优秀论文奖。
+论文第一作者周育丞于2021年10月16日下午在2021年建设与房地产国际学术研讨会（ICCREM 2021）做了口头报告，论文同时获得ICCREM 2021国际会议优秀论文奖。
 
 ![优秀论文奖]({{ site.baseurl }}/images/2021-10-16-best-paper-award-iccrem2021.jpg)
 
