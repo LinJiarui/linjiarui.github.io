@@ -18,15 +18,11 @@ slideshow:
     image_path: 2021-10-30-fireload-recognition-based-on-mask-rcnn-all.jpg
     title: "Fire Load Recognition based on Deep Learning"
     excerpt: "Mask-RCNN based indoor fire load recognition method and open dataset are developed"
-  - url: /en/posts/2021-05-10-sci-tech-award-of-ssce
-    image_path: 2021-05-10-sci-tech-award-of-ssce-lin.jpg
-    title: "We won the Second Prize of SSCE"
-    excerpt: "The project is related to BIM- and AI-based smart construction of large scale projects"
   - url: /en/publications/2021-10-28-data-integration-and-simplification-framework-for-site-planning-and-building-design
     image_path: 2021-10-28-data-integration-and-simplification-framework-for-site-planning-and-building-design-ga.jpg
     title: "BIM/GIS-based Framework for Planning and Design"
     excerpt: "A framework is proposed tointegrate BIM and GIS data for site planning and building design, which improves data integration and visualization significantly"
-  - url: /en/posts/2021-10-20-call-for-paper-digital-twin-for-resilience
+  - url: https://www.hindawi.com/journals/ace/si/421263/
     image_path: 2021-10-20-call-for-paper-digital-twin-for-resilience-ga.jpg
     title: "Call for Paper: Smart and Resilient Infrastructure"
     excerpt: "All papers related to AI- and digital twin-based smart and resilient infrastructures are welcome, submission deadline is Feb 18, 2022"
