@@ -28,6 +28,12 @@ grants:
   - 72091512
   - 51778336
   - 51908323
+
+header:
+  overlay_image: 2021-10-30-fireload-recognition-based-on-mask-rcnn.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Fire Load Recognition"
+  #cta_url: "full url here"
 ---
 
 

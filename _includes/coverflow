@@ -1,0 +1,59 @@
+{% include base_path %}
+
+{% if include.id %}
+  {% assign coverflow = page.[include.id] %}
+{% else %}
+  {% assign coverflow = page.coverflow %}
+{% endif %}
+
+{% assign middle=coverflow.size | divided_by:2 %}
+{% assign c=0 %}
+
+<div class="container">
+  <div class="wgh-slider">
+  {% for f in coverflow %}
+    {% if c==middle %}
+    <input class="wgh-slider-target" type="radio" id="slide-{{c}}" name="slider" checked="checked"/>
+    {% else %}
+    <input class="wgh-slider-target" type="radio" id="slide-{{c}}" name="slider"/>
+    {% endif %}
+    {% assign c= c| plus:1 %}
+  {% endfor %}
+
+    <div class="wgh-slider__viewport">
+      <div class="wgh-slider__viewbox">
+        <div class="wgh-slider__container">
+        {% assign c=0 %}
+        {% for f in coverflow %}
+          
+          {% if f.url contains "://" %}
+            {% capture f_url %}{{ f.url }}{% endcapture %}
+          {% else %}
+            {% capture f_url %}{{ f.url | prepend: base_path }}{% endcapture %}
+          {% endif %}
+          
+          <div class="wgh-slider-item">
+            <div class="wgh-slider-item__inner">
+              <figure class="wgh-slider-item-figure">
+                <img class="wgh-slider-item-figure__image" src=
+                {% if f.image_path contains "://" %}
+                  "{{ f.image_path }}"
+                {% else %}
+                  "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
+                {% endif %}
+                alt="{{f.alt}}"/>
+                <figcaption class="wgh-slider-item-figure__caption"><a href="{{f_url}}">{{f.title}}</a></figcaption>
+              </figure>
+              <label class="wgh-slider-item__trigger" for="slide-{{c}}" title="{{f.alt}}"></label>
+            </div>
+          </div>          
+          
+          {% assign c= c| plus:1 %}
+        {% endfor %}          
+          
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,63 @@
+{% include base_path %}
+
+{% if include.id %}
+  {% assign slideshow = page.[include.id] %}
+{% else %}
+  {% assign slideshow = page.slideshow %}
+{% endif %}
+
+{% assign prefix=">>>" %}
+
+{% assign c=0 %}
+
+
+<div id="slider">
+  <div class="slides">
+    {% for f in slideshow %}
+      {% if f.url contains "://" %}
+        {% capture f_url %}{{ f.url }}{% endcapture %}
+      {% else %}
+        {% capture f_url %}{{ f.url | prepend: base_path }}{% endcapture %}
+      {% endif %}
+      
+      <div class="slider">
+        <div class="legend"></div>
+        <div class="content">
+          <div class="content-txt">
+            <h2>{{f.title}}</h2>
+            <p>
+              {% if f.excerpt %}
+                {{ f.excerpt }}
+              {% endif %}
+              <a href="{{ f_url }}">{{ prefix }} {{ site.data.ui-text[page.lang].more_label | default: "Learn More" }}</a>
+            </p>
+          </div>
+        </div>
+        <div class="image">
+          <img src=
+            {% if f.image_path contains "://" %}
+              "{{ f.image_path }}"
+            {% else %}
+              "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
+            {% endif %}>
+        </div>
+      </div>
+      
+      
+    {% endfor %}
+  </div>
+  
+  <div class="switch">
+    <ul>
+      {% for f in slideshow %}
+        <li>
+        {% if c==0 %}
+          <div class="on"></div>
+        {% endif %}
+        </li>
+        {% assign c= c| plus:1 %}
+      {% endfor %}
+    </ul>
+  </div>
+
+</div>

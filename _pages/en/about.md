@@ -8,6 +8,28 @@ author_profile: true
 redirect_from: 
   - /en/about/
   - /en/about.html
+
+slideshow:
+  - url: /en/publications/2021-10-03-best-practices-of-ifc-based-ARC-case-study
+    image_path: 2021-10-03-best-practices-of-ifc-based-ARC-case-study-ga.jpg
+    title: "Best Practice for Automatic Compliance Checking"
+    excerpt: "A framework for proactive ARC is proposed, which chould interactively generate design suggestions based on ARC"
+  - url: /en/publications/2021-10-30-fireload-recognition-based-on-mask-rcnn
+    image_path: 2021-10-30-fireload-recognition-based-on-mask-rcnn-all.jpg
+    title: "Fire Load Recognition based on Deep Learning"
+    excerpt: "Mask-RCNN based indoor fire load recognition method and open dataset are developed"
+  - url: /en/posts/2021-05-10-sci-tech-award-of-ssce
+    image_path: 2021-05-10-sci-tech-award-of-ssce-lin.jpg
+    title: "We won the Second Prize of SSCE"
+    excerpt: "The project is related to BIM- and AI-based smart construction of large scale projects"
+  - url: /en/publications/2021-10-28-data-integration-and-simplification-framework-for-site-planning-and-building-design
+    image_path: 2021-10-28-data-integration-and-simplification-framework-for-site-planning-and-building-design-ga.jpg
+    title: "BIM/GIS-based Framework for Planning and Design"
+    excerpt: "A framework is proposed tointegrate BIM and GIS data for site planning and building design, which improves data integration and visualization significantly"
+  - url: /en/posts/2021-10-20-call-for-paper-digital-twin-for-resilience
+    image_path: 2021-10-20-call-for-paper-digital-twin-for-resilience-ga.jpg
+    title: "Call for Paper: Smart and Resilient Infrastructure"
+    excerpt: "All papers related to AI- and digital twin-based smart and resilient infrastructures are welcome, submission deadline is Feb 18, 2022"
 ---
 
 Dr. Jia-Rui Lin is currently a research assistant professor at the Disaster Prevention and Mitigation Institute of Tsinghua University, and concurrently the director of the Mechanics Computing and Simulation Laboratory of the Mechanics Experimental Teaching Center of Tsinghua University. He also serves as the general secretary of Professional Committee for Building Information Modeling, China Graphics Society. Dr. Lin obtained his bachelor's degree (2011) and Ph.D. (2016) from the Department of Civil Engineering of Tsinghua University. After finished his postdoctoral research in 2018, he joined the New Technologies for Disaster Prevention and Mitigation Group of Tsinghua University. Dr. Lin was also visiting scholars of Stanford University, RWTH-Aachen University and University of Southern California.
@@ -16,11 +38,12 @@ His research interests are information technology for building and civil enginee
 
 Recently, he was granted by the national natural science foundation, national key R&D program, Beijing natural science foundation, etc. for about 10 projects, and he has successfully finished about 10 projects funded by the national key R&D Program, national science foundation of China and other organizations, and has co-authored more than 60 peer-reviewed journal and conference papers, 4 book chapters. He also holds 15 software copyrights. 
 
-{% include base_path %}
-
-
 ## Join Us
 Our group welcome application for research assistant, postdoctoral fellow in the field of construction informatics, civil engineering, please email me for detail with your CV (email address could be found at the end of this page).
+
+{% include base_path %}
+
+{% include slideshow %}
 
 ## News
 {% assign posts = site.posts | where:"lang", page.lang %}

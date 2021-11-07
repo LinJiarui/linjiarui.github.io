@@ -8,6 +8,28 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+slideshow:
+  - url: /publications/2021-10-03-best-practices-of-ifc-based-ARC-case-study
+    image_path: 2021-10-03-best-practices-of-ifc-based-ARC-case-study-ga.jpg
+    title: "智能审图最佳实践论文已发表"
+    excerpt: "研究提出考虑用户需求的主动式审图框架，可动态输出设计参数取值建议"
+  - url: /publications/2021-10-30-fireload-recognition-based-on-mask-rcnn
+    image_path: 2021-10-30-fireload-recognition-based-on-mask-rcnn-all.jpg
+    title: "火荷载自动识别的论文已发表"
+    excerpt: "研究构建了首个室内火荷载标注数据集及深度学习识别算法"
+  - url: /posts/2021-05-10-sci-tech-award-of-ssce
+    image_path: 2021-05-10-sci-tech-award-of-ssce-lin.jpg
+    title: "课题组获上海土木学会科技进步二等奖奖"
+    excerpt: "成果名称为《基于BIM和人工智能的超大型工程虚拟建造关键技术与应用》，由上海建工与清华大学共同完成"
+  - url: /publications/2021-10-28-data-integration-and-simplification-framework-for-site-planning-and-building-design
+    image_path: 2021-10-28-data-integration-and-simplification-framework-for-site-planning-and-building-design-ga.jpg
+    title: "乡村建设BIM/GIS平台研发论文已在线发表"
+    excerpt: "面向乡村住宅规划与设计，提出融合GIS和BIM的信息集成与轻量化框架，大幅提升数据整合及可视化效率"
+  - url: /posts/2021-10-20-call-for-paper-digital-twin-for-resilience
+    image_path: 2021-10-20-call-for-paper-digital-twin-for-resilience-ga.jpg
+    title: "智能韧性基础设施征稿"
+    excerpt: "主题为基于AI和数字孪生智能韧性基础设施，截止日期2022年2月18日"
 ---
 
 林佳瑞，现任清华大学土木系防灾减灾所助理研究员，兼任清华大学力学实验教学中心力学计算与仿真实验室主任、土木工程暨建设管理系研工组组长以及中国图学学会理事、BIM专委会秘书长等职务。先后于清华大学土木系获得学士（2011年）、博士学位（2016年），2018年博士后出站后加入清华大学土木系防灾减灾新技术研究团队。斯坦福大学、亚琛工业大学、南加州大学访问学者。
@@ -20,6 +42,9 @@ redirect_from:
 本课题组长期招收研究助理、研究生或博士后，欢迎感兴趣的同学联系我（联系方式见本页末尾），来信请简单自我介绍并附简历。
 
 {% include base_path %}
+
+{% include slideshow %}
+
 ## 新闻
 {% assign posts = site.posts | where:"lang", page.lang %}
 {% assign posts = posts | sort: 'date' %}
