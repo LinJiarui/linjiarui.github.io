@@ -9,7 +9,7 @@ date: 2021-10-30
 venue: 'IEEE Access'
 doi: '10.1109/ACCESS.2021.3124831'
 paperurl: 'http://doi.org/10.1109/ACCESS.2021.3124831'
-citation: 'Zhou, Y.C., Hu, Z.Z., Yan, K.X., Lin, J.R.* (2021). Deep Learning-based Instance Segmentation for Indoor Fire Load Recognition. <i>IEEE Access</i>, 9, xxx-xxx. doi: 10.1109/ACCESS.2021.3124831'
+citation: 'Zhou, Y.C., Hu, Z.Z., Yan, K.X., Lin, J.R.* (2021). Deep Learning-based Instance Segmentation for Indoor Fire Load Recognition. <i>IEEE Access</i>, 9, 148771-148782. doi: 10.1109/ACCESS.2021.3124831'
 
 comment: true
 category: journal

@@ -9,7 +9,7 @@ date: 2021-10-28
 venue: 'IEEE Access'
 doi: '10.1109/ACCESS.2021.3124010'
 paperurl: 'http://doi.org/10.1109/ACCESS.2021.3124010'
-citation: 'Leng, S., Lin, J.R., Li, S.W., Hu, Z.Z.* (2021). A Data Integration and Simplification Framework for Improving Site Planning and Building Design. <i>IEEE Access</i>, 9, xxx-xxx. doi: 10.1109/ACCESS.2021.3124010'
+citation: 'Leng, S., Lin, J.R., Li, S.W., Hu, Z.Z.* (2021). A Data Integration and Simplification Framework for Improving Site Planning and Building Design. <i>IEEE Access</i>, 9, 148845-148861. doi: 10.1109/ACCESS.2021.3124010'
 
 comment: true
 category: journal
