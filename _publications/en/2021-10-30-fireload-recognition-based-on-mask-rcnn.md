@@ -49,3 +49,10 @@ Accurate fire load (combustible objects) information is crucial for safety desig
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2021-10-30-fireload-recognition-based-on-mask-rcnn.pdf)
 
 This work was supported in part by the National Natural Science Foundation of China under Grant 72091512, 51778336 and 51908323.
+
+
+Accession Number: WOS:000716673600001
+
+ISSN: 2169-3536
+
+IDS Number: WU6SR

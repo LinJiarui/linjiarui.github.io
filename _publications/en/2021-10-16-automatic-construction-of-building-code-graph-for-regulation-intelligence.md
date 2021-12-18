@@ -7,9 +7,9 @@ permalink: /en/publications/2021-10-16-automatic-construction-of-building-code-g
 excerpt: 'Tish research proposes a method to automatically collect and formalize building codes and transform them into a knowledge graph representation for regulatory intelligence. By converting regulatory texts into XML-based documents and neo4j graphs based on NLP techniques, it is possible to search relationships and identify potential conflicts between different codes, even design compliance review could be improved with the generated building code graph'
 date: 2021-10-16
 venue: 'Proceedings of the 2021 International Conference on Construction and Real Estate Management (ICCREM 2021)'
-doi: '10.13140/RG.2.2.31362.20162'
-paperurl: 'https://doi.org/10.13140/RG.2.2.31362.20162'
-citation: 'Zhou, Y.C., Lin, J.R.*,  She, Z.T. (2021). Automatic Construction of Building Code Graph for Regulation Intelligence. <i>Proceedings of the 2021 International Conference on Construction and Real Estate Management (ICCREM 2021)</i>, xxx-xxx. Beijing, China.'
+doi: '10.1061/9780784483848.028'
+paperurl: 'https://doi.org/10.1061/9780784483848.028'
+citation: 'Zhou, Y.C., Lin, J.R.*,  She, Z.T. (2021). Automatic Construction of Building Code Graph for Regulation Intelligence. <i>Proceedings of the 2021 International Conference on Construction and Real Estate Management (ICCREM 2021)</i>, 248-254. Beijing, China.'
 
 comment: true
 category: conference

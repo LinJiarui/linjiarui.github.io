@@ -44,3 +44,10 @@ Site planning and building design results are generally managed in Geographic In
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2021-10-28-data-integration-and-simplification-framework-for-site-planning-and-building-design.pdf)
 
 This work was supported in part by the National Key Research and Development Program of China under Grant 2018YFD1100900, and in part by the National Natural Science Foundation of China under Grant 51778336 and Grant 72091512.
+
+
+Accession Number: WOS:000716675800001
+
+ISSN: 2169-3536
+
+IDS Number: WU6TN
