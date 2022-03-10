@@ -131,11 +131,13 @@ redirect_from:
 ## Service and Leadership
 * July, 2021-Now: General Secretary of Professional Committee for Building Information Modeling, China Graphics Society
 * July, 2021-Now: Council Member of China Graphics Society
+* July, 2021-Now: Member of Working Committee for Youth Development, China Graphics Society
 * July, 2021-Now: Editorial Member of _Advances in Civil Engineering_
-* November, 2016-Now: Member of Committee for Building Information Modeling, China Graphics Society
+* November, 2016-Now: Member of Professional Committee for Building Information Modeling, China Graphics Society
 * August, 2018-Now: Special Expert of building information modeling center of Beijing City Planning Society
 ### Guest Editors
 * _Sensors_
+* _Buildings_
 * _Advances in Civil Engineering_
 ### Reviewers
 * _Automation in Construction_
@@ -148,6 +150,7 @@ redirect_from:
 * _IEEE Access_
 * _Sensors_
 * _Applied Sciences_
+* _Safety_
 * _Mobile Information Systems_
 * _Advances in Structural Engineering_
 * _Advances in Civil Engineering_

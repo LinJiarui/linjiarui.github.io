@@ -9,7 +9,7 @@ date: 2021-04-12
 venue: 'Archives of Computational Methods in Engineering'
 doi: '10.1007/s11831-021-09576-9'
 paperurl: 'http://doi.org/10.1007/s11831-021-09576-9'
-citation: 'Hu, Z.Z.*, Leng, S., Lin, J.R., Li, S.W., Xiao, Y.Q. (2021). Knowledge Extraction and Discovery Based on BIM: A Critical Review and Future Directions. <i>Archives of Computational Methods in Engineering</i>. doi: 10.1007/s11831-021-09576-9'
+citation: 'Hu, Z.Z.*, Leng, S., Lin, J.R., Li, S.W., Xiao, Y.Q. (2022). Knowledge Extraction and Discovery Based on BIM: A Critical Review and Future Directions. <i>Archives of Computational Methods in Engineering</i>, 29(1), 335-356. doi: 10.1007/s11831-021-09576-9'
 
 comment: true
 category: journal

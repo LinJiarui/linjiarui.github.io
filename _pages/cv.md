@@ -131,11 +131,13 @@ redirect_from:
 ## 社会服务
 * 2021年7月-今，中国图学学会BIM专业委员会秘书长
 * 2021年7月-今，中国图学学会第八届理事
+* 2021年7月-今，中国图学学会青年工作委员会委员
 * 2021年7月-今，Advances in Civil Engineering 编委
 * 2016年11月-今，中国图学学会BIM专委会委员
 * 2018年8月-今，北京城市规划学会BIM研究与应用中心特聘专家
 ### 专刊编委
 * Sensors
+* Buildings
 * Advances in Civil Engineering
 ### 期刊审稿人
 * Automation in Construction
@@ -148,6 +150,7 @@ redirect_from:
 * IEEE Access
 * Sensors
 * Applied Sciences
+* Safety
 * Mobile Information Systems
 * Advances in Civil Engineering
 * Advances in Structural Engineering

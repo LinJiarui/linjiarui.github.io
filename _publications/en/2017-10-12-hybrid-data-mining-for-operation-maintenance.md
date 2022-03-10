@@ -9,7 +9,7 @@ date: 2017-10-12
 venue: 'Building and Environment'
 doi: '10.1016/j.buildenv.2017.09.030'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360132317304444'
-citation: 'Peng, Y., Lin, J., Zhang, J., Hu, Z.* (2017). A Hybrid Data Mining Approach on BIM-based Building Operation and Maintenance. <i>Building and Environment</i>, 126, 483-495. doi: 10.1016/j.buildenv.2017.09.030'
+citation: 'Peng, Y., Lin, J.R., Zhang, J.P., Hu, Z.Z.* (2017). A Hybrid Data Mining Approach on BIM-based Building Operation and Maintenance. <i>Building and Environment</i>, 126, 483-495. doi: 10.1016/j.buildenv.2017.09.030'
 
 comment: true
 category: journal
