@@ -15,7 +15,6 @@ comment: true
 category: journal
 
 tags: 
-  - 
   - information extraction
   - MEP
   - rule match
