@@ -10,6 +10,10 @@ redirect_from:
   - /en/about.html
 
 slideshow:
+  - url: /en/publications/2022-03-11-how-human-robot-collaboration-impacts-construction-productivity
+    image_path: 2022-03-11-how-human-robot-collaboration-impacts-construction-productivity-ga.jpg
+    title: "Human-Robot Collaboration and its Impact on Productivity"
+    excerpt: "A multi-fidelity modeling approach is proposed, which shows the complexity of HRC"
   - url: /en/publications/2021-10-03-best-practices-of-ifc-based-ARC-case-study
     image_path: 2021-10-03-best-practices-of-ifc-based-ARC-case-study-ga.jpg
     title: "Best Practice for Automatic Compliance Checking"
@@ -18,14 +22,10 @@ slideshow:
     image_path: 2021-10-30-fireload-recognition-based-on-mask-rcnn-all.jpg
     title: "Fire Load Recognition based on Deep Learning"
     excerpt: "Mask-RCNN based indoor fire load recognition method and open dataset are developed"
-  - url: /en/publications/2021-10-28-data-integration-and-simplification-framework-for-site-planning-and-building-design
-    image_path: 2021-10-28-data-integration-and-simplification-framework-for-site-planning-and-building-design-ga.jpg
-    title: "BIM/GIS-based Framework for Planning and Design"
-    excerpt: "A framework is proposed tointegrate BIM and GIS data for site planning and building design, which improves data integration and visualization significantly"
   - url: https://www.hindawi.com/journals/ace/si/421263/
     image_path: 2021-10-20-call-for-paper-digital-twin-for-resilience-ga.jpg
     title: "Call for Paper: Smart and Resilient Infrastructure"
-    excerpt: "All papers related to AI- and digital twin-based smart and resilient infrastructures are welcome, submission deadline is Feb 18, 2022"
+    excerpt: "All papers related to AI- and digital twin-based smart and resilient infrastructures are welcome, submission deadline is May 20, 2022"
 ---
 
 Dr. Jia-Rui Lin is currently a research assistant professor at the Disaster Prevention and Mitigation Institute of Tsinghua University, and concurrently the director of the Mechanics Computing and Simulation Laboratory of the Mechanics Experimental Teaching Center of Tsinghua University. He also serves as the general secretary of Professional Committee for Building Information Modeling, China Graphics Society. Dr. Lin obtained his bachelor's degree (2011) and Ph.D. (2016) from the Department of Civil Engineering of Tsinghua University. After finished his postdoctoral research in 2018, he joined the New Technologies for Disaster Prevention and Mitigation Group of Tsinghua University. Dr. Lin was also visiting scholars of Stanford University, RWTH-Aachen University and University of Southern California.
