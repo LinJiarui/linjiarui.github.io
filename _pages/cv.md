@@ -144,6 +144,9 @@ redirect_from:
 * Journal of Computing in Civil Engineering
 * Journal of Construction Engineering and Management
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
+* Archives of Computational Methods in Engineering
+* Advanced Engineering Informatics
+* Remote Sensing
 * Journal of Management in Engineering
 * Energy Reports
 * Engineering, Construction and Architectural Management
