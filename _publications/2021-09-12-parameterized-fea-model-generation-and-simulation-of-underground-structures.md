@@ -7,9 +7,9 @@ permalink: /publications/2021-09-12-parameterized-fea-model-generation-and-simul
 excerpt: '论文将可视化编程与OpenSees相结合，提出一种基于参数化的地下结构有限元模型参数化生成与仿真方法，可自动生成施工过程不同时间点的仿真模型并自动分析结构受力情况，有关成果对地铁结构施工安全风险识别与管控具有重要意义'
 date: 2021-09-12
 venue: 'Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE 2021)'
-doi: '10.13140/RG.2.2.24651.31527'
-paperurl: 'https://doi.org/10.13140/RG.2.2.24651.31527'
-citation: 'Song, S.Y., Lin, J.R.*, Zhou, Y.C., Ding, W.Q. (2021). Parameterized FEA Model Generation and Simulation of Underground Structures Based on BIM: A Case Study. <i>Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE 2021)</i>, xxx-xxx. Orlando, Florida, USA.'
+doi: '10.1061/9780784483893.051'
+paperurl: 'https://doi.org/10.1061/9780784483893.051'
+citation: 'Song, S.Y., Lin, J.R.*, Zhou, Y.C., Ding, W.Q. (2021). Parameterized FEA Model Generation and Simulation of Underground Structures Based on BIM: A Case Study. <i>Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE 2021)</i>, 408-416. Orlando, Florida, USA.'
 
 comment: true
 category: conference
