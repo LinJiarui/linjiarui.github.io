@@ -12,7 +12,7 @@ paperurl: 'http://doi.org/10.13140/RG.2.2.15951.15522'
 citation: 'Lin, J.R.*, Wu, M. (2022). Exploiting the Power of Human-Robot Collaboration: Coupling and Scale Effects in Bricklaying. <i>ICRA Workshop 2022</i>, May 23, 2022, Philadelphia, United States. doi: 10.13140/RG.2.2.15951.15522'
 
 comment: true
-category: journal
+category: conference
 
 tags: 
   - human-robot collaboration

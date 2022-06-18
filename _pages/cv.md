@@ -158,6 +158,8 @@ redirect_from:
 * Advances in Civil Engineering
 * Advances in Structural Engineering
 * Canadian Journal of Civil Engineering
+* Journal of Advanced Transportation
+* Mathematical Problems in Engineering
 * Journal of Structural Integrity and Maintenance
 * Frontiers of Engineering Management
 * Energy and Built Environment
