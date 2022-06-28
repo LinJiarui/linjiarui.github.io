@@ -8,7 +8,7 @@ excerpt: 'This paper reviews studies on the integration of BIM, IoT, Cloud Compu
 date: 2018-10-15
 venue: 'Journal of Graphics'
 doi: '10.11996/JG.j.2095-302X.2018050806'
-paperurl: 'http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2018050806'
+paperurl: 'http://www.txxb.com.cn/EN/10.11996/JG.j.2095-302X.2018050806'
 citation: 'Zhang, Y., Lin, J.*, Zhang, J. (2018). Present and Future of Integrated Applications of BIM, Cloud Computing, Big Data and Internet of Things. <i>Journal of Graphics</i>, 39(5), 806-816. doi: 10.11996/JG.j.2095-302X.2018050806'
 
 comment: true

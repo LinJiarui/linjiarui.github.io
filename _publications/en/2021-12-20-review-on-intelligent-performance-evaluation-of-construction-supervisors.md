@@ -8,7 +8,7 @@ excerpt: 'This paper systematically reviews state-of-the-art research on intelli
 date: 2021-12-20
 venue: 'Journal of Graphics'
 doi: '10.11996/JG.j.2095-302X.2021061002'
-paperurl: 'http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2021061002'
+paperurl: 'http://www.txxb.com.cn/EN/10.11996/JG.j.2095-302X.2021061002'
 citation: 'Zheng, W., Lin, J.R.*, Yang, C., Yan, K.X., Cheng, Y. (2021). Review on Intelligent Performance Evaluation of Construction Supervisors. <i>Journal of Graphics</i>, 42(6), 1002-1010. doi: 10.11996/JG.j.2095-302X.2021061002'
 
 comment: true

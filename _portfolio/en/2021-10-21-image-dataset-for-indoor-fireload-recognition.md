@@ -20,4 +20,6 @@ tags:
 
 To the best of our knowledge, we developed and opened the first image dataset for the detection and segmentation of indoor fire loads. With in the dataset, there are 8858 instances in 1015 images labelled according to their materials (such as fabric, wood, plastic, etc.) and combustibility, which are quite useful for indoor fire load estimation, resilience assessment, etc. We also developed a Mask-RCNN-based method for indoor fire load recognition, ref to [our paper]({{site.baseurl}}/en/publications/2021-10-30-fireload-recognition-based-on-mask-rcnn) for details. Source code and dataset are also available [on github](https://github.com/smartaec/fire-load-detection) for future invesigations.
 
+The dataset is also pubshed in [IEEE DataPort](https://dx.doi.org/10.21227/qkk3-2145), and you can cite the dataset as follows:
 
+Lin, J.R.*, Zhou, Y.C., Yan, K.C., Hu, Z.Z. (2022). IDFire: Image Dataset for Indoor Fire Load Recognition. IEEE Dataport, doi: 10.21227/qkk3-2145

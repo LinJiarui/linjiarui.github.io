@@ -20,4 +20,6 @@ tags:
 
 课题组构建了首个室内场景火荷载标注图像数据集，共包括图片1015张，覆盖织物、木材、塑料、玻璃等不同材料类型以及易燃、可燃、不然等常见室内火荷载类别，对未来室内火荷载自动估计、风险与韧性评估具有重要意义。团队同时开发了并基于深度实例分割的室内火荷载识别算法，详见[论文]({{site.baseurl}}/publications/2021-10-30-fireload-recognition-based-on-mask-rcnn)。有关算法和数据集也在[github开源](https://github.com/smartaec/fire-load-detection)，供大家研究参考。
 
+有关数据同时在[IEEE DataPort公开](https://dx.doi.org/10.21227/qkk3-2145)，可以通过以下方式引用：
 
+Lin, J.R.*, Zhou, Y.C., Yan, K.C., Hu, Z.Z. (2022). IDFire: Image Dataset for Indoor Fire Load Recognition. IEEE Dataport, doi: 10.21227/qkk3-2145
