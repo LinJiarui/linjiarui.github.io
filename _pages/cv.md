@@ -145,6 +145,7 @@ redirect_from:
 * Journal of Construction Engineering and Management
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
 * Archives of Computational Methods in Engineering
+* Artificial Intelligence Review
 * Advanced Engineering Informatics
 * Remote Sensing
 * Journal of Management in Engineering
@@ -159,6 +160,7 @@ redirect_from:
 * Advances in Structural Engineering
 * Canadian Journal of Civil Engineering
 * Journal of Advanced Transportation
+* Journal of Environmental and Public Health
 * Mathematical Problems in Engineering
 * Journal of Structural Integrity and Maintenance
 * Frontiers of Engineering Management

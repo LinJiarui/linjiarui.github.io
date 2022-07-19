@@ -9,7 +9,7 @@ date: 2022-06-13
 venue: 'Computers in Industry'
 doi: '10.1016/j.compind.2022.103733'
 paperurl: 'http://doi.org/10.1016/j.compind.2022.103733'
-citation: 'Zheng, Z., Lu, X.Z., Chen, K.Y., Zhou, Y.C., Lin, J.R.*. (2022). Pretrained Domain-Specific Language Model for Natural Language Processing Tasks in the AEC Domain. <i>Computers in Industry</i>, 142, 103733. doi: 10.1016/j.compind.2022.103733'
+citation: 'Zheng, Z., Lu, X.Z., Chen, K.Y., Zhou, Y.C., Lin, J.R.* (2022). Pretrained Domain-Specific Language Model for Natural Language Processing Tasks in the AEC Domain. <i>Computers in Industry</i>, 142, 103733. doi: 10.1016/j.compind.2022.103733'
 
 comment: true
 category: journal
