@@ -147,6 +147,7 @@ redirect_from:
 * Archives of Computational Methods in Engineering
 * Artificial Intelligence Review
 * Advanced Engineering Informatics
+* Tunnelling and Underground Space Technology
 * Remote Sensing
 * Journal of Management in Engineering
 * Energy Reports
