@@ -10,6 +10,10 @@ redirect_from:
   - /en/about.html
 
 slideshow:
+  - url: /en/posts/2022-08-05-call-for-paper-3D-CV-and-BIM
+    image_path: 2022-08-05-call-for-paper-3D-BIM-ga.jpg
+    title: "Call for Papers: 3D CV and Smart Building/City"
+    excerpt: "Multiple SCI-indexed journals are involved, submission before Jan 20, 2024"
   - url: /en/publications/2022-03-11-how-human-robot-collaboration-impacts-construction-productivity
     image_path: 2022-03-11-how-human-robot-collaboration-impacts-construction-productivity-ga.jpg
     title: "Human-Robot Collaboration and its Impact on Productivity"
@@ -22,10 +26,6 @@ slideshow:
     image_path: 2021-10-30-fireload-recognition-based-on-mask-rcnn-all.jpg
     title: "Fire Load Recognition based on Deep Learning"
     excerpt: "Mask-RCNN based indoor fire load recognition method and open dataset are developed"
-  - url: https://www.hindawi.com/journals/ace/si/421263/
-    image_path: 2021-10-20-call-for-paper-digital-twin-for-resilience-ga.jpg
-    title: "Call for Paper: Smart and Resilient Infrastructure"
-    excerpt: "All papers related to AI- and digital twin-based smart and resilient infrastructures are welcome, submission deadline is May 20, 2022"
 ---
 
 Dr. Jia-Rui Lin is currently a research assistant professor at the Disaster Prevention and Mitigation Institute of Tsinghua University, and concurrently the director of the Mechanics Computing and Simulation Laboratory of the Mechanics Experimental Teaching Center of Tsinghua University. He also serves as the general secretary of Professional Committee for Building Information Modeling, China Graphics Society. Dr. Lin obtained his bachelor's degree (2011) and Ph.D. (2016) from the Department of Civil Engineering of Tsinghua University. After finished his postdoctoral research in 2018, he joined the New Technologies for Disaster Prevention and Mitigation Group of Tsinghua University. Dr. Lin was also visiting scholars of Stanford University, RWTH-Aachen University and University of Southern California.

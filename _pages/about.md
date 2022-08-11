@@ -10,6 +10,10 @@ redirect_from:
   - /about.html
 
 slideshow:
+  - url: /posts/2022-08-05-call-for-paper-3D-CV-and-BIM
+    image_path: 2022-08-05-call-for-paper-3D-BIM-ga.jpg
+    title: "3D计算机视觉及智慧建筑/城市论文征稿"
+    excerpt: "Drones，Sustainability，Sensors，Buildings，Energies多期刊支持，2024/1/10截止"
   - url: /publications/2022-03-11-how-human-robot-collaboration-impacts-construction-productivity
     image_path: 2022-03-11-how-human-robot-collaboration-impacts-construction-productivity-ga.jpg
     title: "人机协同建造过程仿真论文已在AEI发表"
@@ -23,10 +27,6 @@ slideshow:
     image_path: 2021-10-30-fireload-recognition-based-on-mask-rcnn-all.jpg
     title: "火荷载自动识别的论文已发表"
     excerpt: "研究构建了首个室内火荷载标注数据集及深度学习识别算法"
-  - url: https://www.hindawi.com/journals/ace/si/421263/
-    image_path: 2021-10-20-call-for-paper-digital-twin-for-resilience-ga.jpg
-    title: "智能韧性基础设施征稿"
-    excerpt: "主题为基于AI和数字孪生智能韧性基础设施，截止日期2022年5月20日"
 ---
 
 林佳瑞，现任清华大学土木系防灾减灾所助理研究员，兼任清华大学力学实验教学中心力学计算与仿真实验室主任、土木工程暨建设管理系研工组组长以及中国图学学会理事、BIM专委会秘书长等职务。先后于清华大学土木系获得学士（2011年）、博士学位（2016年），2018年博士后出站后加入清华大学土木系防灾减灾新技术研究团队。斯坦福大学、亚琛工业大学、南加州大学访问学者。

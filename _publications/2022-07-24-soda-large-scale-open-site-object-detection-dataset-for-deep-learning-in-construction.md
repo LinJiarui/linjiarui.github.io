@@ -9,7 +9,7 @@ date: 2022-07-24
 venue: 'Automation in Construction'
 doi: '10.1016/j.autcon.2022.104499'
 paperurl: 'http://doi.org/10.1016/j.autcon.2022.104499'
-citation: 'Duan, R., Deng, H., Tian, M. Deng, Y.C., Lin, J.R. (2022). SODA: A Large-scale Open Site Object Detection Dataset for Deep Learning in Construction. <i>Automation in Construction</i>, 142, 104499. doi: 10.1016/j.autcon.2022.104499'
+citation: 'Duan, R., Deng, H., Tian, M., Deng, Y.C., Lin, J.R. (2022). SODA: A Large-scale Open Site Object Detection Dataset for Deep Learning in Construction. <i>Automation in Construction</i>, 142, 104499. doi: 10.1016/j.autcon.2022.104499'
 
 comment: true
 category: journal
