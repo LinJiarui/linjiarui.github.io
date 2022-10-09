@@ -4,7 +4,7 @@ lang: en
 ref: publications/2022-08-03-knowledge-informed-semantic-alignment-and-rule-interpretation-for-ACC
 collection: publications
 permalink: /en/publications/2022-08-03-knowledge-informed-semantic-alignment-and-rule-interpretation-for-ACC
-excerpt: 'To fill the semantic gaps between design models and regulatory texts, a knowledge-informed framework for improved ARC is proposed based on natural language processing, which achieves a 90.1% accuracy and substantially outperforms the commonly used keyword matching method, and boosts the performance of rule interpretation by 5 times'
+excerpt: 'We proposed a knowledge-informed approach to bridge the semantic gaps between regulatory documents and design models for automated compliance checking, enabling interpretation and reasoning of complex rules with implicit properties and high-order logic descriptions. The proposed approach achieves a 90.1% accuracy and substantially outperforms the commonly used keyword matching method, and boosts the performance of rule interpretation by 5 times'
 date: 2022-08-03
 venue: 'Automation in Construction'
 doi: '10.1016/j.autcon.2022.104524'
