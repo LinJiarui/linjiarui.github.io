@@ -8,8 +8,7 @@ excerpt: '本研究提出一种基于文本挖掘和社交网络分析的震害�
 date: 2022-11-19
 venue: '22nd International Conference on Construction Applications of Virtual Reality (CONVR2022)'
 doi: 10.48550/arXiv.2212.06765
-paperurl: '
-https://doi.org/10.48550/arXiv.2212.06765'
+paperurl: 'https://doi.org/10.48550/arXiv.2212.06765'
 citation: 'Zheng, Z., Shi, H.Z., Zhou, Y.C., Lu, X.Z., Lin, J.R.* (2022). Earthquake Impact Analysis Based on Text Mining and Social Media Analytics. <i>22nd International Conference on Construction Applications of Virtual Reality (CONVR2022)</i>, 1116-1124. Seoul, South Korea.'
 
 comment: true

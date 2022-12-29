@@ -8,8 +8,7 @@ excerpt: 'This paper proposes an approach to estimate the impact of earthquakes 
 date: 2022-11-17
 venue: '22nd International Conference on Construction Applications of Virtual Reality (CONVR2022)'
 doi: 10.48550/arXiv.2212.06765
-paperurl: '
-https://doi.org/10.48550/arXiv.2212.06765'
+paperurl: 'https://doi.org/10.48550/arXiv.2212.06765'
 citation: 'Zheng, Z., Shi, H.Z., Zhou, Y.C., Lu, X.Z., Lin, J.R.* (2022). Earthquake Impact Analysis Based on Text Mining and Social Media Analytics. <i>22nd International Conference on Construction Applications of Virtual Reality (CONVR2022)</i>, 1116-1124. Seoul, South Korea.'
 
 comment: true

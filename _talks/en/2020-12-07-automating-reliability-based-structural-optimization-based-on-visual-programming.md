@@ -14,7 +14,7 @@ comment: true
 
 category: talks
 tags: 
-  - automatiion
+  - automation
   - dynamo
   - generative
   - design

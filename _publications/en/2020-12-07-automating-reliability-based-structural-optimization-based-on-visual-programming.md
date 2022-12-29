@@ -20,7 +20,7 @@ tags:
   - structural optimization
   - OpenSees
   - reliability-based design
-  - automatiion
+  - automation
   - smart design
   - dynamo
 
