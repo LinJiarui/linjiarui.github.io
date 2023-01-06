@@ -147,15 +147,17 @@ redirect_from:
 * July, 2021-Now: General Secretary of Professional Committee for Building Information Modeling, China Graphics Society
 * July, 2021-Now: Council Member of China Graphics Society
 * July, 2021-Now: Member of Working Committee for Youth Development, China Graphics Society
-* July, 2021-Now: Editorial Member of _Advances in Civil Engineering_
+* Jan, 2023-Now: Editorial Board Member of _Buildings_
+* July, 2021-Now: Academic Editor of _Advances in Civil Engineering_
 * November, 2016-Now: Member of Professional Committee for Building Information Modeling, China Graphics Society
 * August, 2018-Now: Special Expert of building information modeling center of Beijing City Planning Society
 ### Guest Editors
 * Topic Editor of "3D Computer Vision and Building Information Modeling" (2022-2024), _Drones_, _Sensors_, _Sustainability_, _Buildings_, _Energies_
 * Lead Guest Editor of "Smart Sensing in Building and Construction" (2021), _Sensors_
+* Guest Editor of "Intelligent and Computer Technologies Application in Construction II" (2022-2023), _Buildings_
 * Guest Editor of "Intelligent and Computer Technologies Application in Construction" (2021-2022), _Buildings_
-* Guest Editor of "Digital Twin in the Architectural, Engineering and Construction (AEC) Industry" (2019-2020), _Advances in Civil Engineering_
 * Guest Editor of "Smart and Resilient Infrastructure based on AI and Digital Twin" (2021-2022), _Advances in Civil Engineering_
+* Guest Editor of "Digital Twin in the Architectural, Engineering and Construction (AEC) Industry" (2019-2020), _Advances in Civil Engineering_
 ### Reviewers
 * _Automation in Construction_
 * _Journal of Computing in Civil Engineering_

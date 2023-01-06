@@ -147,15 +147,17 @@ redirect_from:
 * 2021年7月-今，中国图学学会BIM专业委员会秘书长
 * 2021年7月-今，中国图学学会第八届理事
 * 2021年7月-今，中国图学学会青年工作委员会委员
+* 2023年1月-今，Buildings 编委
 * 2021年7月-今，Advances in Civil Engineering 编委
 * 2016年11月-今，中国图学学会BIM专委会委员
 * 2018年8月-今，北京城市规划学会BIM研究与应用中心特聘专家
 ### 专刊编委
 * “3D Computer Vision and Building Information Modeling”主题编委（2022-2024），期刊：Drones，Sensors，Sustainability，Buildings，Energies
 * “Smart Sensing in Building and Construction”专刊主编（2021），期刊：Sensors
+* “Intelligent and Computer Technologies Application in Construction II”专刊编委（2022-2023），期刊：Buildings
 * “Intelligent and Computer Technologies Application in Construction”专刊编委（2021-2022），期刊：Buildings
-* “Digital Twin in the Architectural, Engineering and Construction (AEC) Industry”专刊编委（2019-2020），期刊：Advances in Civil Engineering
 * “Smart and Resilient Infrastructure based on AI and Digital Twin”专刊编委（2021-2022），期刊：Advances in Civil Engineering
+* “Digital Twin in the Architectural, Engineering and Construction (AEC) Industry”专刊编委（2019-2020），期刊：Advances in Civil Engineering
 ### 期刊审稿人
 * Automation in Construction
 * Journal of Computing in Civil Engineering
