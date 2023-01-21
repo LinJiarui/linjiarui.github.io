@@ -33,10 +33,10 @@ redirect_from:
 
 ## Honors&Awards
 ### Research
-* Jan, 2022, First Prize of the 2021 Science and Technology Award of the China Graphics Society
-* May, 2021, Second Prize of the 2021 Science and Technology Award of Shanghai Society of Civil Engineering (rank 2)
-* Jan, 2019, Second Prize of the 2018 China Construction Science and Technology Award (rank 3)
-* Nov, 2018, Third Prize of the 2018 Beijing Science and Technology Award (rank 4)
+* Jan, 2022, First Prize of the 2021 Science and Technology Award of the China Graphics Society (rank 5/14)
+* May, 2021, Second Prize of the 2021 Science and Technology Award of Shanghai Society of Civil Engineering (rank 2/9)
+* Jan, 2019, Second Prize of the 2018 China Construction Science and Technology Award (rank 3/12)
+* Nov, 2018, Third Prize of the 2018 Beijing Science and Technology Award (rank 4/6)
 * Oct, 2016, Young Elite Scientists Sponsorship Program by the China Association for Science and Technology
 * Oct, 2016, RWTH Aachen – Tsinghua Senior Research Fellowship
 * Dec, 2022, Best Paper Award of the 2022 International Conference on Construction and Real Estate Managenent (ICCREM 2022)
@@ -54,6 +54,7 @@ redirect_from:
 * Jun, 2022, Excellent Advisor for Graduate Students of Tsinghua
 * Jun, 2022, the Most Popular Instructor selected by the students graduated this year
 * Jun, 2022, _Data Science_ (the course I teach) was selected as the Best Course by the students graduated this year
+* May, 2022, Receiver of the LuQian Incentive Scholarship for Learning and Teaching of Department of Civil Engineering and Construction Management of Tsinghua University
 * Dec, 2021, Outstanding Faculty for the Career Guidance of Graduate Students in Tsinghua (35 in total)
 * Dec, 2020, Excellent Advisor of the Tsinghua "12.9" Graduate Student Chorus
 * Dec, 2020, Excellent Advisor (First Prize) of the 2020 Student Research Trainning Program of Tsinghua University (15 in total)
@@ -150,7 +151,7 @@ redirect_from:
 * Jan, 2023-Now: Editorial Board Member of _Buildings_
 * July, 2021-Now: Academic Editor of _Advances in Civil Engineering_
 * November, 2016-Now: Member of Professional Committee for Building Information Modeling, China Graphics Society
-* August, 2018-Now: Special Expert of building information modeling center of Beijing City Planning Society
+* August, 2019-Now: Special Expert of building information modeling center of Beijing City Planning Society
 ### Guest Editors
 * Topic Editor of "3D Computer Vision and Building Information Modeling" (2022-2024), _Drones_, _Sensors_, _Sustainability_, _Buildings_, _Energies_
 * Lead Guest Editor of "Smart Sensing in Building and Construction" (2021), _Sensors_
