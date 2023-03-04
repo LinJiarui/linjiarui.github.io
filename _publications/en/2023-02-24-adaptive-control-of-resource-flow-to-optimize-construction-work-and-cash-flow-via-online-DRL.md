@@ -9,7 +9,7 @@ date: 2023-02-24
 venue: 'Automation in Construction'
 doi: '10.1016/j.autcon.2023.104817'
 paperurl: 'http://doi.org/10.1016/j.autcon.2023.104817'
-citation: 'Jiang, C., Li, X., Lin, J.R.*, Liu, M., Ma, Z. (2023). Adaptive Control of Resource Flow to Optimize Construction Work and Cash Flow via Online Deep Reinforcement Learning. <i>Automation in Construction</i>, 149, 104817. doi: 10.1016/j.autcon.2023.104817'
+citation: 'Jiang, C., Li, X., Lin, J.R.*, Liu, M., Ma, Z. (2023). Adaptive Control of Resource Flow to Optimize Construction Work and Cash Flow via Online Deep Reinforcement Learning. <i>Automation in Construction</i>, 150, 104817. doi: 10.1016/j.autcon.2023.104817'
 
 comment: true
 category: journal
