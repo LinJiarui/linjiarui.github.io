@@ -23,6 +23,7 @@ tags:
   - SCI
 
 grants:
+  - 20220468132
   - K20210032
 ---
 
@@ -38,4 +39,4 @@ Due to complexity and dynamics of construction work, resource, and cash flows, p
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2023-02-24-adaptive-control-of-resource-flow-to-optimize-construction-work-and-cash-flow-via-online-DRL.pdf)
 
-This study was supported by a grant from Glodon Company Limited and the Research Development Project of the Ministry of Housing and Urban-Rural Development of the People’s Republic of China (K20210032).
+This study was supported by Research Project of Beijing Municipal Science & Technology Commission, Administrative Commission of Zhongguancun Science Park (20220468132) and the Research Development Project of the Ministry of Housing and Urban-Rural Development of the People's Republic of China (K20210032).

@@ -187,6 +187,7 @@ redirect_from:
 * _Frontiers of Engineering Management_
 * _Energy and Built Environment_
 * _Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction_
+* _International Journal of Construction Management_
 * _Journal of Tsinghua University (Science & Technology)_
 * _China Civil Engineering Journal_
 * _Engineering Mechanics_

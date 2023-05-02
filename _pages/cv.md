@@ -187,6 +187,7 @@ redirect_from:
 * Frontiers of Engineering Management
 * Energy and Built Environment
 * Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction
+* International Journal of Construction Management
 * 《清华大学学报（自然科学版）》
 * 《土木工程学报》
 * 《工程力学》

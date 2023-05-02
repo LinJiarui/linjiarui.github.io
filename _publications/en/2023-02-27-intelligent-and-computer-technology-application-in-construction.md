@@ -9,7 +9,7 @@ date: 2023-02-27
 venue: 'Buildings'
 doi: '10.3390/buildings13030641'
 paperurl: 'https://www.mdpi.com/2075-5309/13/3/641'
-citation: 'Guo, H., Lin, J.R., Yu, Y. (2023). Intelligent and Computer Technologies' Application in Construction. <i>Buildings</i>, 13(3), 641. doi: 10.3390/buildings13030641'
+citation: "Guo, H., Lin, J.R., Yu, Y. (2023). Intelligent and Computer Technologies' Application in Construction. <i>Buildings</i>, 13(3), 641. doi: 10.3390/buildings13030641"
 
 comment: true
 category: journal
