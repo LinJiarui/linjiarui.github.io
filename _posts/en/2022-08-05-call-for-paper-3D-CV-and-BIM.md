@@ -3,7 +3,7 @@ title: "Call for Papers: 3D Computer Vision and Smart Building and City"
 lang: en
 ref: posts/2022-08-05-call-for-paper-3D-CV-and-BIM
 permalink: /en/posts/2022-08-05-call-for-paper-3D-CV-and-BIM
-excerpt: "Together with Dr. Yu-Shen Liu, Dr. Ge Gao from Tsinghua University, Dr. Xiaoping Zhou from Beijing University of Civil Engineering and Architecture, Dr. Yi Fang and Dr. Anthony Tzes from New York University Abu Dhabi, we organized a topic related to 3D CV and BIM, multiple SCI-indexed journals including Drones, Sustainability, Sensors, Buildings, and Energies are involved. Please submit your manuscript before Jan 20, 2024"
+excerpt: "Together with Dr. Yu-Shen Liu, Dr. Ge Gao from Tsinghua University, Dr. Xiaoping Zhou from Beijing University of Civil Engineering and Architecture, Dr. Yi Fang and Dr. Anthony Tzes from New York University Abu Dhabi, we organized a topic related to 3D CV and BIM, multiple SCI-indexed journals including Drones, Sustainability, Sensors, Buildings, and Energies are involved. Please submit your manuscript before April 30, 2023"
 date: 2022-08-05
 
 category: posts
@@ -45,7 +45,7 @@ Drones, Sustainability, Sensors, Buildings, Energies
 ## Submission Deadline
 Abstract submission deadline: 20 November 2023
 
-Manuscript submission deadline: 20 January 2024
+Manuscript submission deadline: 20 January 2024 (the deadline has been updated to April 30, 2023)
 
 Click [here](https://www.mdpi.com/topics/3D_BIM) for official information and submission.
 

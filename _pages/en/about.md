@@ -13,7 +13,7 @@ slideshow:
   - url: /en/posts/2022-08-05-call-for-paper-3D-CV-and-BIM
     image_path: 2022-08-05-call-for-paper-3D-BIM-ga.jpg
     title: "Call for Papers: 3D CV and Smart Building/City"
-    excerpt: "Multiple SCI-indexed journals are involved, submission before Jan 20, 2024"
+    excerpt: "Multiple SCI-indexed journals are involved, submission before April 30, 2023"
   - url: /en/publications/2022-03-11-how-human-robot-collaboration-impacts-construction-productivity
     image_path: 2022-03-11-how-human-robot-collaboration-impacts-construction-productivity-ga.jpg
     title: "Human-Robot Collaboration and its Impact on Productivity"

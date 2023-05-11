@@ -3,7 +3,7 @@ title: "三维计算机视觉(3D CV)及智慧建筑/城市主题论文征稿"
 lang: zh
 ref: posts/2022-08-05-call-for-paper-3D-CV-and-BIM
 permalink: /posts/2022-08-05-call-for-paper-3D-CV-and-BIM
-excerpt: "清华大学刘玉身老师、高歌博士，北京建筑大学周小平老师，纽约大学阿布扎比分校Yi Fang老师、Anthony Tzes老师以及本人，共同组织了一期关于三维计算机视觉及智慧建筑/城市的主题征稿，覆盖Drones，Sustainability，Sensors，Buildings，Energies等多个SCI索引期刊，截稿日期2024年1月20日，欢迎赐稿"
+excerpt: "清华大学刘玉身老师、高歌博士，北京建筑大学周小平老师，纽约大学阿布扎比分校Yi Fang老师、Anthony Tzes老师以及本人，共同组织了一期关于三维计算机视觉及智慧建筑/城市的主题征稿，覆盖Drones，Sustainability，Sensors，Buildings，Energies等多个SCI索引期刊，截稿日期2023年4月30日，欢迎赐稿"
 date: 2022-08-05
 
 category: posts
@@ -44,7 +44,7 @@ Drones, Sustainability, Sensors, Buildings, Energies
 ## 截止日期
 摘要截止日期：2023年11月20日
 
-全文截止日期：2024年1月20日
+全文截止日期：2024年1月20日【截止时间更新为2023年4月30日】
 
 
 该主题涉及多个SCI索引期刊，请各位老师、专家、同学不吝赐稿，点击[这里](https://www.mdpi.com/topics/3D_BIM)查看官方征稿通知.

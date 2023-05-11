@@ -13,7 +13,7 @@ slideshow:
   - url: /posts/2022-08-05-call-for-paper-3D-CV-and-BIM
     image_path: 2022-08-05-call-for-paper-3D-BIM-ga.jpg
     title: "3D计算机视觉及智慧建筑/城市论文征稿"
-    excerpt: "Drones，Sustainability，Sensors，Buildings，Energies多期刊支持，2024/1/10截止"
+    excerpt: "Drones，Sustainability，Sensors，Buildings，Energies多期刊支持，2023/4/30截止"
   - url: /publications/2022-03-11-how-human-robot-collaboration-impacts-construction-productivity
     image_path: 2022-03-11-how-human-robot-collaboration-impacts-construction-productivity-ga.jpg
     title: "人机协同建造过程仿真论文已在AEI发表"
