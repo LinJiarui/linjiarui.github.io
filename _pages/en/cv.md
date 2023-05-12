@@ -49,7 +49,8 @@ redirect_from:
 * Nov, 2014, Best Presentation of Tsinghua University Doctoral Academic Forum
 
 ### Teaching
-* Dec, 2022, Great Mentor and Beneficial Friend selected by the graduate students in Tsinghua (47 in total)
+* April, 2023, Great Mentor and Beneficial Friend selected by the graduate students in Tsinghua (47 in total)
+* Dec, 2022, Outstanding Instructor for Social Practice of Graduate Students in Beijing
 * Oct, 2022, Excellent Instructor for Social Practice of Tsinghua (20 in total)
 * Jun, 2022, Excellent Advisor for Graduate Students of Tsinghua
 * Jun, 2022, the Most Popular Instructor selected by the students graduated this year
