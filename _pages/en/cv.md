@@ -173,6 +173,7 @@ redirect_from:
 * _Journal of Management in Engineering_
 * _Energy Reports_
 * _Engineering, Construction and Architectural Management_
+* _IEEE Computer Graphics and Applications_
 * _IEEE Access_
 * _Sensors_
 * _Applied Sciences_
