@@ -8,13 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Professors
-
-| No. | Name  | Research Interests | Info |
-| --- | ------ | -------- | ---- |
-| 1 | [Prof. Zhen-Zhong Hu](http://www.huzhenzhong.net/) | Civil and building informatics, BIM, construction safety, facility management, diaster prevention |  |
-| 2 | Prof. Jian-Ping Zhang | Civil and building informatics, cloud, BIM, big data, 4D, etc. | My doctoral supervisor |
-
 ## Collaboration
 
 | No. | Name  | University | Research Interests | Info |
@@ -22,25 +15,38 @@ author_profile: true
 | 1 | [Prof. Kincho H. Law](http://eil.stanford.edu/law/) | Stanford University | Construction Informatics, machine learning, bridge monitoring, etc. | Host professor of my visit to Stanford |
 | 2 | [Prof. Christoph van Treeck](https://www.fb3.rwth-aachen.de/go/id/bkab/gguid/0xE6062E8B30B67449828CA3D182DB5D3E/ikz/312410) | RWTH-Aachen University | BIM, building performance | Host professor of my visit to RWTH-Aachen |
 | 3 | [Prof. Tamer El-Diraby](https://civmin.utoronto.ca/home/about-us/directory/professors/tamer-el-diraby/) | University of Toronto | Semantic web, smart city, building performance, automatic rule checking |  |
+| 4 | [Prof. Zhen-Zhong Hu](http://www.huzhenzhong.net/) | Shenzhen International Graduate School, Tsinghua University | Civil and building informatics, BIM, construction safety, facility management, diaster prevention |  |
 
-## Postdoctorial Fellow
-
-| No. | Name  | Major | Time Period | Research Topic | Info |
-| --- | ------ | -------- | -------- | -------- | ---- |
-| 1 | Yun-Yi Zhang | Civil Engineering | 2020/10-now | BIM, building performance, big data |  |
-
-## Research Assistant
+## Postdoctorial Fellows
 
 | No. | Name  | Major | Time Period | Research Topic | Info |
 | --- | ------ | -------- | -------- | -------- | ---- |
-| 1 | Sheng-Yu Song | Civil Engineering | 2020/8 | BIM, smart design, knowledge graph | Master |
-| 2 | Zhe Zhen | Civil Engineering | 2019/8-now | BIM, smart design, AI | Ph.D., co-supervised with Prof. Xinzheng Lu |
-| 3 | Yu-Cheng Zhou | Civil Engineering | 2019/8 | BIM, performance-based design, rule checking | Master |
-| 4 | Ke-Xiao Yan | Civil Engineering | 2019/10 | BIM, deep learning, data mining | Master of UNSW |
-| 5 | Wei-Lu Jia | Architecture | 2015/8 | BIM, design, construction management |  |
-| 6 | Yun-Yi Zhang | Civil Engineering | 2011/8-2020/7 | BIM, building performance, big data | Ph.D., co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
-| 7 | Kai Kang | Civil Engineering | 2017/8-2020/7 | BIM, building performance, big data, service automation | Master, co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
+| 1 | Yun-Yi Zhang | Civil Engineering | 2020/10-2023/6 | BIM, building performance, big data |  |
+| 1 | Can Jiang | Civil Engineering | 2021/8-2023/8 | AI-driven building design and construction process optimization |  |
 
+## Research Assistants
+
+| No. | Name  | Major | Time Period | Research Topic | Info |
+| --- | ------ | -------- | -------- | -------- | ---- |
+| 1 | Ke-Xiao Yan | Civil Engineering | 2019/10-now | BIM, deep learning, data mining | Master of UNSW |
+| 2 | Wei-Lu Jia | Architecture | 2015/8-now | BIM, design, construction management |  |
+
+## Master Students
+
+| No. | Name  | Major | Time Period | Research Topic | Info |
+| 3 | Kai Kang | Civil Engineering | 2017/8-2020/7 | BIM, building performance, big data, service automation | Master, co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
+| 4 | Yun-Yi Zhang | Civil Engineering | 2011/8-2020/7 | BIM, building performance, big data | Ph.D., co-supervised with Prof. Jian-Ping Zhang, Graduated in July, 2020 |
+| 5 | Yu-Cheng Zhou | Civil Engineering | 2019/8-2022/7 | BIM, performance-based design, rule checking | Master |
+| 6 | Sheng-Yu Song | Civil Engineering | 2020/8-2023/7 | BIM, smart design, knowledge graph | Master |
+| 7 | Zhe Zheng | Civil Engineering | 2019/8-now | BIM, smart design, AI | Ph.D., co-supervised with Prof. Xinzheng Lu |
+
+
+## Alumni of MEM
+
+| No. | Name  | Major | Time Period | Research Topic | Info |
+| 1 | Xiao-Yu Shen  | Engineering Management | 2020/8-2023/1 | Intelligent Construction, Construction Management, Quality Inspection |  |
+
+<!--
 ## Bachelor Thesis
 
 | No. | Name  | Thesis Title | Admission Time | Graduate Time | Major | Info |
@@ -54,11 +60,12 @@ author_profile: true
 | 7 | Mansour | BIM-based Compliance Checking for Fire Protection Design | 2013/8 | 2019/6 | Civil Engineering | Graduated |
 
 ## Undergraduate Research Training
+
 ### Student Research Training Program (SRT)
 
 | No. | Name | Research Topic | Admission Time | Period | Major | Info |
 | ---- | ---- | -------- | ---- | -------- | ---- | ---- |
-| 1 | Zhi-Gang Cheng | Speech-Recognition-Assisted BIM Model Checking | 2018/8 | 2020/9-now | Civil Engineering |  |
+| 1 | Zhi-Gang Cheng | Speech-Recognition-Assisted BIM Model Checking | 2018/8 | 2020/9-2021/12 | Civil Engineering |  |
 | 2 | Ming-Hui Wu | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2019/3-2020/12 | Civil Engineering |  |
 | 3 | Jie-Xun Feng | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2019/3-2002/12 | Civil Engineering |  |
 | 4 | Yi Gu | Quantitative Analysis of BIM-based Design Behaviors | 2018/8 | 2019/3-now | Civil Engineering |  |
@@ -92,3 +99,5 @@ author_profile: true
 | 12 | Si-Zhong Qin | Collection and Analysis of Social Media Data for City Resilience | 2019/8 | 2021/3-2021/6 | Civil Engineering |  |
 | 12 | Jun-Kai An | Collection and Analysis of Social Media Data for City Resilience | 2019/8 | 2021/3-2021/6 | Civil Engineering |  |
 | 12 | Chen-Yang Zhang | Collection and Analysis of Social Media Data for City Resilience | 2018/8 | 2021/3-2021/6 | Civil Engineering |  |
+
+-->
