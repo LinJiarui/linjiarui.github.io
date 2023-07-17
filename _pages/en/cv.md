@@ -152,6 +152,7 @@ redirect_from:
 * Jan, 2023-Now: Editorial Board Member of _Buildings_
 * July, 2021-Now: Academic Editor of _Advances in Civil Engineering_
 * November, 2016-Now: Member of Professional Committee for Building Information Modeling, China Graphics Society
+* July, 2023-Now: Member of Committee of Rural Community and Public Facilities, China Association for Engineering Construction Standardization (CECS)
 * August, 2019-Now: Special Expert of building information modeling center of Beijing City Planning Society
 ### Guest Editors
 * Topic Editor of "3D Computer Vision and Building Information Modeling" (2022-2024), _Drones_, _Sensors_, _Sustainability_, _Buildings_, _Energies_

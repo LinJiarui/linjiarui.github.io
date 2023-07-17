@@ -9,7 +9,7 @@ date: 2022-07-12
 venue: 'Computers in Industry'
 doi: '10.1016/j.compind.2022.103746'
 paperurl: 'http://doi.org/10.1016/j.compind.2022.103746'
-citation: 'Zheng, Z., Zhou, Y.C., Lin, J.R.*, Lu, X.Z. (2022). Integrating NLP and Context-Free Grammar for Complex Rule Interpretation towards Automated Compliance Checking. <i>Computers in Industry</i>, 142, 103746. doi: 10.1016/j.compind.2022.103746'
+citation: 'Zhou, Y.C., Zheng, Z., Lin, J.R.*, Lu, X.Z. (2022). Integrating NLP and Context-Free Grammar for Complex Rule Interpretation towards Automated Compliance Checking. <i>Computers in Industry</i>, 142, 103746. doi: 10.1016/j.compind.2022.103746'
 
 comment: true
 category: journal

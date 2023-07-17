@@ -152,6 +152,7 @@ redirect_from:
 * 2023年1月-今，Buildings 编委
 * 2021年7月-今，Advances in Civil Engineering 编委
 * 2016年11月-今，中国图学学会BIM专委会委员
+* 2023年7月-今，CECS村镇社区与公用设施专委会委员
 * 2019年8月-今，北京城市规划学会BIM研究与应用中心特聘专家
 ### 专刊编委
 * “3D Computer Vision and Building Information Modeling”主题编委（2022-2024），期刊：Drones，Sensors，Sustainability，Buildings，Energies
