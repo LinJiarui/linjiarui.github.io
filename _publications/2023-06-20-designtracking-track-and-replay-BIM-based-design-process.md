@@ -7,9 +7,9 @@ permalink: /publications/2023-06-20-designtracking-track-and-replay-BIM-based-de
 excerpt: '本研究提出了一种跟踪和回放BIM设计过程的方法，可用于回顾设计方案形成过程、了解设计行为并识别潜在缺陷以改进设计质量'
 date: 2023-06-20
 venue: '2023 Creative Construction Conference (CCC2023)'
-doi: 10.48550/arXiv.2305.10205
-paperurl: 'https://doi.org/10.48550/arXiv.2305.10205'
-citation: 'Ni, X.R., Zheng, Z., Lin, J.R.*, Hu, Z.Z., Zhang, X. (2023). Designtracking: Track and Replay BIM-Based Design Process. <i>2023 Creative Construction Conference (CCC2023)</i>, XX-XX. Keszthely, Lake Balaton, Hungary.'
+doi: 10.3311/CCC2023-006
+paperurl: 'https://doi.org/10.3311/CCC2023-006'
+citation: 'Ni, X.R., Zheng, Z., Lin, J.R.*, Hu, Z.Z., Zhang, X. (2023). Designtracking: Track and Replay BIM-Based Design Process. <i>2023 Creative Construction Conference (CCC2023)</i>, 42-47. Keszthely, Lake Balaton, Hungary.'
 
 comment: true
 category: conference

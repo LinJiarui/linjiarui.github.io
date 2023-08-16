@@ -7,9 +7,9 @@ permalink: /en/publications/2023-06-20-designtracking-track-and-replay-BIM-based
 excerpt: 'This study proposes an approach to track and replay the BIM-based design process, which could be used to review the design process, understand design behaviors, and identify potential pitfalls to improve the design process.'
 date: 2023-06-20
 venue: '2023 Creative Construction Conference (CCC2023)'
-doi: 10.48550/arXiv.2305.10205
-paperurl: 'https://doi.org/10.48550/arXiv.2305.10205'
-citation: 'Ni, X.R., Zheng, Z., Lin, J.R.*, Hu, Z.Z., Zhang, X. (2023). Designtracking: Track and Replay BIM-Based Design Process. <i>2023 Creative Construction Conference (CCC2023)</i>, XX-XX. Keszthely, Lake Balaton, Hungary.'
+doi: 10.3311/CCC2023-006
+paperurl: 'https://doi.org/10.3311/CCC2023-006'
+citation: 'Ni, X.R., Zheng, Z., Lin, J.R.*, Hu, Z.Z., Zhang, X. (2023). Designtracking: Track and Replay BIM-Based Design Process. <i>2023 Creative Construction Conference (CCC2023)</i>, 42-47. Keszthely, Lake Balaton, Hungary.'
 
 comment: true
 category: conference
