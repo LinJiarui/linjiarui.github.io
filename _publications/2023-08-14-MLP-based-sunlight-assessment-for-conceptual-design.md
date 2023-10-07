@@ -1,5 +1,5 @@
 ---
-title: "A Multilayer Perceptron-based Fast Sunlight Assessment for the Conceptual Design of Residential Neighborhoods under Chinese Policy "
+title: "A Multilayer Perceptron-based Fast Sunlight Assessment for the Conceptual Design of Residential Neighborhoods under Chinese Policy"
 lang: zh
 ref: publications/2023-08-14-MLP-based-sunlight-assessment-for-conceptual-design
 collection: publications
@@ -9,7 +9,7 @@ date: 2023-08-14
 venue: 'Building and Environment'
 doi: '10.1016/j.buildenv.2023.110739'
 paperurl: 'http://doi.org/10.1016/j.buildenv.2023.110739'
-citation: 'Jiang, C., Liang, X., Zhou, Y.C., Tian, Y., Xu, S, Lin, J.R.*, Ma, Z., Yang S., Zhou, H. (2023). A Multilayer Perceptron-based Fast Sunlight Assessment for the Conceptual Design of Residential Neighborhoods under Chinese Policy . <i>Building and Environment</i>, 243, 110739. doi: 10.1016/j.buildenv.2023.110739'
+citation: 'Jiang, C., Liang, X., Zhou, Y.C., Tian, Y., Xu, S, Lin, J.R.*, Ma, Z., Yang S., Zhou, H. (2023). A Multilayer Perceptron-based Fast Sunlight Assessment for the Conceptual Design of Residential Neighborhoods under Chinese Policy. <i>Building and Environment</i>, 244, 110739. doi: 10.1016/j.buildenv.2023.110739'
 
 comment: true
 category: journal

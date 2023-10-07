@@ -7,9 +7,9 @@ permalink: /publications/2022-10-27-text-mining-based-patent-analysis-of-arc
 excerpt: '本研究通过文本挖掘和社交网络分析技术对智能审图相关中英文专利进行了分析，并探讨了二者的差异及未来趋势.'
 date: 2022-10-27
 venue: '19th International Conference on Computing in Civil and Building Engineering (ICCCBE 2022)'
-doi: 10.48550/arXiv.2212.05891
-paperurl: 'https://doi.org/10.48550/arXiv.2212.05891'
-citation: 'Zheng, Z., Kang, B.R., Yuan, Q.T., Zhou, Y.C., Lu, X.Z., Lin, J.R.* (2022). Text Mining-Based Patent Analysis for Automated Rule Checking in AEC. <i>19th International Conference on Computing in Civil and Building Engineering (ICCCBE 2022)</i>, xxx-xxx. Cape Town, South Africa.'
+doi: 10.1007/978-3-031-32515-1_2
+paperurl: 'https://doi.org/10.1007/978-3-031-32515-1_2'
+citation: 'Zheng, Z., Kang, B.R., Yuan, Q.T., Zhou, Y.C., Lu, X.Z., Lin, J.R.* (2022). Text Mining-Based Patent Analysis for Automated Rule Checking in AEC. <i>19th International Conference on Computing in Civil and Building Engineering (ICCCBE 2022)</i>, 11-25. Cape Town, South Africa.'
 
 comment: true
 category: conference
