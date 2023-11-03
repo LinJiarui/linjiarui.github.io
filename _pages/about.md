@@ -10,10 +10,10 @@ redirect_from:
   - /about.html
 
 slideshow:
-  - url: /posts/2022-08-05-call-for-paper-3D-CV-and-BIM
-    image_path: 2022-08-05-call-for-paper-3D-BIM-ga.jpg
-    title: "3D计算机视觉及智慧建筑/城市论文征稿"
-    excerpt: "Drones，Sustainability，Sensors，Buildings，Energies多期刊支持，2023/4/30截止"
+  - url: /posts/2023-09-24-winner-of-buildingSMART-openBIM-awards
+    image_path: 2023-09-24-winner-of-buildingSMART-openBIM-awards.jpg
+    title: "团队荣获buildingSMART国际大奖赛冠军"
+    excerpt: "课题组智能审图成果获2023年buildingSMART openBIM国际大奖赛专业研究类冠军"
   - url: /publications/2022-03-11-how-human-robot-collaboration-impacts-construction-productivity
     image_path: 2022-03-11-how-human-robot-collaboration-impacts-construction-productivity-ga.jpg
     title: "人机协同建造过程仿真论文已在AEI发表"
@@ -31,7 +31,7 @@ slideshow:
 
 林佳瑞，现任清华大学土木系防灾减灾所助理研究员，兼任清华大学力学实验教学中心力学计算与仿真实验室主任、土木工程暨建设管理系研工组组长以及中国图学学会理事、BIM专委会秘书长等职务。先后于清华大学土木系获得学士（2011年）、博士学位（2016年），2018年博士后出站后加入清华大学土木系。斯坦福大学、亚琛工业大学、南加州大学访问学者。
 
-主要研究方向为智能建造、BIM/CIM与数字防灾技术，致力于通过先进信息技术提升工程建造、管理及防灾过程的自动化与科学决策水平。获得2016-2018年度中国科协“青年人才托举工程”资助，获得2018年华夏建设科学技术二等奖、2018年北京市科学技术三等奖、2021年上海市土木学会科技进步二等奖、2022年中国图学学会科技进步一等奖以及2018年清华大学青年教师教学大赛一等奖、2019年北京市高校青年教师教学基本功大赛三等奖、2023年清华大学第十八届“良师益友”等荣誉。
+主要研究方向为智能建造、BIM/CIM与数字孪生技术，致力于通过先进信息技术提升建筑结构建造质量、效率及运行管理水平，服务智慧、韧性城市建设。曾入选中国科协“青年人才托举工程”，并先后荣获2018年华夏建设科学技术二等奖、2018年北京市科学技术三等奖、2021年上海市土木学会科技进步二等奖、2022年中国图学学会科技进步一等奖以及2018年清华大学青年教师教学大赛一等奖、2019年北京市高校青年教师教学基本功大赛三等奖、2023年清华大学第十八届“良师益友”等荣誉。
 
 近年来，主持和承担国家自然科学基金、重点研发计划、863计划、北京市自然科学基金等研究课题20余项，在国内外学术刊物和会议发表相关论文100余篇，参编地标、行标4部，参编专著4部，申请专利、软件著作权20余项。
 

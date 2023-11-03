@@ -33,6 +33,7 @@ redirect_from:
 
 ## Honors&Awards
 ### Research
+* Sept, 2023, Winner in the Category of Professional Research of 2023 buildingSMART openBIM Awards
 * Jan, 2022, First Prize of the 2021 Science and Technology Award of the China Graphics Society (rank 5/14)
 * May, 2021, Second Prize of the 2021 Science and Technology Award of Shanghai Society of Civil Engineering (rank 2/9)
 * Jan, 2019, Second Prize of the 2018 China Construction Science and Technology Award (rank 3/12)
