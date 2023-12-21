@@ -164,6 +164,8 @@ redirect_from:
 * Guest Editor of "Digital Twin in the Architectural, Engineering and Construction (AEC) Industry" (2019-2020), _Advances in Civil Engineering_
 ### Reviewers
 * _Automation in Construction_
+* _Computers in Industry_
+* _Engineering Applications of Artificial Intelligence_
 * _Journal of Computing in Civil Engineering_
 * _Journal of Construction Engineering and Management_
 * _IEEE Transactions on Systems, Man and Cybernetics: Systems_

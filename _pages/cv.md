@@ -164,6 +164,8 @@ redirect_from:
 * “Digital Twin in the Architectural, Engineering and Construction (AEC) Industry”专刊编委（2019-2020），期刊：Advances in Civil Engineering
 ### 期刊审稿人
 * Automation in Construction
+* Computers in Industry
+* Engineering Applications of Artificial Intelligence
 * Journal of Computing in Civil Engineering
 * Journal of Construction Engineering and Management
 * IEEE Transactions on Systems, Man and Cybernetics: Systems

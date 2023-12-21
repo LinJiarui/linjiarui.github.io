@@ -9,7 +9,7 @@ date: 2023-09-24
 venue: 'Engineering Applications of Artificial Intelligence'
 doi: '10.1016/j.engappai.2023.107207'
 paperurl: 'http://doi.org/10.1016/j.engappai.2023.107207'
-citation: 'Zheng, Z., Zhou, Y.C., Chen, K.Y., Lu, X.Z., She, Z.T., Lin, J.R.* (2024). A Text Classification-based Approach for Evaluating and Enhancing the Machine Interpretability of Building Codes. <i>Engineering Applications of Artificial Intelligence</i>, 127PA, 107207. doi: 10.1016/j.engappai.2023.107207'
+citation: 'Zheng, Z., Zhou, Y.C., Chen, K.Y., Lu, X.Z., She, Z.T., Lin, J.R.* (2024). A Text Classification-based Approach for Evaluating and Enhancing the Machine Interpretability of Building Codes. <i>Engineering Applications of Artificial Intelligence</i>, 127, 107207. doi: 10.1016/j.engappai.2023.107207'
 
 comment: true
 category: journal
