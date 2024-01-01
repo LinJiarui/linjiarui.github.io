@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /en/teaching/    
   
-  - title: "Team"
-    url: /en/team/
+ # - title: "Team"
+ #   url: /en/team/
 
   - title: "Talks"
     url: /en/talks/    
@@ -43,8 +43,8 @@ zh:
   - title: "教学"
     url: /teaching/    
      
-  - title: "团队"
-    url: /team/
+ # - title: "团队"
+ #   url: /team/
 
   - title: "报告"
     url: /talks/    
@@ -77,8 +77,8 @@ en:
   - title: "Teaching"
     url: /en/teaching/    
   
-  - title: "Team"
-    url: /en/team/
+ # - title: "Team"
+ #   url: /en/team/
   
   - title: "Talks"
     url: /en/talks/    

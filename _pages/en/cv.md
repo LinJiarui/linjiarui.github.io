@@ -17,9 +17,10 @@ redirect_from:
 * Aug, 2007-Jul, 2011: B.S. in Department of Civil Engineering, Tsinghua University
 
 ## Work experience
-* July, 2020-Now: Leader of Working Group for Graduate Affairs at Department of Civil Engineering, Tsinghua University
+* Dec, 2023-Now: Associate Professor, Tsinghua University
+* Jul, 2020-Now: Leader of Working Group for Graduate Affairs at Department of Civil Engineering, Tsinghua University
 * Dec, 2018-Now: Director of the Mechanics Computing and Simulation Laboratory, Tsinghua University
-* Aug, 2018-Now: Research Assistant Professor, Tsinghua University
+* Aug, 2018-Nov, 2023: Assistant Professor, Tsinghua University
 * Jul, 2016-Aug, 2018: Postdoctoral Research Associate, Tsinghua University
   * Research area: Maintenance of buildings and infrastructures based on BIM and IoT
   * Mentor: Professor Jian-Ping Zhang
@@ -50,7 +51,7 @@ redirect_from:
 * Nov, 2014, Best Presentation of Tsinghua University Doctoral Academic Forum
 
 ### Teaching
-* April, 2023, Great Mentor and Beneficial Friend selected by the graduate students in Tsinghua (47 in total)
+* Apr, 2023, Great Mentor and Beneficial Friend selected by the graduate students in Tsinghua (47 in total)
 * Dec, 2022, Outstanding Instructor for Social Practice of Graduate Students in Beijing
 * Oct, 2022, Excellent Instructor for Social Practice of Tsinghua (20 in total)
 * Jun, 2022, Excellent Advisor for Graduate Students of Tsinghua
@@ -147,14 +148,15 @@ redirect_from:
 {% endfor %}</ul>
    
 ## Service and Leadership
+* Nov, 2023-Now: Editorial Board Member of _Journal of Graphics_
+* Jan, 2023-Now: Editorial Board Member of _Buildings_
+* July, 2021-Now: Academic Editor of _Advances in Civil Engineering_
+* July, 2023-Now: Member of Committee of Rural Community and Public Facilities, China Association for Engineering Construction Standardization (CECS)
 * July, 2021-Now: General Secretary of Professional Committee for Building Information Modeling, China Graphics Society
 * July, 2021-Now: Council Member of China Graphics Society
 * July, 2021-Now: Member of Working Committee for Youth Development, China Graphics Society
-* Jan, 2023-Now: Editorial Board Member of _Buildings_
-* July, 2021-Now: Academic Editor of _Advances in Civil Engineering_
-* November, 2016-Now: Member of Professional Committee for Building Information Modeling, China Graphics Society
-* July, 2023-Now: Member of Committee of Rural Community and Public Facilities, China Association for Engineering Construction Standardization (CECS)
 * August, 2019-Now: Special Expert of building information modeling center of Beijing City Planning Society
+* November, 2016-Now: Member of Professional Committee for Building Information Modeling, China Graphics Society
 ### Guest Editors
 * Topic Editor of "3D Computer Vision and Building Information Modeling" (2022-2024), _Drones_, _Sensors_, _Sustainability_, _Buildings_, _Energies_
 * Lead Guest Editor of "Smart Sensing in Building and Construction" (2021), _Sensors_
