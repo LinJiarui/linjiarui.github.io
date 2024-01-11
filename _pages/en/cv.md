@@ -148,8 +148,8 @@ redirect_from:
 {% endfor %}</ul>
    
 ## Service and Leadership
-* Nov, 2023-Now: Editorial Board Member of _Journal of Graphics_
-* Jan, 2023-Now: Editorial Board Member of _Buildings_
+* Nov, 2023-Now: Editorial Board Member of [_Journal of Graphics_](http://www.txxb.com.cn/CN/2095-302X/home.shtml)
+* Jan, 2023-Now: Editorial Board Member of [_Buildings_](https://www.mdpi.com/journal/buildings)
 * July, 2021-Now: Academic Editor of _Advances in Civil Engineering_
 * July, 2023-Now: Member of Committee of Rural Community and Public Facilities, China Association for Engineering Construction Standardization (CECS)
 * July, 2021-Now: General Secretary of Professional Committee for Building Information Modeling, China Graphics Society
