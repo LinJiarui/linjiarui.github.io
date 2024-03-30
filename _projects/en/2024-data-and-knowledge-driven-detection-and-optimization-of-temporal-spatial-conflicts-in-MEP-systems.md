@@ -4,7 +4,7 @@ lang: en
 ref: projects/2024-data-and-knowledge-driven-detection-and-optimization-of-temporal-spatial-conflicts-in-MEP-systems
 collection: projects
 type: "NSFC Project"
-permalink: /projects/2024-data-and-knowledge-driven-detection-and-optimization-of-temporal-spatial-conflicts-in-MEP-systems
+permalink: /en/projects/2024-data-and-knowledge-driven-detection-and-optimization-of-temporal-spatial-conflicts-in-MEP-systems
 venue: "National Science Foundation of China"
 date: 2024-01-01
 location: "Beijing, China"
