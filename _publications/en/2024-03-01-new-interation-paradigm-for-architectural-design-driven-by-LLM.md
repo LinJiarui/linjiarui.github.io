@@ -7,9 +7,9 @@ permalink: /en/publications/2024-03-01-new-interation-paradigm-for-architectural
 excerpt: 'This study proposes a new interaction paradigm for architectural design based on language models, which could generate API scripts directly from natural language-based input for various scenarios such as design generation, sunlight analysis.'
 date: 2024-03-01
 venue: 'Journal of Graphics'
-doi: '10.11996/JG.j.2095-302X.2022030530'
+doi: '10.11996/JG.j.2095-302X.2024030594'
 paperurl: 'https://link.cnki.net/urlid/10.1034.T.20240108.1355.004'
-citation: 'Jiang, C., Zheng, Z., Liang, X., Lin, J.R.*, Ma, Z., Lu, X.Z. (2024). A New Interaction Paradigm for Architectural Design Driven by Large Language Model: Proof of Concept with Rhino7. <i>Journal of Graphics</i>, xx(x), xxx-xx. doi: xxx (online first)'
+citation: 'Jiang, C., Zheng, Z., Liang, X., Lin, J.R.*, Ma, Z., Lu, X.Z. (2024). A New Interaction Paradigm for Architectural Design Driven by Large Language Model: Proof of Concept with Rhino7. <i>Journal of Graphics</i>, 45(03), 594-600. doi:10.11996/JG.j.2095-302X.2024030594'
 
 comment: true
 category: journal

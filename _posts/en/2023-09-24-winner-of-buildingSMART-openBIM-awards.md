@@ -21,3 +21,7 @@ tags:
 On September 20, 2023, the buildingSMART International Standards Summit in Lillestrøm, Norway. On behalf of our group, I presented our projected entitled "knowledge-informed rule interpretation and automated design checking based on openBIM". And we are delighted that our work is selected as the winner in the category of professional research of the 2023 buildingSMART openBIM Awards. 
 
  Details could be found [here](https://www.buildingsmart.org/the-buildingsmart-openbim-awards-program-2023-winners-announced/)
+ 
+ 
+You could also find the presentation on [Youtube](https://www.youtube.com/watch?v=ZZ7M9jKzpOM&list=PL3ltG6f5UHC5K4w6ITx0F79eCEepSsxhF&index=14&t=1005s) of buildingSMART.
+

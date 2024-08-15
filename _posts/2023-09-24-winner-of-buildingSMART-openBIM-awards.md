@@ -34,6 +34,8 @@ tags:
 
 ![图3 方法效果]({{ site.baseurl }}/images/2023-09-24-winner-of-buildingSMART-openBIM-awards-fig4.png)
 
+最终答辩视频可在buildingSMART的[Youtube平台查看](https://www.youtube.com/watch?v=ZZ7M9jKzpOM&list=PL3ltG6f5UHC5K4w6ITx0F79eCEepSsxhF&index=14&t=1005s)。
+
 ## buildingSMART openBIM国际大奖赛
 
 buildingSMART openBIM国际大奖赛（以下简称“bSI大奖赛”）是由国际权威BIM组织buildingSMART发起和组织的国际级BIM大赛。第一届“bSI大奖赛”于2014年举办。2023年，共有来自全球的137个项目申报了该奖项，经初评共有22个项目入围决赛答辩，最终仅有9个项目分别获得各类别冠军（Winner）。

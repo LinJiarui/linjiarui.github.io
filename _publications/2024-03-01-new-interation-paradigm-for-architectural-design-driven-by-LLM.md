@@ -7,9 +7,9 @@ permalink: /publications/2024-03-01-new-interation-paradigm-for-architectural-de
 excerpt: '本研究提出了LLM驱动的交互式建筑设计方法与新范式，可根据建筑师自然语言指令生成并执行API调用脚本的方式，可实现概念模型生成、日照分析等多个场景的交互式设计。'
 date: 2024-03-01
 venue: '图学学报'
-doi: '10.11996/JG.j.2095-302X.2022030530'
+doi: '10.11996/JG.j.2095-302X.2024030594'
 paperurl: 'https://link.cnki.net/urlid/10.1034.T.20240108.1355.004'
-citation: '蒋灿, 郑哲, 梁雄, 林佳瑞*, 马智亮, 陆新征. (2024). 大语言模型驱动的交互式建筑设计新范式——基于Rhino7的概念验证. <i>图学学报</i>, xx(x), xx-xx. doi: xxx (在线发表)'
+citation: '蒋灿, 郑哲, 梁雄, 林佳瑞*, 马智亮, 陆新征. (2024). 大语言模型驱动的交互式建筑设计新范式——基于Rhino7的概念验证. <i>图学学报</i>, 45(03), 594-600. doi:10.11996/JG.j.2095-302X.2024030594'
 
 comment: true
 category: journal
