@@ -9,7 +9,7 @@ date: 2024-06-14
 venue: 'Journal of Tsinghua University (Science & Technology)'
 doi: '10.16511/j.cnki.qhdxxb.2024.26.039'
 paperurl: 'https://link.cnki.net/doi/10.16511/j.cnki.qhdxxb.2024.26.039'
-citation: 'Tang, H.W., Geng, X.Y., Chen, H.T., Tan, H.C., Zeng, F.Y., Lin, J.R.* (2024). Intelligent Design Method of Subgrade Retaining based on Bentley. <i>Journal of Tsinghua University (Science & Technology)</i>, xx(x), xx-xx. doi: 10.16511/j.cnki.qhdxxb.2024.26.039 (online first)'
+citation: 'Tang, H.W., Geng, X.Y., Chen, H.T., Tan, H.C., Zeng, F.Y., Lin, J.R.* (2024). Intelligent Design Method of Subgrade Retaining based on Bentley. <i>Journal of Tsinghua University (Science & Technology)</i>, 64(9), 1627-1636. doi: 10.16511/j.cnki.qhdxxb.2024.26.039'
 
 comment: true
 category: journal

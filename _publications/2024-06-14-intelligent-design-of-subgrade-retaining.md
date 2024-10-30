@@ -9,7 +9,7 @@ date: 2024-06-14
 venue: '清华大学学报(自然科学版)'
 doi: '10.16511/j.cnki.qhdxxb.2024.26.039'
 paperurl: 'https://link.cnki.net/doi/10.16511/j.cnki.qhdxxb.2024.26.039'
-citation: '汤宏伟, 耿昕钰, 陈宏拓, 谭弘灿, 曾凡云, 林佳瑞* (2024). 基于Bentley的路基支挡智能化设计方法. <i>清华大学学报(自然科学版)</i>, xx(x), xx-xx. doi: 10.16511/j.cnki.qhdxxb.2024.26.039 (在线发表)'
+citation: '汤宏伟, 耿昕钰, 陈宏拓, 谭弘灿, 曾凡云, 林佳瑞* (2024). 基于Bentley的路基支挡智能化设计方法. <i>清华大学学报(自然科学版)</i>, 64(9), 1627-1636. doi: 10.16511/j.cnki.qhdxxb.2024.26.039'
 
 comment: true
 category: journal

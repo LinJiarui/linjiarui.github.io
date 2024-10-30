@@ -34,6 +34,7 @@ redirect_from:
 
 ## Honors&Awards
 ### Research
+* Mar, 2024, Second Prize of the 2023 China Construction Science and Technology Award (rank 3/12)
 * Sept, 2023, Winner in the Category of Professional Research of 2023 buildingSMART openBIM Awards
 * Jan, 2022, First Prize of the 2021 Science and Technology Award of the China Graphics Society (rank 5/14)
 * May, 2021, Second Prize of the 2021 Science and Technology Award of Shanghai Society of Civil Engineering (rank 2/9)
@@ -51,6 +52,7 @@ redirect_from:
 * Nov, 2014, Best Presentation of Tsinghua University Doctoral Academic Forum
 
 ### Teaching
+* Aug, 2024, Sponsorship for Young Outstanding Teacher in CAD/CG of China Graphics Society (5 in total)
 * Apr, 2023, Great Mentor and Beneficial Friend selected by the graduate students in Tsinghua (47 in total)
 * Dec, 2022, Outstanding Instructor for Social Practice of Graduate Students in Beijing
 * Oct, 2022, Excellent Instructor for Social Practice of Tsinghua (20 in total)
