@@ -9,7 +9,7 @@ date: 2025-01-18
 venue: 'Automation in Construction'
 doi: '10.1016/j.autcon.2025.105963'
 paperurl: 'http://doi.org/10.1016/j.autcon.2025.105963'
-citation: 'Zhou, S., Lin, J.R.*, Pang, P., Pan, Y., Brilakis, I. (2025). Impact of Color and Mixing Proportion of Synthetic Point Clouds on Semantic Segmentation. <i>Automation in Construction</i>, 171, 105963. doi: 10.1016/j.autcon.2025.105963'
+citation: 'Zhou, S., Lin, J.R.*, Pan, P., Pan, Y., Brilakis, I. (2025). Impact of Color and Mixing Proportion of Synthetic Point Clouds on Semantic Segmentation. <i>Automation in Construction</i>, 171, 105963. doi: 10.1016/j.autcon.2025.105963'
 
 comment: true
 category: journal

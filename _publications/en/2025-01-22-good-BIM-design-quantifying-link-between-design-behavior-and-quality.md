@@ -9,7 +9,7 @@ date: 2025-01-18
 venue: 'Automation in Construction'
 doi: '10.1016/j.autcon.2025.105992'
 paperurl: 'http://doi.org/10.1016/j.autcon.2025.105992'
-citation: 'Ni, X.R., Pang, P., Lin, J.R.* (2025). What Makes a Good BIM Design? Quantifying the Link between Design Behavior and Quality. <i>Automation in Construction</i>, 171, 105992. doi: 10.1016/j.autcon.2025.105992'
+citation: 'Ni, X.R., Pan, P., Lin, J.R.* (2025). What Makes a Good BIM Design? Quantifying the Link between Design Behavior and Quality. <i>Automation in Construction</i>, 171, 105992. doi: 10.1016/j.autcon.2025.105992'
 
 comment: true
 category: journal
