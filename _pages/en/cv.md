@@ -34,6 +34,7 @@ redirect_from:
 
 ## Honors&Awards
 ### Research
+* Dec, 2024, Grand Prize of 2024 Science and Technology Award of the Yellow River Conservancy Commission (rank 4/20)
 * Mar, 2024, Second Prize of the 2023 China Construction Science and Technology Award (rank 3/12)
 * Sept, 2023, Winner in the Category of Professional Research of 2023 buildingSMART openBIM Awards
 * Jan, 2022, First Prize of the 2021 Science and Technology Award of the China Graphics Society (rank 5/14)
@@ -52,6 +53,8 @@ redirect_from:
 * Nov, 2014, Best Presentation of Tsinghua University Doctoral Academic Forum
 
 ### Teaching
+* Dec, 2024, Second Prize for the Teaching Award of the Guangdong Society of Education (rank 2/3)
+* Dec, 2024, The Liubing Award of Tsinghua University
 * Aug, 2024, Sponsorship for Young Outstanding Teacher in CAD/CG of China Graphics Society (5 in total)
 * Apr, 2023, Great Mentor and Beneficial Friend selected by the graduate students in Tsinghua (47 in total)
 * Dec, 2022, Outstanding Instructor for Social Practice of Graduate Students in Beijing
@@ -152,13 +155,13 @@ redirect_from:
 ## Service and Leadership
 * Nov, 2023-Now: Editorial Board Member of [_Journal of Graphics_](http://www.txxb.com.cn/CN/2095-302X/home.shtml)
 * Jan, 2023-Now: Editorial Board Member of [_Buildings_](https://www.mdpi.com/journal/buildings)
-* July, 2021-Now: Academic Editor of _Advances in Civil Engineering_
-* July, 2023-Now: Member of Committee of Rural Community and Public Facilities, China Association for Engineering Construction Standardization (CECS)
-* July, 2021-Now: General Secretary of Professional Committee for Building Information Modeling, China Graphics Society
-* July, 2021-Now: Council Member of China Graphics Society
-* July, 2021-Now: Member of Working Committee for Youth Development, China Graphics Society
-* August, 2019-Now: Special Expert of building information modeling center of Beijing City Planning Society
-* November, 2016-Now: Member of Professional Committee for Building Information Modeling, China Graphics Society
+* Jun, 2021-Now: Academic Editor of _Advances in Civil Engineering_
+* Jul, 2023-Now: Member of Committee of Rural Community and Public Facilities, China Association for Engineering Construction Standardization (CECS)
+* Jul, 2021-Now: General Secretary of Professional Committee for Building Information Modeling, China Graphics Society
+* Jul, 2021-Now: Council Member of China Graphics Society
+* Jul, 2021-Now: Member of Working Committee for Youth Development, China Graphics Society
+* Aug, 2019-Now: Special Expert of building information modeling center of Beijing City Planning Society
+* Nov, 2016-Now: Member of Professional Committee for Building Information Modeling, China Graphics Society
 ### Guest Editors
 * Topic Editor of "3D Computer Vision and Building Information Modeling" (2022-2024), _Drones_, _Sensors_, _Sustainability_, _Buildings_, _Energies_
 * Lead Guest Editor of "Smart Sensing in Building and Construction" (2021), _Sensors_
