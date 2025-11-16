@@ -9,7 +9,7 @@ date: 2025-09-11
 venue: 'Computer-Aided Civil and Infrastructure Engineering'
 doi: '10.1111/mice.70073'
 paperurl: 'http://doi.org/10.1111/mice.70073'
-citation: 'Han, J., Lu, X.Z., Lin, J.R.* (2025). Pretrained Graph Neural Network for Embedding Semantic, Spatial, and Topological Data in Building Information Models. <i>Computer-Aided Civil and Infrastructure Engineering</i>, 1-25. doi: 10.1111/mice.70073'
+citation: 'Han, J., Lu, X.Z., Lin, J.R.* (2025). Pretrained Graph Neural Network for Embedding Semantic, Spatial, and Topological Data in Building Information Models. <i>Computer-Aided Civil and Infrastructure Engineering</i>, 40(26), 4607-4631. doi: 10.1111/mice.70073'
 
 comment: true
 category: journal

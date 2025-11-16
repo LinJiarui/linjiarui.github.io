@@ -9,7 +9,7 @@ date: 2025-10-15
 venue: 'Engineering Applications of Artificial Intelligence'
 doi: '10.1016/j.engappai.2025.112823'
 paperurl: 'http://doi.org/10.1016/j.engappai.2025.112823'
-citation: 'Zheng, Z., Han, J., Chen, K.Y., Cao, X.Y., Lu, X.Z., Lin, J.R.* (2025). Translating Regulatory Clauses into Executable Codes for Building Design Checking via Large Language Model Driven Function Matching and Composing. <i>Engineering Applications of Artificial Intelligence</i>, 162, 112823. doi: 10.1016/j.engappai.2025.112823'
+citation: 'Zheng, Z., Han, J., Chen, K.Y., Cao, X.Y., Lu, X.Z., Lin, J.R.* (2026). Translating Regulatory Clauses into Executable Codes for Building Design Checking via Large Language Model Driven Function Matching and Composing. <i>Engineering Applications of Artificial Intelligence</i>, 163, 112823. doi: 10.1016/j.engappai.2025.112823'
 
 comment: true
 category: journal
