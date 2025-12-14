@@ -27,8 +27,8 @@ See more info at https://academicpages.github.io/
 ## To run locally based on WSL (JR Lin)
 
 1. Install Ubuntu
-2. Install jekyll, ref to: https://jekyllrb.com/docs/installation/windows/
-3. Run `sudo apt-get install libpng-dev` and `sudo apt-get install --reinstall zlibc zlib1g zlib1g-dev` if encounter errors at step 2 or exec cmd `bundle install`
+2. Install jekyll, ref [here](https://jekyllrb.com/docs/installation/windows/)
+3. Run `sudo apt-get install libpng-dev` and `sudo apt-get install --reinstall zlibc zlib1g zlib1g-dev` if encounter errors at step 2 or exec cmd `bundle install
 4. Clone the repository, and run `bundle install` or `bundle clean` if needed
 5. Run `bundle exec jekyll serve`
 6. Add `gem “faraday”, “< 1.0”` if needed
@@ -37,6 +37,28 @@ See more info at https://academicpages.github.io/
 7.2 cd /mnt/d/Documents/dev/linjiarui.github.io
 7.3 sudo bundle exec jekyll build
 
+
+## To run locally based on WSL (JR Lin Dec, 2025)
+
+1. Install Ubuntu 22
+2. install ruby via rbenv
+2.1 install rbenv with ` sudo apt install rbenv`
+2.2 Install System Dependencies: exec the following cmds to update and install required packages
+sudo apt update
+sudo apt install git curl libssl-dev libreadline-dev zlib1g-dev libffi-dev libyaml-dev build-essential
+2.3 Clone the repositories
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+2.4 Add rbenv to your shell's PATH and initialize it:
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+source ~/.bashrc
+2.5 Verify rbenv is set up via `type rbenv` and list available ruby versions via `rbenv install -l`
+install ruby-2.7.5 via `rbenv install 2.7.5`, then you need exec `rbenv global 2.7.5` and restart the cmd interface
+2.6 related gem and bundle will installed together, or you can change the version of gem or bundle via `gem install gem_name -v 1.1.0` (replace gem_name and 1.1.0 with your desired values)
+3. switch to the path via `cd /your/path/here` and exec `bundle intall`
+4. exec `sh build_site.sh` to build the site or exec `bundle exec jekyll serve` for testing
+
 ## Tips (JR Lin)
 1. Do not use `'` in front matter, it causes strange issues.
 2. Add new collections: a) add collection name and global config in _config.yml, b) add new collection in navigation.yml if needed, for multilingual support purpose, c) add collection name, permalink, etc. of each item in the collection, d) check layout, include template if needed.
@@ -44,6 +66,7 @@ See more info at https://academicpages.github.io/
 4. always remember to add a white space after character `:` 
 5. use .htaccess to redirect url if apache is used, and creating different .htaccess files for subfolders is recommended
 6. use Miro video converter to generate videos for iphone and other mobile devices
+
 
 # Changelog -- bugfixes and enhancements
 
