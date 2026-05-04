@@ -35,6 +35,8 @@ grants:
 
 Building Information Modeling (BIM) has revolutionized the construction industry by providing a comprehensive digital representation of building structures throughout their lifecycle. However, existing research lacks effective methods for capturing the complex spatial and topological relationships between components in BIM models, which are essential for understanding design patterns and enhancing decision-making. This study proposes a unified network-based representation method that integrates the "semantic-spatial-topological" multidimensional design features of BIM models. By extending the IFC (Industry Foundation Classes) standard, we introduce local spatial relationships and topological connections between components to enrich the network structure. This representation method enables a more detailed understanding of component interactions, dependencies, and implicit design patterns, effectively capturing the semantic, topological, and spatial relationships in BIM, and holds significant potential for the representation and learning of design patterns.
 
+You could find watch the online presentation [here](https://www.youtube.com/watch?v=N1OH62XSPYA).
+
 ![graphical abstract](/images/2025-07-28-unified-network-representation-of-BIM-for-embedding-SST-data-ga.jpg)
 
 [{{site.data.ui-text[page.lang].download_paper}}]({{page.paperurl}})

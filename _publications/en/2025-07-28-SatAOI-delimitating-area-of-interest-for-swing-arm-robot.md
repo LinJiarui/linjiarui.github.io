@@ -32,6 +32,8 @@ grants:
 
 In concrete troweling for building construction, robots can significantly reduce workload and improve automation level. However, as a primary task of coverage path planning (CPP) for troweling, delimitating area of interest (AOI) in complex scenes is still challenging, especially for swing-arm robots with more complex working modes. Thus, this research proposes an algorithm to delimitate AOI for swing-arm troweling robot (SatAOI algorithm). By analyzing characteristics of the robot and obstacle maps, mathematical models and collision principles are established. On this basis, SatAOI algorithm achieves AOI delimitation by global search and collision detection. Experiments on different obstacle maps indicate that AOI can be effectively delimitated in scenes under different complexity, and the algorithm can fully consider the connectivity of obstacle maps. This research serves as a foundation for CPP algorithm and full process simulation of swing-arm troweling robots.
 
+You could find watch the online presentation [here](https://www.youtube.com/watch?v=K2HsuZSfdwA).
+
 ![graphical abstract](/images/2025-07-28-SatAOI-delimitating-area-of-interest-for-swing-arm-robot-ga.jpg)
 
 [{{site.data.ui-text[page.lang].download_paper}}]({{page.paperurl}})

@@ -9,7 +9,7 @@ date: 2025-03-18
 venue: 'Buildings'
 doi: '10.3390/buildings15060959'
 paperurl: 'http://doi.org/10.3390/buildings15060959'
-citation: 'Deng, H., Fu, K., Yu B., Li, H., Duan, R., Deng, Y.*, Lin, J.R. (2025). Enabling High-Level Worker-Centric Semantic Understanding of Onsite Images Using Visual Language Models with Attention Mechanism and Beam Search Strategy. <i>Buildings</i>, 15(6), 959. doi: 10.3390/buildings15060959'
+citation: 'Deng, H., Fu, K., Yu, B., Li, H., Duan, R., Deng, Y.*, Lin, J.R. (2025). Enabling High-Level Worker-Centric Semantic Understanding of Onsite Images Using Visual Language Models with Attention Mechanism and Beam Search Strategy. <i>Buildings</i>, 15(6), 959. doi: 10.3390/buildings15060959'
 
 comment: true
 category: journal
